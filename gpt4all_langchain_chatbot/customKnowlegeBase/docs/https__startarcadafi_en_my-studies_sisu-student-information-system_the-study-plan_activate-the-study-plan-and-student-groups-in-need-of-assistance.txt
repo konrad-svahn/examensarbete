@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Activate the study plan and student groups in need of assistance | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Activate the study plan and student groups in need of assistance
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+This site contains short instructions on how to activate Sisu. Start by logging in to sisu.arcada.fi with your @arcada.fi logins. Once logged in, you are to check your personal information and then activate your study plan. Note the groups of students that are most probably in need of further assistance.
+
+Check your personal information
+Check that all your personal information is correct in Sisu. If your current telephone number or address is missing or incorrect you have to go and correct them in Arcada's current student information system Asta. We will then migrate the correct information rom Asta to Sisu. Update your contact information here. You are not to do any contact information alterations in Sisu before March 2023.
+You are to have your @arcada.fi e-mail address as your "Email" and your private e-mail address as "Secondary email" (see screenshot below).
+
+ 
+
+
+
+
+
+
+
+Activate your study plan
+
+Log in to sisu.arcada.fi External link (language can be set in top right corner; we recommend English or Swedish, not Finnish)
+Click Structure of studies in the top left corner
+You will either see:
+
+immediately a pop-up window where you are to Select Education and Curriculum Period as well as give your study plan a name (Sisu also generates a name automatically)
+or then you will have to click Create new study plan / New study plan to generate the above-mentioned pop-up window.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+In the pop-up window: check that you have activated the tab My educations. If you have multiple study rights at Arcada you will have a drop-down list in Select Education. If you have only one study right at Arcada you can only select it (or it will already be activated for you).
+Choosing Curriculum Period is an important choice. If you started your studies at Arcada in Aug 2023 you will only have the option of 2023-2024 in the drop-down list. But if you started your studies at Arcada in August 2021 you can choose from the following Curriculum Periods: 2021-2022, 2022-2023 or 2023-2024. Note that there are differences in the study plans depending on which Curriculum Period you choose! Read these instructions and examples to be able to choose the best curriculum period for you:
+
+You started your studies Aug 2021 and completed courses during the academic year 2021-2022 = choose Curriculum Period 2021-2022!
+You technically started your studies Aug 2021, but were registered as absent the whole first academic year 2021-2022 = choose Curriculum Period 2022-2023!
+You started your studies Aug 2021, but you had completed similar studies at another University before you started at Arcada, and got several courses accredited during your first academic year = you should choose Curriculum Period 2021-2022, but you might also notice later on when editing your study plan that you need assistance with these accredited studies. Scroll down for more information about student groups in need of assistance.
+
+
+You can give the study plan a name. Sisu automatically generates the name "My study plan today's date". If you create several study plans try to give descriptive names to the different study plans.
+Lastly, click Create a plan in the pop-up window's lower right corner (or Cancel to not create a study plan. Now your newly created study plan is opened under Structure of studies and is ready to be edited by you.
+Make all selections needed. Click on every "line" in the study plan where there is the text "Selections missing" on the right, all the way to the bottom of the page. Activate all course units that haven't been activated in accordance with the rules of the study plan's structure.
+
+Here is a short video  External linkfor the steps 1-8 (no sound, in English)
+
+
+Once you have made all selections you might notice that some of your completed courses are missing from the study plan. In this case you are to:
+
+
+Check & memorize your completed studies visible in the current student information system asta.arcada.fi External link by clicking on the drop-down menus in the top left corner: Student registry / Credits / View credits and look up your "Total sum of registered credits": how many registered credits have you completed according to Asta? You can also check your completed credits in the Tuudo app.
+
+ 
+
+
+
+
+
+
+
+
+Once you remember the total sum of credits in Asta: how many completed credits has Sisu "found" in your study plan's top right corner? See the screenshot below to see where the total number of credits visible in Sisu can be found.
+Lastly: Is the total sum of credits in Asta higher than the total number of completed credits in your study plan in Sisu? Does Sisu not show all your completed courses? You will have to follow the instructions below under "Adding missing courses to your study plan".
+
+
+
+
+ 
+
+
+
+
+
+
+
+Adding missing courses to the study plan
+This task/function is the most important that you have in November - December 2023 when you are activating your study plan in Sisu for the first time.
+Once you have your study plan in Sisu, and you have done all selections; this is your next task if your study plan in Sisu does not show all your completed credits. All the studies you have completed may not automatically be displayed in your study plan in Sisu, and may have to be added manually.
+Method 1: Substitution
+This method works especially well for Bachelor's students who have chose the Curriculum Period 2020-2021 or 2021-2022. During these years Arcada changed the course codes for several courses.
+If you have completed a course, but you need to substitute the course with a previously completed one (e.g., a course completed under a different code, in accordance with the previous degree requirements, or a course at the Open UAS), you have to select it as a substituting study unit/course. Go through every course in your plan to find possible substitutions! It's demanding but very rewarding! See a short instruction video here External link. 
+Method 2: Add to the plan
+This method works especially well for Development studies or Extension studies for students in Bachelor's degree programmes.
+Under the blue bar Add to the plan on the left-hand side of the Structure of studies page (once you have activated your study plan). Here you can find all the completed study units that are not automatically included in your study plan. By clicking the arrow next to the course name, Sisu will show you where in your plan you could place the study unit. Similarly, if you happen to delete a study unit from your study plan, you can then find it among the courses listed under the Add to the plan bar. See a short instruction video here External link (video has no sound).
+Method 3: Free edit mode
+This method works especially well for Master's degree students' Elective studies. See a short instruction video here External link (video has no sound).
+Student groups that might need further assistance
+Here is a list of student groups that might need some further assistance when activating their study plan in Sisu. This list can be altered and more groups can be added to it later.
+Start by reading the instructions for how to choose the right Curriculum Period for you under Activate your study plan, point 5.
+If you have started your studies at Arcada UAS before Aug 2020, you are usually to choose the 2020-2021 Curriculum Period when activating your study plan, except if:
+
+you have started studies within Mechanical and Sustainable Engineering in Aug 2019 or earlier: you can choose the Curriculum period 2020-2021 when creating your study plan
+you have started studies within Materials Processing Technology in Aug 2019 or earlier: you are to choose the Curriculum period 2019-2020 when creating your study plan
+you have started studies within Nursing in Aug 2019 or earlier: please send an e-mail to E-mail: sisu@arcada.fi immediately and we'll assist you
+you completed Open UAS Path studies during the academic year 2020-2021 and then got admitted to the actual degree programme in Aug 2021: please send an e-mail to E-mail: sisu@arcada.fi immediately and we'll assist you
+you had completed the first year of studies at another UAS in Finland before transferring to Arcada UAS or have received over 30 credits worth of accreditations: please send an e-mail to E-mail: sisu@arcada.fi immediately and we'll assist you
+the Swedish degree programmes' student groups who need assistance are listed on this same page: switch to Swedish or click here
+
+If you're planning on graduating by 1 February 2024 and have no more courses to enroll to in period 3: you do not have to activate your study plan in Sisu.
+Students who have studied at Arcada previously
+Students who have completed studies within another degree programme at Arcada before they started their current studies will have a long list of courses in the blue section called "Add to the plan". Note that you will also have a long list of completed studies under "Add to the plan" if you are a master's level student who has previously completed a bachelor's degree at Arcada!
+You will need to be careful that you do not add the wrong courses to your current study right's study plan. We at E-mail: sisu@arcada.fi can help you after you have activated your study plan and added all your Development studies or Extension studies (see Adding missing courses to the study plan). You will know which studies are your Development studies or Extension studies by studying your credits in Asta under Study plan / My study plan / Show my study plan.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

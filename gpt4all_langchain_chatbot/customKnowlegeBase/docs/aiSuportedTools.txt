@@ -1,0 +1,38 @@
+Arcada aims to be at the forefront of new technologies and smart solutions. In line with this, we encourage all our employees and students to responsibly adopt and use AI-supported tools. Our guidelines cover different types of AI-enabled tools and the term should be interpreted in a broad sense (e.g. image, video, programming, maths and text tools). All of these tools provide opportunities, but also have significant limitations. With the support of these guidelines, Arcada should be able to live up to an ethical and thoughtful use of AI-supported tools in all activities. The guidelines are adapted as the tools develop.
+
+The basis for Arcada’s guidelines is the Rector's Council ARENE's Recommendations for the utilisation of artificial intelligence. External link
+
+General guidelines
+
+Basic principles for the use of all AI-supported tools are:
+
+    honesty and transparency
+    human-AI-human
+    compliance with data protection regulations
+    making an ethical judgement
+
+Note that if you create a user profile with your Arcada account, it may only be used for studies and work related to Arcada.
+Respecting copyright
+
+When using the tools, only use material for which you hold the copyright. For example, do not upload an entire article or other material that you have not produced yourself.
+Respecting data protection and confidentiality
+
+    Material that is confidential and/or contains personal data must never be entered into AI-supported tools. For example, a text with confidential content or containing personal data should never be translated using free services.
+    Free versions of AI-enabled tools cannot guarantee adequate data protection.
+    Always use the incognito setting when available. This will not save your questions or data.
+
+Guidelines for students
+Always follow the instructions given for the specific study section.
+
+    There are study sections where the use of AI-supported tools is encouraged and others where you are expected to perform tasks without them. Follow the instructions given carefully.
+    When utilising AI-enabled tools, be open about it. Source references to AI should always be included when using them. Failure to cite your source may be considered plagiarism or cheating. Follow the instructions in the Arcada Writing Guide.
+    Responsible use of AI-supported tools is allowed when it is stated in the task description.
+    Language models can be used for language processing. Get to know language models such as Chat GPT and familiarise yourself with their effective use. Understand also the limitations of the tool.
+    Be curious about other AI-supported tools that are central to your industry. Each model has its own purpose.
+
+You are always responsible for the content you submit.
+
+    When working with text tasks, AI-supported tools (e.g. Grammarly) are a good support for creating grammatically correct or structurally smooth texts.
+    Note that one challenge with AI-supported tools is that they can produce text that appears correct, but contains inaccuracies or even inconsistencies.
+    An AI-supported tool, such as a language model like Chat GPT, can be used to format existing text or to retrieve ideas for self-written text.
+    An AI-supported tool, such as a language model, should never be used to produce a final assignment or thesis report from scratch, and such text created with a language model must not be presented as your own work.

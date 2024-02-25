@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course registration and study calendar | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Course registration and study calendar 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Instructions for the study calendar and course registration in Sisu.
+
+You always need to add the course to your study plan before registering for teaching, your registration won't be accepted otherwise.
+Registration via timeline and study plan
+This method suits you who have followed the ordinary study plan and those of you who are in your first or second year. This method shows you clearly what study units you have to complete next, i.e. it is easier for you to register when you know what study units you have to complete next.
+Watch these two videos in the right order; first part 1 External link and then part 2 External link . In the second video you will also see how the study calendar works, i.e. you will see the schedule for the teaching.
+Instructions for registration via timeline and study calendar
+Below is described how you activate your timeline and how it shows you what study units to complete next.
+
+Start with checking that you have the correct study plan. Click on Structure of studies in the corner up to the left to see if you have the correct study plan, i.e. that the study plan has the right year and that it is your primary plan.
+Check your study plan to see what study units you have to complete. Then click on Timeline in the bar on the top of the site.
+When you see your timeline, check again that you have the correct study plan, i.e. that the study plan has the right year and that it is your primary plan. Then click on Timing template in the blue bar on the left to see what study units you need to complete.
+Now you see a grey menu on the left. Choose the right degree program in the drop-down menu and then click on Use template and then close the menu.
+On the timeline you can see in what periods the study units are. Click on the small blue course code of a course that is listed in the column of the coming teaching period. Example: you are trying to register for courses in period 3 during the academic year 2023-2024, look for the column with Spring 2024 and 3.
+In the pop-up window for the course: Check again that you have the right academic year, i.e. the ongoing academic year, in the drop-down menu in the corner up to the left (if you are in your second, third or fourth year of studies, follow now these instructions!). Then under Completion method choose the one that suits you best and the click on Select on the right. In case a study unit has many completion methods that could suit you, choose all of them to compare the schedules.
+Now you see a blue bar on the top of the site. You can go straight to the registration by clicking on its link, but it is recommended that you first choose all study units that you have to complete during the next period.
+Close the blue bar by clicking on the cross in the corner up to the right. Then close the information about the study unit by clicking on the cross in the corner up to the right.
+Choose all study units that you have to complete in the next teaching period 3 the same way as described above.
+When you have chosen all study units that you have to complete in the next period, click on Registration in the gray bar on the top of the site.
+Now you see your degree program in the drop-down menu on the left. Skip the first section; scroll down.
+When you scroll down you see the list of study units that you chose from the timeline on the left. Click on Register. If you want to see the schedule for the study unit, scroll back to the top of the site and then click on Study calendar in the gray bar on the top of the site.
+Now you see your study calendar. Click on the arrows on the left/right of the date in the middle of the page in order to see the correct week. To the right you see a gray menu in which you can use filters to see different study units. Activate at least the filter Waiting for registration.
+Note that the study units are coded with different colors. Click on the small arrow for every study unit in order to see more information about the study unit. Click on the arrows n the left/right of the date above the study calendar in order to see when the teaching takes place. Click on Register in the menu on the right of the study calendar if the schedule of the study unit suits you. Now you see a pop-up window with more information about the study unit.
+In the pop-up window, read the minimum requirements that are used for ranking of participants in case there are too many registered students. Check also that you have the right degree program in the drop-down menu under Study rights up to the left.
+Some of the study units have different alternatives under Select teaching groups. If needed, select the alternative that suits you. Here you can also see schedule, place and teachers. Click on Confirm down in the right corner.
+Now you see the study calendar and the gray menu on the right. In order to close the information, click on the small arrow. With the different filters you can check what you are registered to and how many study units still are waiting for registration.
+Do in the same way described above in order to register to all study units you have to complete in period 3.
+If a study unit/course has several teaching groups, choose the one that suits you the best.
+When you are registered to all study units you still need to wait for the teacher to confirm your registration.
+
+Registration via Study plan
+This method suits you who have an individual study plan or you who only have a few study units to complete, i.e. students in year 3-4 and Master students. This method is faster but you need to know exactly what courses/study units are offered in the next period and you need to know what study units to register to. Students in year 1-2 are allowed to use this method, but this method does not tell you exactly what courses you need to enroll to next.
+Here you can see a video  External linkfor how to register with this method.
+Instructions for registration via study plan
+Preparations in the study plan
+To be able to register for courses you need to have selected the course unit in your study plan. See instructions for the study plan here if you haven't created a study plan in Sisu yet.
+Begin by opening the study plan in Sisu, and click on the code for the course unit you want to register to.
+
+ 
+
+
+
+
+
+
+
+Go to the Completion methods tab. Make sure that the completion method is selected by checking that it says selected below in green (note that if you are in year 2-4 ocf your studies you are probably going to have to switch version of the completion method - see instructions here) If not, click on the button saying "Select this method". After that you should click the blue button saying "Select" on the same row as the teaching you want to register for. Please note that you have not yet enrolled for the teaching, that is done in the next steps in the study calendar.
+If there is no blue link under Teaching it means there is no teaching offered for this course during this academic year.
+
+ 
+
+
+
+
+
+
+
+In the future you can do these preparatory steps whenever you find teaching for the courses in Sisu. This means you can choose the completion method and the teaching before the enrolment opens.
+It is good to check the target groups of the teaching before registering. You can find the information by clicking on the blue link with the dates of the teaching in the pop-up window for the course, on the Completion methods tab. The link will take you further down in the pop-up window.
+
+ 
+
+
+
+
+
+
+
+There you can find information about the language of instruction, the study methods, and the responsible teacher.
+The dates for the registration period as well as the basic criteria for being selected to the teaching can be found under the Registration tab.
+
+ 
+
+
+
+
+
+
+
+How to see your schedule in Sisu
+To see the combined schedule for all courses that you have registered for, go to Study calendar  External linkin Sisu. You will need to use the filtering function on the right: see to it to have activated both Registered and Confirmed registrations. By activating both, you will be able to see the schedules for all courses you have enrolled to, even if the teacher has not yet confirmed you participation.
+
+ 
+
+
+
+
+
+
+
+How to cancel your participation in a course
+You can cancel your registration while the registration period is still ongoing and the course has not begun. Click 'Cancel' next to the course on the Registration External link-page.
+If the registration period has ended, you can no longer cancel your registration (unless the course in question has an extended cancellation period). The only way to leave the course is to drop it, or in other words, discontinue your participation in it = withdraw your registration. If the registration time has ended but the implementation has not yet started, you should wait until the implementation begins for you to discontinue your participation. If necessary, you can contact the teacher of the course and ask them to mark you as discontinued.
+
+ 
+
+
+
+
+
+
+
+Withdrawing your registration or dropping a course:
+
+Open the Registration page External link and find the course you want to discontinue in the section Registration processed.
+Click on the button ‘Withdraw from this course’.
+
+Sisu will open a notification to remind you that you will not be able to re-register for the course if you drop it.
+
+
+Confirm your decision to drop the course. Sisu moves the course to the ‘Finished and discontinued’ tab of your study calendar. You can now delete it from your calendar.
+
+Note: if you discontinue your participation in a course on Sisu, your status in the Itslearning workspace of the course also changes to ‘inactive’.
+
+
+
+
+ 
+
+
+
+
+
+
+
+How to change version of completion method
+Always choose the current ongoing academic year's version and then click ”Switch to this version”. In these pictures the ongoing academic year is 2023-2024, but if you are reading this in March 2025 then the ongoing academic year is 2024-2025.
+
+ 
+
+
+
+
+
+
+
+Then click “Select this completion method”.
+
+ 
+
+
+
+
+
+
+
+Result: now you can “Select” the completion method for the ongoing academic year's version on the right side!
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arcada Sisu Support
+Name: Siri Ahlroth, Sabina Eerola, Krister Karlström 
+Position: Student Affairs
+
+ E-mail: sisu@arcada.fi
+
+
+
+ 
+
+
+
+
+
+
+
+
+We assist you with:
+
+Your study plan in Sisu
+Instructions for using Sisu
+Technical issues
+
+Please note that all emails will be answered, but the processing time can be long.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

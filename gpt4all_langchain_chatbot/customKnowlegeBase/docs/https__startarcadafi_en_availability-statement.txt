@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome, this is an accessibility statement from Arcada University of Applied Sciences | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Welcome, this is an accessibility statement from Arcada University of Applied Sciences
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+This accessibility statement applies to the service start.arcada.fi and has been prepared / updated on 01.09.2021. The service is covered by the law on the provision of digital services and its requirement that public websites must be accessible.
+
+This page has been through an accessability audit. We are currently working on the deficiencies mentioned in the report. The development work is expected to be done by 2022.
+
+ 
+Accessibility report - start.arcada
+
+
+Availability status of the digital service
+Partially meets the accessibility requirements
+3. The website does not yet meet all the requirements.
+Possible to perceive: Content is only available in image format.
+Content that is not available and its shortcomings: Individual images and flowcharts lack alternative text.
+Availability requirements not met
+
+1.1.1 Non-textual content
+
+Possible to perceive: Video material
+Content that is not available and its shortcomings: Third-party videos lack audio tracks and are only available in one language.
+ 
+Availability requirements not met
+
+1.2.1 Audio and video only (pre-recorded)
+
+Did you discover deficiencies in our digital service? Describe it to us and we will do our best to fix it
+By e-mail
+E-mail: communications@arcada.fi
+The supervisory authority
+Contact us if you want to point out shortcomings in the accessibility of our website. It may take up to 14 days for you to receive a reply. If you are not satisfied with the answer you have received or do not receive an answer at all within two weeks, you can submit a report of lack of availability to the Regional State Administrative Agency in Southern Finland External link. The Regional State Administrative Agency's website describes how you can submit a report and how the case is handled.
+The supervisory authority's contact details
+The Regional State Administrative Agency in Southern Finland
+The accessibility monitoring unit
+www.saavutettavuusvaatimukset.fi External link
+E-mail: webbtillganglighet@rfv.fi
+telephone number switchboard 0295 016 000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
