@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filesender for sending big files | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Filesender for sending big files
+
+
+
+ 
+
+
+
+
+
+
+
+
+Sometimes you have large files that you want to send or receive and you are unable to do so via email or itslearning. On Funet you log in with your Arcada account. Follow these instructions:
+Log in to Funet filesender
+
+Go to https://filesender.funet.fi/ External link
+Click on haka
+Then choose Arcada from the list
+If you are not logged in on Luckan then you have to enter your Arcada username and password. NB! The first time you use this service you have to confirm the transfer of certain information to Funet.
+
+Send a file
+
+Once you are inside, fill in the form. E-mail address (or addresses) of those who will have the file. A short message. Expiration date (when it is not more possible to get hold of the file). The actual file from your computer.
+Recipients receive a link to their e-mail from which they can download the file. They can do it before the expiry date.
+
+Receive a file
+You can also let someone (who does not have access to the Haka login) to upload a file that you can download.
+
+Click on the button ”Guest Voucher” (at the top of the page)
+Enter the e-mail address of the person who will get permission to upload a file.
+Enter the expiration date (the person receiving permission needs to upload a file before this date)
+The person will then receive a link that redirects to a page where the person can upload a file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

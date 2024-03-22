@@ -6,7 +6,7 @@ from langchain.prompts import PromptTemplate
 from langchain_community.llms import GPT4All
 
 embeddings = GPT4AllEmbeddings()
-db = FAISS.load_local("./customKnowlegeBase/knowlegebase", embeddings)
+db = FAISS.load_local("./customKnowlegeBase/knowlegebase", embeddings, allow_dangerous_deserialization = True)
 
 question = input("Enter your question: ")
 docs = db.similarity_search(question)
@@ -19,7 +19,7 @@ Please use the following context to answer questions.
 Context: {context}
 ---
 Question: {question}
-Answer: Let's think step by step."""
+Answer: """
 
 prompt = PromptTemplate(template=template, input_variables=["context", "question"]).partial(context=context)
 
@@ -27,4 +27,4 @@ callbacks = [StreamingStdOutCallbackHandler()]
 local_path = './models/mistral-7b-openorca.Q4_0.gguf'
 llm = GPT4All(model=local_path, callbacks=callbacks, verbose=True)
 llm_chain = LLMChain(prompt=prompt, llm=llm)
-llm_chain.run(question)
+llm_chain.run(question)#"""

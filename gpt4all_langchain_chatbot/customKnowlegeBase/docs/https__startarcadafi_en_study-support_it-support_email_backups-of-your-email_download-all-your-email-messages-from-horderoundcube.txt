@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download all your email messages from Horde/Roundcube | Start
+
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Download all your email messages from Horde/Roundcube
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+When you quit Arcada, you might want to keep all your email messages.
+
+Below we provide instructions for backing up email messages from the old Arcada webmail system (Horde / Roundcube External link).
+
+Start by installing Thunderbird External link
+Configure the Arcada email account in Thunderbird.
+
+
+
+Remote video URL
+
+
+
+
+
+
+You have not yet given permission to place the required cookies. Accept the required cookies to view this content.
+
+
+
+
+
+
+
+
+There are two ways of preserving the messages: Option A & B
+Option A: Thunderbird Offline-mode
+If you are already using Thunderbird for email accounts other than Arcada, use instead option B.
+
+Press ALT + F, and the menu appears.
+Choose Offline -> Work Offline.
+
+Before Offline-mode starts, Thunderbird will download all messages locally.
+Continue using Thunderbird in Offline-mode indefinitely.
+Option B: Copy messages to Local Folders in Thunderbird
+
+Create an "old-inbox" folder under Local Folders.
+Copy all email from your inbox to the old-inbox folder.
+Drag all Arcada email folders under Local Folders in Thunderbird.
+
+
+
+Remote video URL
+
+
+
+
+
+
+You have not yet given permission to place the required cookies. Accept the required cookies to view this content.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

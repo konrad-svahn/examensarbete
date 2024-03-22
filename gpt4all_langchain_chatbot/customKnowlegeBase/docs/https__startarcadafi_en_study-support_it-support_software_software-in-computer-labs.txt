@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software in computer labs | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Software in computer labs
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Most computers are located in block E and F on the 3rd floor.
+
+The computer labs are only for students and staff, not the general public. You can use the facilities when they are not reserved for classes.
+
+Software in Arcada's computer labs
+Search in this list, if you need to find special software.
+A303 - Media Culture
+Restricted use. Mainly for Media students.
+
+Adobe CC (Adobe Acrobat Reader, Adobe After effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Character Animator, Adobe Creative Cloud, Adobe Dimension, Adobe Dreamweaver, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Lightroom Classic, Adobe Media Encoder, Adobe Phtotoshop, Adobe Prelude, Adobe Premiere Pro, Adobe Premiere Rush, Adobe XD)
+Livecode community edition
+Node.js
+Visual Studio Code
+VMware player
+
+B323 - Language Lab
+Restricted use.
+
+ClaroRead Plus
+Dialang
+SanaVelho
+Special Language software
+SpellRight
+StavaRex
+VMware player
+
+D399 - Telelab
+Restricted use.
+
+Autocad
+Autodesk Meshmixer
+CCSM composite strenght modeller
+CCSM composite strenght modeller
+ClaroRead Plus
+Comsol
+IDA ICE
+ImageJ
+Makerbot Print
+Mollier Sketcher
+Multilab importer
+Scilab
+Solidworks
+SpellRight
+StavaRex
+
+E383
+
+Adobe CC (Adobe Acrobat Reader, Adobe After effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Character Animator, Adobe Creative Cloud, Adobe Dimension, Adobe Dreamweaver, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Lightroom Classic, Adobe Media Encoder, Adobe Phtotoshop, Adobe Prelude, Adobe Premiere Pro, Adobe Premiere Rush, Adobe XD)
+Anaconda
+Avidemux
+Autocad
+Autodesk Meshmixer
+CCSM composite strenght modeller
+ClaroRead Plus
+Docker Desktop
+FileMaker Pro
+FileZilla
+Git-scm
+IntelliJ IDEA
+LP Solve
+Microsoft Dynamics Navision 5
+Node.js
+Solidworks
+SpellRight
+StavaRex
+Unity Hub
+Visual Studio Code
+Vmware Player
+
+E384 - Mac lab
+
+Abobe CC (After Effects, Animate, Audition, Character Animator, Illustrator, Indesign, Lightroom, Muse, Photoshop, Premiere)
+iTunes, iPhoto, iWeb, Garageband, Mail, Preview
+Chrome
+Firefox
+FileZilla
+Microsoft Office Professional Plus 2019
+VLC media player
+Xcode
+
+E385
+
+Adobe CC (Adobe Acrobat Reader, Adobe After effects, Adobe Animate, Adobe Audition, Adobe Bridge, Adobe Character Animator, Adobe Creative Cloud, Adobe Dimension, Adobe Dreamweaver, Adobe Illustrator, Adobe InCopy, Adobe InDesign, Adobe Lightroom, Adobe Lightroom Classic, Adobe Media Encoder, Adobe Phtotoshop, Adobe Prelude, Adobe Premiere Pro, Adobe Premiere Rush, Adobe XD)
+Anaconda 3
+Avidemux
+CCSM composite strenght modeller
+ClaroRead Plus
+Docker Desktop
+FileMaker Pro
+FileZilla
+Git-scm
+IBM SPSS Statistics
+IntelliJ
+LP Solve
+Node.js
+Microsoft Dynamics Navision 5
+SpellRight
+StavaRex
+Unity Hub
+Visual Studio Code
+Vmware Player
+
+E387
+
+Anaconda 3
+Git-scm
+LP solve IDE
+Node.js x64
+Visual Studio Code
+
+F365
+
+Anaconda 3
+Avidemux
+CCSM composite strenght modeller
+Docker Desktop
+FileZilla
+Git-scm
+Housing Enabler Sv 2.0
+IntelliJ
+LP solve IDE
+Node.js x64
+Unity Hub
+Visual Studio Code
+VMware Player
+
+F369
+
+Anaconda 3
+ClaroRead Plus
+Git Install
+Node.js x64
+SpellRight
+StavaRex
+
+F363 - Special Lab
+Restricted use.
+F364 - Special Lab
+Restricted use.
+F368 - Big Data Analytics Lab
+Restricted use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filesender för filer över nätet | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Filesender för filer över nätet
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Ibland har man mycket stora filer som man vill skicka eller ta emot och som inte fungerar via e-post eller itslearning. Du kan skicka dem via din OneDrive men också via Funets filesender.
+
+Funet Filesender
+
+Gå till https://filesender.funet.fi/ Extern länk
+Klicka på HAKA
+Välj sedan Arcada från listan
+Du behöver sedan logga in via Luckan så får du skriva in ditt Arcada användarnamn och lösenord. OBS: Första gången behöver du också bekräfta att du för över vissa uppgifter till Funet.
+
+Skicka en fil
+
+När du väl är inne så fyller du i formuläret och bifogar din fil.
+Mottagaren får en länk på sin e-post varifrån de kan ladda ner filen. Filen hålls online normalvis 3 veckor, sedan raderas den automatiskt.
+
+Ta emot en fil
+Du kan också låta någon (som inte har tillgång till Haka-inloggning) att ladda upp en fil som du sedan kan ladda ner.
+
+Klicka på knappen Guest (överst på sidan)
+Skriv in e-postadressen till hen som ska få tillstånd att ladda upp en fil.
+Personen får sedan en länk som visar på vilken sida hen kan ladda upp filen.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

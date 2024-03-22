@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: Office365 | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: Office365
+
+
+
+ 
+
+
+
+
+
+
+
+
+Hur byter jag språk i o365?
+Olyckligtvis utgår Office365 från att språkinställningen ska vara finska. För att ändra på språket gör följande:
+
+Klicka på kugghjulet som du hittar högst uppe på sidan.
+Välj sedan Sivuston asetukset -> Kieliasetukset (om du just nu har engelska som språk väljer du Site Settings ->Language settings)
+Välj språk.
+Välj längst nere på sidan Korvaa käännökset: Kyllä (om du just nu har engelska som språk väljer du Overwrite Translations: Yes.)
+
+Varför frågar Office365 på min dator plötsligt efter licensnyckel?
+Vid inloggningen ska du ange ditt korta användarnamn som endast har 8 tecken, E-post: username@arcada.fi. Lösenordet är det samma som när du loggar in på datorerna på Arcada.
+Om det inte fungerar av någon anledning, stäng alla öppna Office365-program. Välj ett annat Office program (Excel etc.) och försök gör samma inloggning där. Om det går igenom i ett program, blir licensen lagd till alla program.
+Varför kan jag inte logga in på o365 (mitt lösenord är rätt)?
+Se till att du aldrig loggar in med E-post: förnamn.efternamn@arcada.fi på Office365. Utan använd istället din korta epostadress (E-post: username@arcada.fi) och på ADFS inloggningen bara ditt användarnamn som består av 8 tecken.
+Jag blev färdig och nu kommer jag inte åt mina filer på OneDrive, vad göra?
+Då du avslutar dina studier vid Arcada kommer ditt konto på Office365 att raderas och du kommer inte längre att ha tillgång till vare sig e-post eller material som du lagrat i din Onedrive. Ifall detta kom som en överraskning, vänligen kontakta E-post: it-support@arcada.fi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

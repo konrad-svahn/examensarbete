@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download all your email from Office 365 Outlook | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Download all your email from Office 365 Outlook
+
+
+
+ 
+
+
+
+
+
+
+
+
+Below you will find instructions of how to download all your email from Office 365 Outlook to your local computer.
+Export all email to a .pst file:
+
+You need to buy Outlook (desktop version) for your computer.
+
+NB. If you have installed Outlook on your computer via Arcada, it will also stop working when you leave Arcada.
+
+
+Add the Arcada account to your Outlook: File -> Add Account.
+
+Outlook should be able to automatically configure your email if you write as email address E-mail: your-username@arcada.fi
+
+
+Export your email from Office 365 as a .pst file. Instructions. External link
+
+NB. also your contacts will be saved in the .pst file.
+Read the email from the .pst file:
+To read the emails saved in the pst-file, do either A or B:
+A. If you sporadically need access to your old email, do:
+File -> Open & Export -> Open Outlook Data File
+B. If you have other email account in your Outlook (desktop version), it is possible to import the pst-file to one of these accounts. Choose:
+File -> Open & Export -> Import/Export. Instructions. External link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

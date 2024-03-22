@@ -1,0 +1,120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Computers and software | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Computers and software
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Here you can find information related to computers and software that you will need during your studies in Mechanical and Sustainable Engineering. 
+
+Computer rooms
+Arcada's computer rooms are located in the blocks D3, E3, F3 and the library. You can use the facilities when they are not booked for classes.
+You can find a list of software used in the computer labs here.
+You can also log in remotely to the computers at Arcada through remote desktop connection. More information can be found here: VPN tunnel with SecurePoint
+Arcada’s IT-support assists you with all your IT-related questions.
+Your own device and software
+We recommend that students in Mechanical and Sustainable Engineering have their own laptops for the studies. This is however only a recommendation and it is possible to finish your studies even without your own computer.
+As a student at Arcada you can get some software for free or for discounted student price. You can find a list of the software for your own computer in the website for IT-support, Software.
+In case you want to buy a new computer for your studies the department recommends the following.
+
+a laptop that runs Windows 10. Some of the programs that are used in the courses do not work on Macbooks.
+Recommended minimum memory 8GB (advanced use of Solidworks needs more memory).
+Graphics card should support DirectX 11 and OpenGL 4 (or above)
+Battery life should be at least 4 hours.
+WLAN standard 802.11ac (Wi-Fi 5) or better
+Full HD screen
+
+You can check the system requirements for the programs Solidworks and AutoCad on the software's own website.
+
+
+
+
+
+IT-Support 
+
+The Arcada IT-support assists you with all your IT related issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Klassrum: Ljud | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Klassrum: Ljud
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+...
+
+I de flesta klassrum sker all ljudåtergivning genom att koppla en dator till projektorn/TV:n.
+Det finns ingen skilld ljudkontroll, utan du kontrollerar ljudvolymen via datorn.
+
+Koppla din dator till projektorn eller TVn
+Spela upp videon eller ljudfilen på datorn
+Kontrollera ljudvolymen via datorn
+Observera att projektorn eller TV:n behöver vara påkopplad för att ljudet skall höras...
+
+Problem: Ingenting hörs
+
+Kontrollera att videoplayern har volymen uppdragen
+Kontrollera att Windows-ljudet inte är på mute
+Kontrollera att din dator skickar ljudet till rätt källa
+
+Problem: Mac-användaren kan inte kontrollera ljudvolymen på ett Teams/Zoom-möte
+
+Lösning: Ladda ner Soundflower Extern länk, efter det fungerar MacOS volymkontrollen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

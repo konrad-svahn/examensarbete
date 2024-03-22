@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phishing | Start
+
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Phishing
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Fiskande efter lösenord mm. Phishing (”att fiska”) betyder att någon försöker få dig att avslöja personlig data med hjälp av en förfalskad webbsida där man ofta ber dig att logga in. Till exempel nätbanker råkar ofta ut för phishing-försök.
+
+Det förekommer att även Arcadas studenter och personal utsätts för fiskeri genom att fiskaren låtsas vara en av IT-personalen.
+Fiskerimeddelanden är nuförtiden ganska välskrivna också på det egna inhemska.
+
+Bästa sättet att avvärja attackerna är att aldrig skriva in sitt lösenord på en webbsida eller i ett epost. Och bara använda Arcada-lösenordet på Luckan eller ADFS.
+
+Om du misstänker att en webbsida är en bluffsida, kan du börja med att kontrollera domainet den ligger på. Se exempel:
+www.nordea.fi Extern länk
+www.nordea-fi.net Extern länk
+
+Den första adressen är Nordeas egna domain, men den andra vore ett bedrägeri försök. Om du är osäker, klicka bort dig från webbsidan, ring it-supporten eller Nordea i detta fall.
+Exempel på spam:
+När du för över musen en länk kan du också se vart den pekar. I nedan bild pekar länken till en ip-adress, vilket är ganska suspekt. 
+
+
+Remote video URL
+
+
+
+
+
+
+      Du har ännu inte gett tillstånd att placera de nödvändiga cookies. Acceptera nödvändiga cookies för att se detta innehåll.
+    
+
+
+
+
+
+
+
+Phishing awareness Extern länk  from PhishingBox Extern länk
+Läs mer om skräppost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Välkommen, det här är tillgänglighetsutlåtande av Yrkeshögskolan Arcada | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Välkommen, det här är tillgänglighetsutlåtande av Yrkeshögskolan Arcada
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Detta tillgänglighetsutlåtande gäller tjänsten start.arcada.fi och har upprättats / uppdaterats 01.09.2021. Tjänsten omfattas av lagen om tillhandahållande av digitala tjänster och dess krav på att offentliga webbplatser måste vara tillgängliga.
+
+Arcada har låtit genomföra en tillgänglighetsauditering av sidan. Vi arbetar som bäst med att åtgärda de brister rapporten påtalade. Arbetet förväntas vara slutfört till början av 2022.
+
+ 
+Tillgänglighetsrapport - start.arcada
+
+
+Tillgänglighetsstatus för den digitala tjänsten
+Uppfyller delvis tillgänglighetskraven
+Icke-tillgängligt innehåll
+3. Webbplatsen uppfyller ännu inte alla krav.
+Möjlig att uppfatta: Innehåll finns enbart i bildformat.
+Innehåll som inte är tillgängligt och dess brister: Enstaka bilder och flödesscheman saknar alternativ text.
+Tillgänglighetskrav som inte uppfylls
+
+1.1.1 Innehåll som inte är text
+
+Möjlig att uppfatta: Videomaterial
+Innehåll som inte är tillgängligt och dess brister: Videoklipp från tredje part saknar alternativt ljudspår och bara tillgängligt på ett språk.
+Tillgänglighetskrav som inte uppfylls
+
+1.2.1 Enbart ljud och enbart video (förinspelad)
+
+Upptäckte du en tillgänglighetsbrist i vår digitala tjänst? Beskriv den för oss och vi ska göra vårt bästa för att åtgärda den
+Per e-post
+E-post: communications@arcada.fi
+Tillsynsmyndigheten
+Kontakta oss om du vill påtala brister i tillgängligheten på vår webbplats. Det kan ta 14 dagar innan du får ett svar. Om du inte är nöjd med det svar du har fått eller inte får något svar alls inom två veckor kan du lämna in en anmälan om bristande tillgänglighet till Regionförvaltningsverket i Södra Finland Extern länk. På regionförvaltningsverkets webbplats finns det beskrivet hur du kan lämna in en anmälan och hur ärendet behandlas.
+Tillsynsmyndighetens kontaktuppgifter
+Regionförvaltningsverket i Södra Finland
+Enheten för tillgänglighetstillsyn
+www.tillgänglighetskrav.fi Extern länk
+E-post: webbtillganglighet@rfv.fi
+telefonnummer växeln 0295 016 000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

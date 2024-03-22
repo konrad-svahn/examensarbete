@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study plan 2021 onwards | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Study plan 2021 onwards
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Study plan for Bachelor's degree in Mechanical and Sustainable Engineering for students starting 2021 or later. 
+
+
+
+
+Degree taken and scope: Bachelor of Engineering, 240sp / 4 years
+Main language of instruction: English
+
+The profile of the education
+On the basis of the needs that exist in society and working life, the degree programme has chosen to profile itself to respond to the challenges ahead. The degree programme has the following profile that is based on society’s and working life’s needs and on Arcada’s strategy.The central themes in Arcada’s strategy that are visible in the profile are sustainable development and digitalization. The digitalization of the processes is challenging the engineering industries. Engineers are more often central decision-makers in large and small projects that aim at implementing new technologies for a sustainable future. Engineers need to be able to use modern digital tools for modeling and analyses, and understand the possibilities and limitations that digitalization brings (e.g. automation, machine learning, robotics). Evidence-based decision-making for new technologies requires that digital data and research-based knowledge is used smoothly and sustainably for smart solutions.The Mechanical and Sustainable Engineering programme combines two disciplines together to play a significant role in the pursuit of technological advancement in the field of engineering. It integrates mechanical engineering with sustainability to find new approaches in product development process that considers the current global challenges. The programme strives to finding better solutions starting from conceptual design up to process selection. As an engineering programme, the design, material selection as well as process selection will be highly driven by optimization and sustainability constraints. The programme will also be highly integrated with state-of-the-art digital design and manufacturing tools to keep our students competent in the work environment. The degree is targeted at educating engineers with diverse skillsets in design for a sustainable future. It also creates research possibilities where the quality of education will be enhanced in a continued process.
+General education studies (15 ECTS)
+Education in a Digital and Sustainable Nordic Society (15 ECTS)
+Upon completion of this module you can use your basic learning and career competence in order to autonomously and actively conduct studies and develop your learning. You can identify and value you own strengths and development needs. You can explain the concept of continuous learning and apply it when planning your career path. You can operate and learn in an increasingly digitalized society. You can critically examine and analyze information to develop your innovation and development competence which will enhance your basis for learning. You can identify the basis of communication and social competence and are able to act and communicate in 15 different professional and social contexts. You can present the profession specific ethical principles and sustainability aspects in the Nordic society. You respect and can encourage equality and cultural diversity.
+The study module consists of the following study units:
+
+
+
+Study unit
+ECTS
+
+
+
+
+Technology and Learning
+5
+
+
+Teamwork and Innovation
+5
+
+
+Ethical and Sustainable Societal Development
+5
+
+
+
+Professional studies (165 ECTS)
+Consist of Foundation studies and Advanced studies.
+Basic Studies in Technology (30 cr) - Foundation studies
+The module focuses on mathematical competence and competence in natural science such as engineering chemistry and physics. Furthermore, you will learn basic programming. Upon completion of this module, you have the competence to utilize geometry, vector and matrix algebra, complex numbers, derivation and integration for applications. You have the competence to perform basic programming with typical programming languages. The module integrates the general competence in technology, and it is connected to Arcada’s goal to prepare you for a working life where technical, digital and autonomous systems are part of the work processes.
+The study module consists of the following study units:
+
+
+
+Study unit
+ECTS
+
+
+
+
+Mathematics 0
+0
+
+
+Linear Algebra
+5
+
+
+Differential Calculus
+5
+
+
+Integral Calculus
+5
+
+
+Engineering Physics
+5
+
+
+Engineering Chemistry
+5
+
+
+Introduction to Programming and Automation
+5
+
+
+
+Sustainable Modelling (15 cr) - Advanced studies
+The module is focused on professional competence in sustainability. Upon completion of this module, you have knowledge in efficient use of materials and energy, life cycle assessment and environmental management systems. You can explain the concept of circular economy, and its general principles. The module also integrates the general competence in ethical sustainability. The module is connected to Arcada’s strategic goal to work for sustainable life.
+The study module consists of the following study units:
+
+
+
+Study units
+ECTS
+
+
+
+
+Environment and Resources
+5
+
+
+Sustainable Energy and Materials
+5
+
+
+Life Cycle Assessment
+5
+
+
+
+Technical modelling (15 cr) - Advanced studies
+The module focuses on professional competence in technical modelling. Upon completion of the module, you can use digital methods and tools that are used for measurements, analyses, technical drawing and 3D modeling. You have a solid foundation of CAD based designs and simulations. The module encompasses the state-of-the art design approaches towards sustainable modelling, optimization and simulations in digital environment.
+The study module consists of the following study units:
+
+
+
+Study units
+ECTS
+
+
+
+
+Technical Drawing
+5
+
+
+Computer Aided Design
+5
+
+
+Programming
+5
+
+
+
+Materials (30 cr) - Advanced studies
+The module is focused on the competence in materials technology. Upon completion of the module, you possess knowledge and skills in basic materials science, sustainable materials and manufacturing processes. You can explain and apply the methods of the materials property investigations and discuss their applicability in engineering.
+The study module consists of the following study units:
+
+
+
+Study units
+ECTS
+
+
+
+
+Materials Chemistry
+5
+
+
+Material Properties
+5
+
+
+Manufacturing and Processing
+5
+
+
+Material Selection
+5
+
+
+Material Analysis
+5
+
+
+Composites
+5
+
+
+
+Engineering Design (30 cr) - Advanced studies
+The module focuses on design competence. Upon completion of the module, you can apply design optimization methods in product/process design. You have theoretical knowledge on analytical approaches used in product and process designs. Upon completion of the engineering design module you can identify, explain and apply theoretical and computation methods of engineering analyses. You can also describe and apply a variety of validation analyses thatare the core in engineering design processes.
+The study module consists of the following study units:
+
+
+
+Study units
+ECTS
+
+
+
+
+Statics
+5
+
+
+Mechanics of Material 1
+5
+
+
+Dynamics
+5
+
+
+Digital Manufacturing
+5
+
+
+Finite Element Method
+5
+
+
+Computer Aided Engineering
+5
+
+
+
+Professional communication (15 cr)
+You can function professionally in different language situations within your area of expertise. You are able to adjust your language appropriately to various communicative situations and have the tools and ability to develop your communicative skills.
+If you have a Finnish educational background, you are expected to be able to communicate in both domestic languages, as well as in English. Additionally, you are expected to fulfill the competence requirements, according to the law (424/2003, 6§), for public sector employees.
+Students who have received their education abroad in a language other than Swedish, Norwegian or Danish shall take 10 credits in Swedish and 5 credits in English.
+The study module consists of the following study units:
+
+
+
+Study unit
+ECTS
+
+
+
+
+English Professional Communication MSE
+5
+
+
+Swedish for Beginners 1
+5
+
+
+Swedish for Beginners 2
+5
+
+
+Finnish for Engineers (students with Finnish educational background)
+5
+
+
+Swedish, intermediate level B1-B2 or Swedish and communication for Engineers (students with Finnish educational background)
+5
+
+
+
+Practical training 1 (15 cr) - Advanced studies
+The practical training gives you the possibility to apply the knowledge and skills acquired from education in working life and become familiar with central tasks within your field. You can apply the ethical codes and safety procedures (including occupational safety) implicated within the working life. Introductory work experience that is connected to the engineering field. You can read more about the practical training in the programme Mechanical and Sustainable Engineering here.
+Practical training 2 (15 cr) - Advanced studies
+Upon completion of this module you can apply the advanced theoretical knowledge you have acquired and be able to perform professional tasks independently and take your own initiative tostreamline your own work and the processes you contribute to. You can read more about the practical training in the programme Mechanical and Sustainable Engineering here.
+Development studies (30 ECTS)
+You degree includes also 30 ECTS optional development studies.
+Upon completion of this module you have an ability to address different future needs and challenges in a responsible manner both in a local and global societal context. You have a professional learning and career competence which enables you to identify, analyse and solve problems in your professional work. You can apply your profession specific ethical principles and sustainability competence in your daily work. You are able to contribute to development driven processes in professional contexts. You can apply your creative and innovative skills and use technology to further development. You can cooperate with other students and individuals in working life, from other areas and industries. You can act and behave consciously in different social, international and intercultural situations and reflect analytically and critically on your role in the context. You are able to promote openness in groups, organizations and associations.
+
+
+
+Module
+ECTS
+
+
+
+
+Finnish for Beginners
+15
+
+
+Circular Economy
+15
+
+
+Plastic Technology
+15
+
+
+Advance Materials Technology
+15
+
+
+Chemistry
+15
+
+
+Project
+15
+
+
+
+Research studies (30 cr) - Advanced studies
+Thesis and Methods (30 cr)
+Upon completion of the module you can contribute to and critically reflect on the development within your area based on comprehensive and advanced knowledge within your area. You are able to critically explain, discuss and judge as well as argue for theories, central concepts, methods and principles. You are able to solve problems within your profession, and learn together with others. With a basis in your advanced information competence you are able to validate knowledge and argue for the difference between data, information and knowledge. You follow and are able to discuss and promote ethical principles in research.
+The study module consists of the following study units:
+
+
+
+Study unit
+ECTS
+
+
+
+
+Writing for research
+5
+
+
+Data Analysis
+5
+
+
+Thesis Seminars
+5
+
+
+Thesis Work
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

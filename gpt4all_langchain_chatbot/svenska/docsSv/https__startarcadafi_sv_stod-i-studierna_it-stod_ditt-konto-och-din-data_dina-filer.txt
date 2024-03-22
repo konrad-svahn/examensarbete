@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dina filer | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Dina filer
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Arcada erbjuder i huvudsak två olika sätt för studenter och personal att spara sina filer.
+
+1. Microsofts OneDrive Extern länk
+2. Hemkatalogen (alltså H-skivan i Windows)
+OneDrive är en molntjänst som upprätthålls av Microsoft och dina filer ligger på deras servrar någonstans i världen. Hemkatalogen upprätthålls av Arcada och ligger i vårt serverrum.
+Filerna på OneDrive kommer du främst åt via din webbläsare, dvs. lika enkelt oberoende var du än befinner dig. Du kan även komma åt filerna direkt från Office-programmen (Word, Excel o.s.v.) om du är inloggad med ditt eget konto.
+Hemkatalogen är en skiva du kommer åt från Arcadas alla datorer. Dess lagringskapacitet är 12GB stort. Du kan komma åt filerna också hemifrån, men du behöver följa instruktionerna på sidan Hemkatalogen & Intra-mappen.
+Se Vad sparar jag var?
+Personalen
+Som personal har du skrivrättigheter också på somliga andra servrar såsom I-skivan ("intran").
+Personalen kan också be IT-support att skapa en OneDrive Teamsite för sin grupp. Då är filerna gemensamt administrerade, tänk det som en moln-version av I-skivan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

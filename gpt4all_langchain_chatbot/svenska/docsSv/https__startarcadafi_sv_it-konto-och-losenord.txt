@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IT-konto och lösenord | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+IT-konto och lösenord
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Introduktionsdagen för Arcadas nya studenter äger rum i augusti. För att kunna delta i introduktionsdagen behöver du ha aktiverat ditt Arcada användarkonto.
+
+Aktivering av användarkontot
+För att använda Arcadas IT-tjänster och utbildningsverktyg får du ditt eget personliga IT-användarkonto. När du accepterar din studieplats på Arcada skapas automatiskt ett användarkonto till dig i vårt system. Allt du behöver göra är att aktivera det och ställa in ett nytt lösenord. Vi rekommenderar att du aktiverar och hanterar ditt användarkonto på AAS Extern länk, Arcada Account Services, där du kan logga in med ditt användarkonto. Om du ännu inte har aktiverat användarkontot eller om du har tappat lösenordet kan du logga in på AAS med hjälp av en Nätbanks-autentiseringstjänst för någon finsk bank, ett finskt elektroniskt ID, ett mobilcertifikat eller med ett aktivt användarkonto på vissa andra finska universitet genom Haka-inloggning.
+I början av varje termin kommer IT-support att ha en servicepunkt där du kan skaffa ditt användarkonto genom att presentera ett giltigt ID (körkort eller pass).
+Stödsessioner, Introdagar 2023
+I samband med introdagarna arrangeras servicestationer och/eller stödsessioner för nya studenter som har problem med att aktivera sitt konto. Kom ihåg att först försöka aktivera ditt konto på egen hand.
+På campus
+Onsdag 23.8 kl. 8.30-9.30 och 12.30-15.00
+Torsdag 24.8 kl. 8.30-13.00
+Fredag 25.8 kl. 8.30-13.00
+Måndag 28.8 kl. 12.30-16.30
+Online
+Tisdag 22.8 kl. 12.30-15.00 (https://arcada.zoom.us/j/65180149944 Extern länk)
+Onsdag 23.8 kl. 12.30-15.00 (https://arcada.zoom.us/j/67117584705 Extern länk)
+Tjänster
+Vill du byta lösenordet? - Gå till AAS Extern länk, logga in och välj Byt lösenord
+Har du tappat bort ditt lösenord? - Gå till AAS Extern länk och välj Glömt lösenordet?
+Har du inte ännu fått ett Arcada konto och lösenord? - Gå till AAS Extern länk och välj Lös ut IT-konto
+Viktig information om ditt IT-konto
+Som student eller anställd vid Arcada har du ett personligt användarkonto bestående av ett användarnamn (login) och ett lösenord.
+Du är personligen ansvarig för användarkontot och lösenordet. När du använder Arcadas IT-tjänster förbinder du dig till Arcadas IT-regler. Om du bryter mot IT-reglerna har IT-enheten rätt att låsa användarkontot med omedelbar verkan och för en tidsperiod på upp till två månader.
+Användarkontot är giltigt under hela studietiden och kommer att inaktiveras 1 vecka efter att studierätten eller anställningsförhållandet upphört.
+Det användarnamn och lösenord du använder på Arcada skall du inte använda på andra tjänster utanför högskolan.
+Observera att du aldrig skall avslöja ditt lösenord för någon annan, inte ens åt IT-personal eller IT-administratörer.
+Verifiera din identitet under IT-support
+När du blir betjänad av vår IT-support behöver du verifiera din identitet genom att uppvisa ditt pass. Efter det ger IT-support dig en Pollett-kod som du använder på sidan Arcada Account Services: https://apps.arcada.fi/aas Extern länk
+
+ 
+
+
+
+
+
+
+
+Lägg in din Pollett-kod och ange ditt födelsedatum, efter det kan du skriva ett lösenord för ditt användarnamn. Lösenordet måste vara så starkt att webbsidan ger det fyra stjärnor. Det lönar alltså redan nu att tänka ut ett starkt lösenord; en kombination av bokstäver, siffror och specialtecken. När lösenordet väl har ställts in blir ditt konto aktiverat och du ser ditt användarnamn samt annan nödvändig information på portalsidan.
+Vänligen notera:
+
+Vi kan inte ge dig ett konto utan att verifiera dig korrekt m.h.a. ditt pass.
+Om du deltar i en stödsession online bör du göra det via en dator. Använd inte en telefon eller mobilenhet.
+Inför stödsession(er) online, testa i förväg att din webbkamera och mikrofon fungerar väl. Naturligtvis behöver du också en god internetuppkoppling. På grund av tidsbegränsningar, är det viktigt att du förberett dig enligt dessa instruktioner och att all teknik fungerar väl.
+
+Om du inte kan använda något av alternativen ovan, vänligen kontakta E-post: it-support@arcada.fi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

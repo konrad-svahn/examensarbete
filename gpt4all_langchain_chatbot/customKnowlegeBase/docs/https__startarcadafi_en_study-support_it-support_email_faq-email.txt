@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ: Email | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+FAQ: Email
+
+
+
+ 
+
+
+
+
+
+
+
+
+What are the IMAP/SMTP settings for Outlook-email?
+Students can use these settings:
+IMAP: Server name: outlook.office365.com | Port: 993 | Encryption method: SSL
+SMTP: Server name: smtp.office365.com | Port: 587 | Encryption method: TLS
+More help: Outlook help External link
+Teachers can use "owa.arcada.fi" and the program should configure itself.
+How do I move my old email from webmail.arcada.fi to Office365 (Outlook)?
+Here External link.
+How do I make my student email go to another address (gmail etc) ?
+Go to Outlook settings and search for "forwarding".
+I just graduated and now cannot access my email, what to do?
+When you graduate your Arcada IT-account, including email address is deactivated. If you did not anticipate this, please contact E-mail: it-support@arcada.fi
+I have my email still on old webmail.arcada.fi, what setings do I need on my phone?
+We do not support webmail anymore. Instead migreate your email to office365 (Outlook) External link.
+I cannot send a big file through email, what do I do?
+Use Filesender or OneDrive for sending huge files.
+I am a new student, but my Outlook is not receiving any email, what do I do?
+Try migrating your email once to Outlook. Go to https://hr.arcada.fi/migrate/ External link . Contact the it-support if the problem persists.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

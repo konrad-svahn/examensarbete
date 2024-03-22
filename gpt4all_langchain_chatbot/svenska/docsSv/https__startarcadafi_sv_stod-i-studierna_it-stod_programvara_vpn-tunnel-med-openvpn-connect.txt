@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VPN tunnel till Arcada | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+VPN tunnel till Arcada
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+För att logga in på Arcadas datorer från din egen dator behövs en VPN-tunnel och Microsoft fjärrskrivbord.
+Här hittar du information för Windows datorer och Mac datorer.
+
+Windows datorer
+Öppna länken, Arcada VPN files Extern länk, och ladda ner msi-filen och ovpn-filen. Installera msi-filen och starta OpenVPN Connect-appen. Öppna menyn och välj "Import profile". Välj sedan "FILE" dra ovpn-filen du laddade ner till appen eller klicka på Browse och välj den nedladdade ovpn-filen. Ange ditt användarnamn utan @arcada.fi och klicka Connect. Ge lösenordet. Om ett meddelande om "Missing External Certificate" poppar upp så klicka Continue. Nu har du en VPN-tunnel till Arcada och kan ta remote desktop till en dator på Arcada.
+Hittar du inte Remote Desktop i startmenyn behöver du troligen installera appen från Microsoft Store på din dator. Öppna Microsoft Store och sök på "Remote Desktop" eller "Microsoft fjärrskrivbord" och installera den.
+Mac datorer
+Öppna länken, Arcada VPN files Extern länk, och ladda ner ArcadaVPN.ovpn.
+Öppna länken Tunnelblick  Extern länkoch ladda ner senaste stabila versionen av Tunnelblick. Öppna Tunnelblick xxxx. Buildxxx.dmg filen och följ instruktionerna. När installationsproceduren frågar efter "VPN Configuration" klicka "I have Configuration files" och följ instruktionerna. Filen ArcadaVPN.ovpn är den konfigureringsfil du behöver.
+När installationen är klar klicka Connect. Ange ditt användarnamn utan @arcada.fi. I nästa fält ger du lösenordet och klickar ok.
+För att ta remote desktop till en Windows dator på Arcada måste du ladda ner Microsoft Fjärrskrivbord appen från Apple Store.
+Det går inte att ta remote Desktop till Arcadas iMac-datorer.
+Användbara länkar
+Följ länken för att hitta lediga datorer Extern länk
+Om det ändå inte fungerar så kontakta E-post: it-support@arcada.fi.
+Snabblänk till Programvara i Arcadas datasalar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy machines | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Copy machines
+
+
+
+ 
+
+
+
+
+
+
+
+
+You can use Arcada's copy machines to print, scan and copy.
+
+Students' copy machines are located in the library journal reading room (also A3 format) and in the blocks D3, E3 and F3.
+Teachers' copy machines are located in the staff blocks
+Use the printer called Follow-Me
+Login on the copy machine with your key. Specific instructions are located at the copy machines.
+Students can buy credits for the copy machines at the Arcada student union ASK External link in the Cor house.
+For color prints, choose Printer properties prior to printing.
+
+Printing from your personal Windows-laptop
+
+Be sure your laptop is connnected to eduroam
+Press the Windows Menu button
+Type \\pix in the small field at the bottom and press enter
+Log on using your Arcada-username and password
+The window will display all available printers: Double-click Follow-Me
+Now the Follow-Me printer is installed on your laptop and is ready for use
+
+If you logout from your laptop you may have to repeat the steps 2-4 in order to authenticate.
+The instructions above apply for both Windows 7 and 10.
+Printing from your Mac-laptop
+For mac users we currently recommend to print from an Arcada computer - save your documents on Office365  External linkto make it easier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

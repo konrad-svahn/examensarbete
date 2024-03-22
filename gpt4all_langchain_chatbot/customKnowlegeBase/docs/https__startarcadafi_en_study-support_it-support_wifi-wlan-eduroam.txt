@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WiFi (WLAN, Eduroam) | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+WiFi (WLAN, Eduroam)
+
+
+
+ 
+
+
+
+
+
+
+
+
+Eduroam
+Students and staff use the wireless network called eduroam. It is part of a global network provided by universities and alike. It works in most Finnish universities and also internationally. It also has mobile app that shows you the nearest Eduroam hotspot so that you can be automatically connected to the internet once you are in that hotspot's range.
+Arcada-guest
+Arcada-guest is used by visitors. It has a very limited bandwidth and students and staff should not need to use it. The password changes daily and is published on the information screen at the big square, on ARBS under Rapport - Guest WiFi and on every room-booking.
+Attach your Windows computer to eduroam
+(regarding Android and iOS devices, see instructions below)
+You can connect to Eduroam straight from your computer's taskbar->netowork button. Select Eduroam and put your username in E-mail: username@arcada.fi format and then your Arcada password.
+If for some reason you have previously tried connecting to Eduroam with wrong credentials and have failed, you may get this Error 'Can't connect to this network'. In this case, you right-click on the Eduroam and select Forget. Now try reconnecting following the proper instructions mentioned above. For detailed instruction see this External link.
+Alternatively,
+
+Check that your device has an active internet connection, eg. mobile/3G or arcada-guest.
+Browse to https://cat.eduroam.org External link.
+Download an "eduroam Installer".
+Choose Arcada as "Home Institution".
+Choose "Installer to download" according to the operating system on your device (e.g. Windows, Mac, etc.).
+Install and follow the instructions 
+Provide your Arcada username in the format E-mail: username@arcada.fi when logging in (username only will not work) and your Arcada password
+
+Attach your MAC computer to eduroam
+
+Check that your device has an active internet connection, eg. mobile/3G or arcada-guest.
+Browse to https://cat.eduroam.org External link.
+Download an "eduroam Installer".
+Choose Arcada as "Home Institution".
+Choose "Installer to download" according to the operating system on your device (e.g. Windows, Mac, etc.).
+Install and follow the instructions
+Provide your Arcada username in the format E-mail: username@arcada.fi when logging in (username only will not work) and your Arcada password.
+
+You can also connect to Eduroam straight from your computer's menubar on the top->netowork button. Select Eduroam and put your username in E-mail: username@arcada.fi format and then your Arcada password. Accept any request for Certificate installation.
+Please note, in this method, if you choose to save your credentials to the Keychain while connecting, that Keychain entry will need to be removed first before you can connect to Eduroam in the future in case you change your password. Click here External link for more information.
+Click here External link for more instruction regarding how you can delete a wifi network in MAC.
+Android devices
+
+Open the list of available wireless networks.
+Choose eduroam
+Go to Settings and choose TTLS as EAP method and PAP for Phase2 authentication
+Provide your Arcada username in the format E-mail: username@arcada.fi when logging in.
+Put your password
+
+iOs devices
+Select Eduroam from the Wifi option and use your username as E-mail: username@arcada.fi format and put your password. Accept any prompt to install the certificate.
+It is important to note that, when you change your Arcada password, the settings for Eduroam needs to be updated with the new password as well. The best idea is to Forget the Eduroam network and reconnect to it as a new one following the instructions above.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

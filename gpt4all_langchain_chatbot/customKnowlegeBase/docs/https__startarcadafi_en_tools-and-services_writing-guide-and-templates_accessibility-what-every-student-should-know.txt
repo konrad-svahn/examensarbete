@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accessibility - What Every Student Should Know | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Accessibility - What Every Student Should Know
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Accessibility means that digital services are designed so that they take into account people's differences and diversity. 
+
+Available digital services can be used even if you have some form of permanent or temporary disability (e.g. hearing impairment, vision impairment or dyslexia). For example, a person with a hearing impairment needs subtitles in videos, but also students who ride on a crowded bus benefit from the subtitles.
+In Finland, the law on the provision of digital services also requires web accessibility. The law applies to web content and web services that authorities, such as universities, produce.
+It is always good, to the extent possible, take accessibility into account. Keeping the basic principles of accessibility in mind improves the content for all of us.
+How are you as a student affected by the new legislation on accessibility?
+The teaching is accessible when you as a student can easily enter the teaching premises and use various digital services used in the teaching. This also applies to the channels used to inform about the teaching. You must be able to fully participate in the teaching situation. 
+Accessible studies sometimes require special arrangements or aids. 
+Thesis projects
+Some public digital documents that you create are covered by the law. This applies in particular to final thesis projects, which published on Theseus. Therefore, we have put together a page with information on how to make your written work accessible. There you will also find a template to be used for all thesis work. Start using the template immediately and you are well on your way to making your final project accessible.
+Assignments within a course
+Content produced during a particular course (e.g. essays and lectures saved on itslearning) does not have to be available according to the law. Exceptions are content that is used repeatedly, for example if you make a video that is saved and used as study material in the coming academic years or externally in Arcada's channels (e.g. Youtube), then the video must be subtitled.
+When producing a video, keep in mind:
+
+provide it with subtitles in the same language
+make sure that the names and any sub-headings have enough contrast in relation to the background
+
+More about accessibility
+More information and instructions on accessibility is found on the Regional State Administrative Agency's website (in Finnish and Swedish). External link
+
+
+
+
+
+Guidelines for accesible documents 
+
+These guidelines are good to keep in mind regardless of if you are creating content with Microsoft Word, a web page or a PDF, or any other format.
+
+
+
+
+
+
+Writing guide and templates for degree thesis 
+
+Writing guide and templates for degree thesis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

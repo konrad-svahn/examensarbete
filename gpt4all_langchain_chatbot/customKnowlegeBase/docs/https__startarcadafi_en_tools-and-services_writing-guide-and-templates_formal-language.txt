@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Formal language | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Formal language
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+If you write a private diary, you can leave gaps in the text and use a language only you understand. Any other text you write should be understood by a reader. You want the reader to understand your message, both when you are texting a friend and when you write your degree thesis.
+
+Write with a reader in mind
+Your text should always be reader-friendly. A common misconception is that a text will be more academic and credible if it contains complicated words. In fact, complicated language can hinder readability and lead to the reader not understanding your message. The subject you are writing about may be complicated, abstract and contain new information for the reader, but the language should be simple and clear and serve as a tool to clarify and explain complicated phenomena. Therefore, the keywords when writing are: write simply, clearly and reader-oriented.
+Academic language
+During your studies, you will write various reports, essays and learning academic papers where you are expected to follow a standard structure for an academic text and use academic language. Academic language is formal language that follows the rules of the English writing. Formal language is factual, correct and free from frills or unnecessary amplification, for example words such as very, incredible and really.
+Academic language is characterised by clarity and precision, leaving no room for the reader to interpret the text or to read between the lines. Academic language is concise, which means that you express yourself in a tight and fairly concise manner. Therefore, you should revise your text several times so that you find the right wording and delete unnecessary explanations or descriptions.
+Academic language is factual and objective and you approach the subject neutrally. In the introduction and in the final discussion of the text, you can express more subjective thoughts.
+The tone and language of an academic text should therefore be objective and neutral. This leads some people to confuse it with the concept of impersonality, and to believe that there should not be a personal voice in a text. This is a misconception because every writer has their own voice and way of expressing themselves. You can write about a phenomenon or theory in a neutral way without giving your own view on the matter, but at the same time be visible in the text through your narrative voice and the meta-language you use.
+To become a good writer, feel comfortable when writing, and get an idea of the language commonly used, you need to read specialist texts within your own field. You also need to write a lot and work on your texts. The more you read and write, the better you will become!
+Citing and quoting
+A quotation is a word-for-word extract from a source. Citation is when you refer to, or retell what someone else has written. In both cases there must be a reference to the source, even when you are retelling in your own words, otherwise you are guilty of plagiarism.
+In general, you should cite rather than quote. When you quote, you must not change anything in the text and therefore quotes often do not fit well in your own text. Citing is therefore more flexible and allows you to vary your referencing technique.
+Quotations can be used if you want to emphasise something particularly important and central. The quotation must always have a clear function and illustrate your argument. There are two ways of quoting. Which one you choose depends on the length of the quote.
+Short quotations range from one word to a few sentences and are marked with quotation marks [" "] on both sides of the quoted text and woven into the text.
+Block quotes consist of more than three lines of text. The quotation is marked with an indent and written in a more compact form (font size 10 p and line spacing 1), a bit like a box. Please note that no quotation marks should be used. You write a standard source reference parenthesis after the block quote. By using [...], you indicate that you have omitted certain parts of a longer quotation. In the Writing Template you can see what the layout of a block quote looks like.
+When referencing, write in your own words what you want to highlight from your source material. At the end of the sentence or paragraph, write a parenthetical reference.
+You can vary your language and the way you refer to your sources by using reporting verbs. Reporting verbs are verbs that refer to your source, e.g. writes, argues, shows, concludes. Here are some examples of how you can use reporting verbs when referring to a source.
+
+Watson & Person (2021) emphasise that good writing practices are important from the very beginning of your studies. A study by Nesser et al. (2022) finds that students also report that good writing practices are important for achieving good results.
+
+Remember that all quotations appear with references to their sources; otherwise you are
+guilty of plagiarism. To avoid plagiarism, Arcada uses the program Urkund, which
+automatically checks texts for plagiarism.
+Arcada recommends the referencing system APA 7. Read more in the folder Reference style APA 7.
+READING TIPS!
+List of reporting verbs: External link
+Citing and referencing tutorial External link:
+Metatext and cohesion
+All texts are a form of communication. As a writer, you are the sender of amessage you want to reach out with and the reader is the recipient who must understand your message. The writer guides the reader through the text by using metatext. Metatext is also called reading directions. Metatext frames important facts so that the reader understands how everything fits together and what the text will be about. Metatext presents the structure of the text to the reader and makes the information in the text more accessible to the reader.
+Examples of how you give the reader directions by using metatext:
+
+The focus of this thesis is …
+The physical properties are presented and analysed in Chapter 5.
+The rest of this chapter examines ...
+In the previous section, it was demonstrated that ...
+The following case study illuminates ...
+
+Metatext is a way of tying your text together. If there is no metatext, your text will look unfinished and it will seem as if you have just written bullet points without thinking about making the text pleasant and reader-friendly for the reader.
+A text needs to have a logical structure. In an academic text, there is a given structure for how chapters and headings should be included. In addition, the text needs to be logically structured and have a common thread running through the whole text. You can create this connection by working with cohesion between sentences, paragraphs and chapters.
+READING TIP AND MORE EXAMPLES:
+Write like a pro External link
+Cohesion within sentences
+Use connectives to create cohesion in your text. Connectives are also called linking words and act as the glue between different parts within and between sentences. They are ordinary words, but if they are missing from a text, it will look choppy and unfinished.
+Examples of connectives:
+
+Words that signal complements: and, also, in addition
+Words that signal cause and effect: because, thus, therefore
+Words that signal contradiction or comparison: on the other hand, but, nevertheless, instead
+Words that develop or specify: for example, that is, among other things, in particular
+
+READING TIPS!
+Connecting ideas in writing External link
+Text linking between paragraphs
+Make clear paragraph divisions. The rule of thumb is that each paragraph deals with one idea and contains a core meaning. Mark paragraph breaks with an empty line, with a flush left margin. Long paragraphs make the text difficult to read, whereas short paragraphs make it choppy. Do not write more than approximately ten lines in a paragraph; single lines should be appended to the preceding or following paragraph.
+Each new main idea constitutes a new paragraph. A paragraph therefore contains a main idea which you develop, justify and exemplify. The main idea is also called the core sentence. The main idea does not have to come first. You can end the paragraph with it: hence, in conclusion, thus.
+Remember that the reader cannot read your thoughts! Each paragraph should be readable and understandable without having to read the title or the previous paragraph. This means that you need to repeat the key words to make it clear what you are getting at.
+Every time you write information that is taken from elsewhere, there should be a source reference after that sentence or paragraph. If a paragraph consists solely of your own reasoning, you don't need a source reference.
+Language correctness
+You want to give a credible and professional impression when you write. If there are a lot of language mistakes or carelessness in a text, credibility suffers. Everyone who writes makes mistakes and has typos and other errors. You recognise a good writer from the fact that they take this into account in their schedule and set aside time to edit and proofread the text. A good way to review your own text is to read it aloud. This means reading what is on the page and not what you think you have written. Everyone is blind to their own text. Ask someone else to read the text too. You are also welcome to the Writing Workshop for language support.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

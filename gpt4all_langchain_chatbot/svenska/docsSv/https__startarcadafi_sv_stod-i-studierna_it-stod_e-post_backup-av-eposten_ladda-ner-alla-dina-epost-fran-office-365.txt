@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ladda ner alla dina epost från Office 365 | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Ladda ner alla dina epost från Office 365
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Ladda ner alla dina epost från Office 365
+
+När du slutar på Arcada, vill du kanske ladda ner alla dina epost till din dator. Nedan finns instruktioner för dig som har eposten på Office 365.
+Exportera eposten till en .pst fil:
+
+Du behöver köpa Outlook för din dator.
+
+Observera att ifall du har skaffat Outlook via Arcada, kommer också den att sluta fungera när du slutar på Arcada.
+
+
+Lägg till Arcada epostkontot i Outlook: File -> Add Account.
+
+Outlook borde klara av att konfigurera eposten automatiskt bara du skriver in som epostadress E-post: ditt-användarnamn@arcada.fi
+
+
+Exportera din epost från Office 365 som en .pst fil. Utförliga instruktioner. Extern länk
+
+Observera att även din adressbok sparas i .pst filen.
+Läs eposten från .pst filen:
+För att läsa epost från .pst filen du skapat, kan du göra endera A eller B:
+A. Om du sporadiskt behöver komma åt dina gamla epost, väljer du:
+File -> Open & Export -> Open Outlook Data File
+B. Om du har lagt andra epostkonton in i Outlook, kan du importera pst-filen till nåt av dessa konton. Välj:
+File -> Open & Export -> Import/Export. Utförliga instruktioner. Extern länk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

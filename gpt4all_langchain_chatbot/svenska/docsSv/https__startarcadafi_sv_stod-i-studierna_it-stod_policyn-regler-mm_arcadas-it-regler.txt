@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arcadas IT-regler | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Arcadas IT-regler
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Yrkeshögskolan Arcada Ab – Regler för användning av IT-tjänster
+Utöver dessa regler förväntas alla användare iaktta även Arcadas informationssäkerhetspolicy och e-postpolicy. 
+1. Tillämpningsområde 
+Begreppet IT-tjänster omfattar alla informationssystem, informationstjänster, hårdvara och programvara som tillhandahålls av Yrkeshögskolan Arcada Ab (Arcada), och även sådana tjänster som görs tillgängliga genom Arcada. Reglerna gäller för all slags användning av Arcadas IT-tjänster. 
+2. Auktorisering av användaren och användaridentitet 
+2.1 Auktorisering av användaren 
+Med auktorisering avses en användares rätt (användarrätt) att använda en viss tjänst, och rätten kontrolleras varje gång användaren använder tjänsten.
+Användarens auktorisering baseras i första hand på användarens befattning och roll i Arcada, och därutöver kan ytterligare personlig auktorisering beviljas av tjänstens ägare. Auktoriseringen till olika tjänster kan vara tidsbunden och kan ändras då rollen, arbetsuppgifterna och/eller befattningen i Arcada ändras. 
+2.2 Användaridentitet 
+Såvida en IT-tjänst inte är öppen för alla, bör användaren först identifieras på ett tillförlitligt sätt för att garantera korrekt auktorisering. För detta ändamål tillämpar Arcada autentisering baserat på ett användarnamn och ett lösenord. 
+En förutsättning för att beviljas användaridentitet är att användaren förbinder sig att följa dessa Regler för användning av IT-tjänster samt Arcadas informationssäkerhetspolicy. 
+2.3 Personligt ansvar för användaridentiteten 
+Varje användaridentitet bör skyddas med hjälp av ett starkt lösenord. Om det finns anledning att misstänka att användaridentitetens lösenord hamnat i fel händer bör lösenordet bytas omedelbart. 
+En användaridentitet jämte lösenord får aldrig ges åt eller yppas för en annan person. 
+Varje användare är personligen ansvarig för alla aktiviteter som utförs med hens användaridentitet. Ansvaret gäller även situationer då användaridentiteten används av någon annan, oavsett hur denna har kommit över användaridentiteten. 
+Användningen av en annans användaridentitet är förbjudet, även om innehavaren av användaridentiteten skulle uppmana till det. 
+2.4 Auktoriseringen upphör 
+Användarrätten till Arcadas alla IT-tjänster upphör då användaren inte längre är en medlem av högskolesamfundet. 
+Personliga användarrätter upphör då 
+
+
+en tidsbunden användarrätt utgår, eller 
+
+
+användarens befattning och/eller roll ändras, och den nya befattningen/rollen inte längre medför behörighet att använda en viss IT-tjänst. 
+
+
+Innan användarrätten upphör bör användaren själv ta tillvara sådan privat e-postkorrespondens och sådana privata filer som hen behöver ha tillgång till efter att användarrätten upphört. Anställda vid Arcada bör överföra arbetsrelaterad e-postkorrespondens och arbetsrelaterat material till en annan medarbetare enligt chefens anvisningar. Detta gäller även studenter som deltagit i forskningsprojekt eller andra projekt, aktiviteter eller produktioner. 
+Då användarrätten upphör bör användaren från sin privata dator avinstallera all sådan programvara som baserar sig på licenser som är knutna till användarrätten vid Arcada. 
+3. Användarens rättigheter och ansvar 
+3.1 IT-tjänster för arbete och studier 
+Arcadas IT-tjänster är avsedda för arbets- eller studierelaterade uppgifter vid Arcada. Det är förbjudet att använda Arcadas IT-tjänster för att publicera, vidarebefordra eller sprida material som strider mot lag eller god praxis. 
+Användarrätten får inte användas för illegala eller förbjudna aktiviteter såsom att leta sårbara egenskaper, obehörig dekryptering av data, kopiering eller modifiering av nätverkskommunikation eller obehörigt intrång till informationstjänster. 
+Sådana delar eller egenskaper i informationssystem som inte uttryckligen gjorts tillgängliga för publik användning – såsom systemadministrationsverktyg eller funktioner som inaktiverats i systemets inställningar – får inte användas. 
+3.2 Personligt ansvar för informationssäkerheten 
+Varje användare är själv ansvarig för sin personliga informationssäkerhet men även för att bidra till Arcadas informationssäkerhet. 
+Konstaterat eller misstänkt intrång eller sårbarhet bör rapporteras till IT-enheten (E-post: it-support@arcada.fi)utan dröjsmål. 
+Det personliga lösenordet får aldrig avslöjas till någon annan. 
+Varje användare är skyldig att bevara konfidentialiteten till sådana uppgifter som hen har fått kännedom om. 
+Det är förbjudet att försöka komma åt/göra intrång i, missbruka, kopiera eller sprida andra användares privata information. 
+Arcada har rätt att begränsa eller upphäva användarrätten till IT-tjänsterna vid uppenbart missbruk men även som försiktighetsåtgärd, t.ex. vid misstanke om missbruk. 
+3.3 Användarens integritet 
+Utgångspunkten är att varje användares material är privat. 
+Anställda bör på ett tydligt sätt separera sitt privata material från det arbetsrelaterade (se även e-postpolicyn). Denna regel gäller även för studenter som arbetar för Arcada. 
+3.4 Användning av Arcadas nätverk 
+Arcadas kommunikationsnätverk är i första hand avsett för uppkoppling av Arcadas egen IT-utrustning samt personalens och studenternas mobila enheter. 
+Arcada har rätt att begränsa vilka enheter som tillåts ansluta till kommunikationsnätverket. Begränsningen kan verkställas tekniskt eller genom anvisningar. Användaren ansvarar för skada som dåligt underhållen eller föråldrad utrustning orsakar.  
+Användare får inte utan tillstånd utnyttja Arcadas kommunikationsnätverk för att producera egna IT-tjänster. 
+4. Övriga bestämmelser 
+4.1 Avvikelse från reglerna 
+Tillstånd till avvikelse från reglerna kan beviljas av rektor på basis av IT-chefens rekommendation, och endast på basis av skriftlig ansökan och av vägande skäl. IT-chefen kan bevilja tillstånd för smärre avvikelse. Tillståndet kan innehålla ytterligare villkor, begränsningar och ansvar. 
+4.2 Övervakning 
+IT-enheten och ägarna av de olika IT-tjänsterna ansvarar för att övervaka iakttagande av dessa regler gällande sina respektive tjänster. Alla chefer ansvarar inom ramen för sin chefsfunktion för iakttagandet av dessa regler vid sina respektive enheter.  
+Påföljderna av missbruk eller försummelse avgörs av rektor i samarbete med IT-chefen. Påföljderna kan vara disciplinära eller rättsliga, och kan basera sig på brottslagstiftning, arbetsavtalslagstiftning, yrkeshögskolelagen eller Arcadas instruktion, eller på bestämmelser som baserar sig på dessa. 
+4.3 Giltighet 
+Dessa Regler för användning av IT-tjänster har utarbetats av Arcadas IT-chef och träder i kraft den 16.8.2017. Reglerna ersätter alla tidigare motsvarande regler.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

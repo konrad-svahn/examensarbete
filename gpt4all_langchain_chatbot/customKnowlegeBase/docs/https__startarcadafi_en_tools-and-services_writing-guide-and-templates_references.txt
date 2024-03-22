@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+References
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+At Arcada, we recommend the APA 7 reference style. 
+
+The APA referencing style
+APA stands for American Psychological Association and is a common way of indicating sources. APA is a so-called author-date system. This means that you write a source citation parenthesis in the sentence or paragraph where you have used a source. In the parenthesis you write the author's surname, year and, always when possible, page number. In the list of sources at the end of the text, you give a full source reference, including publication details, publisher and link if available. The source citation is thus done in two steps.
+You should always write the source when referring to what someone else has said, written, photographed or illustrated. This also applies to figures and tables. The source reference should be accurate and clear, so that the reader can easily find the source you have used.
+Usually the author´s surname is given in the source reference parentheses. If there is no author in the source, which is common in the case of websites the name of the organisation or the title of the source is given instead. The name in the source parentheses is the reference word and that same name must be found in the list of references in the end of the text. This is important because the reader should be able to find the extended information about the source in the reference list. If the parentheses in the main text and the reference list do not correspond, the source reference technique is not working.
+In the main text, you can vary how you indicate the source. Instead of a reference parenthesis, you can use reporting verbs and refer to the source in words in the sentence. Read more under Citing and Quoting.
+References are written differently depending on the type of source. In the list of references, italicize the title if it is a book. If it is an article in a journal, write the title in normal font, but the name of the journal in italics. The different ways help the reader to identify what kind of source it is.
+You don't need to memorise source referencing techniques, but it is important always to reference correctly. If you are uncertain remember to look up the formal guidelines.
+The APA Reference Guide provides examples of how to refer to different types of sources: books, articles, websites, social media, reports, brochures, theses, PowerPoint, images, and so on.
+Use this Reference Guide!Karolinska Institutet Reference Guide for APA 7 External link
+A reference to a source, including page number look e.g. like this:(Robertsson & Paulsson, 2022, p. 47–49)
+An easy way to manage sources is to use the reference management tool Mendeley. You can save all your sources in Mendeley and use it to create a list of sources in the correct format. Read more at Arcada LibGuides External link
+Read more about how you should refer if you are using a language model, e.g. ChatGPT for some parts of the text under the heading Guidelines for AI-supported tools here in the Writing Guide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

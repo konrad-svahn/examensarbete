@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+This is a summary of the e-mail page
+
+Students can access their Arcada email in the easiest through the mobile phone. The email is located on Office365 and is called Outlook. The web address is outlook.arcada.fi External link.
+Arcada staff also uses Outlook, but the email is stored locally on our Exchange-server. The web address is owa.arcada.fi External link.
+Some users have two email addresses: E-mail: username@arcada.fi and E-mail: forename.surname@arcada.fi - both addresses have the same inbox. Please remember, when you are trying to log in, you need to use the Username, not the forename.surname. The latter address is what your recipient sees when they receive a mail from you or reply to you.
+Read more about how to use your Outlook online here External link
+How to get your Arcada mail into your phone:
+You can use your phone's native Mail-application or download the Microsoft Outlook app from the Google Play or App store whichever applies for your device. In Android, the built-in Gmail app can also be used to access your mail.
+
+Add a new "Exchange account".
+Type in username/email address as E-mail: your-username@arcada.fi
+Your device should automatically set up the account.
+If it does not automatically retrieve the settings, these are the manual parameters:
+
+Students:
+
+Server name: outlook.office365.com
+Domain\username: E-mail: your-username@arcada.fi
+
+
+Staff:
+
+Server name: owa.arcada.fi
+Domain\username: E-mail: your-username@arcada.fi
+
+
+
+
+
+Configure the Arcada-email to your laptop
+You can use the Outlook-desktop application on your laptop to access the email. The Outlook desktop application is bundled and automatically installed with the Office 365 package, So it is by default already ínstalled in all the staff laptops and classroom computers. Students can also have it on their personal computers when they download their Office suite from office.arcada.fi. Use the same configuration parameters as for your phone.
+Security features?
+When you install the Outlook email you will have to accept some security features. These features are not used by Arcada's IT-unit, but you can use them yourself. If you go with a computer to your Outlook email and then choose from the upper right corner Mail Settings -> Options -> General -> Mobile devices, you can e.g. delete everything on your phone if somebody has stolen it. But remember, if you forget to log out from Outlook on a computer or if somebody manages to figure out your password, then they can do the same thing with your phone.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

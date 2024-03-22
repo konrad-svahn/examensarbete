@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where should I save my files? | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Where should I save my files?
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Where should I save my files?
+
+Save files on Office365/OneDrive:
+
+You want to have access to and edit your files from anywhere, even when you do not have your computer with you.
+Document files like Word, Excel, Powerpoint can be edited straight from the browser.
+You can access and edit your files even from your mobile devices like a phone or tablet. The edits are updates automatically.
+You can share with others and co-edit as well as view detailed edit history.
+1 TB of storage. That's a lot of storage.
+Make sure the files are GDPR sensitive.
+
+Itslearning:
+
+Avoid large files
+But you can link to files on OneDrive
+
+Homedrive (H:):
+
+Files containing any kind of sensitive information should go here.
+Files that you want to make sure are not spread without your consent.
+
+If the H: drive is missing from the classroom computer you are using you can access it following these instructions:
+
+Open File Explorer by pressing the Windows button + E from your keyboard or by going to the Start Menu and finding File Explorer from there.
+At the top of the File Explorer, in the Address Bar, type the following:
+
+\\domus.sad.arcada.fi
+
+Press Enter. In the PopUp box, in the Username field put your username as sad\yourusername and then your regular Arcada password in the Password field. Check the box Remember your Credentials and press Ok.
+A new window will appear with a Folder with your Username as the name. You can right-click on that folder and click on Map Network Drive. Be sure to check the Drive Letter being assigned to the mapping for example H: and press Finish. Your H drive should be mapped now.
+
+Avoid USB-sticks and local drives:
+We do not recommend saving locally on the computer or on the desktop. It is very unadvisable to save important files on USB-sticks.
+Tens of students each year lose their USB-sticks, usually, the student has forgotten the memory stick in the computer and somebody has stolen it before the students return.
+Backups
+Arcada takes backups of the most important file server in-house. If you mistakenly erase a file in your homedrive for example, it is very likely that the IT-unit can restore it. (The trashcan functionality is not used in our Windows installations.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

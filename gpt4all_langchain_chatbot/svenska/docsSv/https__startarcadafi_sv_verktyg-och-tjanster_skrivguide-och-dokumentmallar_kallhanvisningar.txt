@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Källhänvisningar | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Källhänvisningar
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+På Arcada rekommenderar vi källhänvisningssystemet APA 7 för att ange källor och kälhänvisningar i texter. 
+
+Källhänvisningssystemet APA 7
+APA står för American Psyhological Association och är ett vanligt sätt att ange källor på. APA är ett så kallat författare-årtal-system. Det innebär att du skriver en källhänvisningsparentes i den mening eller stycke där du har använt en källa. I parentesen skriver du författarens efternamn och årtal. Skriv också sidnummer då det är möjligt. I källförteckningen sist i texten ger du en fullständig källhänvisning som även omfattar publiceringsuppgifter, utgivare och länk om det finns. Källhänvisningen sker alltså i två steg.
+Du ska alltid ange en källa när du refererar vad någon annan har sagt, skrivit, fotograferat eller illustrerat. Det här gäller även figurer och tabeller. Källhänvisningen ska vara korrekt och tydlig, läsaren ska enkelt kunna hitta den källa du har använt.
+Oftast är det författarens efternamn som står i källhänvisningsparentesen, om det inte finns en författare skriver du organisationens namn eller rubriken för källan, det här är vanligt då det gäller webbplatser. Det namn som står i källhänvisningsparentesen kallas uppslagsord och det namnet måste vara det ord som står först i källförteckningen. Du ska alltså kunna slå upp i källförteckningen och hitta hela informationen om brödtextens källhänvisningsparentes. Om parenteserna och källförteckningen inte korrelerar fungerar inte din källhänvisningsteknik.
+I brödtexten kan du variera hur du anger källan. I stället för en källhänvisningsparentes kan du använda referatmarkörer och omtala källan med ord i meningen. Läs mera under Referera och citera.
+Källorna skrivs på olika sätt beroende på vilken typ av källa det är. I källförteckningen kursiverar du rubriken om det är fråga om en bok. Om det är en artikel i en tidskrift skriver du rubriken med rak stil, men tidskriftens namn med kursiv stil. De olika sätten hjälper läsaren att snabbt se vilken typ av källa det är fråga om.
+Du behöver inte lära dig källhänvisningsteknik utantill, men det är viktigt att alltid hänvisa korrekt, därför ska du alltid slå upp i Referensguiden för APA Extern länk då du skriver.
+I Referensguiden för APA finns exempel på hur du hänvisar till olika typer av källor: böcker, artiklar, webbsidor, sociala medier, rapporter, broschyrer, avhandlingar, PowerPoint, bilder och så vidare.
+En källhänvisningsparentes för en bokkälla kan se ut så här i brödtexten:
+(Robertsson & Paulsson, 2022, s. 47–49)
+Ett smidigt sätt att hantera källor är att använda referenshanteringsprogrammet Mendeley. Du kan spara alla dina källor i Mendeley och med hjälp av det skapa en källförteckning i rätt format. Läs mera på Arcadas LibGuides. Extern länkLäs mera om hur du hänvisar ifall du använder en språkmodell, t.ex. ChatGPT, för någon del av en text under rubriken Riktlinjer för AI-stödda verktyg här i Skrivguiden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

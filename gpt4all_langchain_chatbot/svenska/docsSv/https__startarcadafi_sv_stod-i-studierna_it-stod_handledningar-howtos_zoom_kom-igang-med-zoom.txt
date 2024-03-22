@@ -1,0 +1,154 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kom igång med Zoom | Start
+
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Kom igång med Zoom
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Så här börjar du använda Zoom.
+
+Zoom-servicen hittar du här https://arcada.zoom.us/ Extern länk.
+Zoom fungerar via webbläsaren, ett nedladdat program på din dator eller via mobilen. Före du deltar i ett Zoom-möte är det bra att se till att ljud (mick och högtalare) och bild (webbkamera) fungerar.
+Innan varje möte har du chansen att testa att allt fungera samt att ändra inställningarna. Du kan även gå in på testsidan nedan för att se att allt är i ordning för ett Zoom möte.
+Zoom testsida: https://arcada.zoom.us/test Extern länk
+Delta på Zoom-möte
+
+Klicka på länken du fått för Zoom-mötet (antingen via e-post eller på itslearning)
+Första gången ber webbsidan dig ladda ner och installera Zoom, gör det.
+Testa mick och högtalare när du kommer in på Zoom-adressen
+
+
+Se även: Zoom problem?
+
+Ladda ner Zoom, logga in mm.
+
+
+Remote video URL
+
+
+
+
+
+
+      Du har ännu inte gett tillstånd att placera de nödvändiga cookies. Acceptera nödvändiga cookies för att se detta innehåll.
+    
+
+
+
+
+
+
+
+Se videon ovan eller följ instruktionerna:
+
+Gå till https://arcada.zoom.us/download Extern länk
+Ladda ner Zoom Client for Meetings och installera filen
+Logga in på programmet via Sign in with SSO
+Company domain: arcada.zoom.us
+Programmet öppnar webbläsaren där du behöver logga in via Arcadas inloggning.
+Nu har du Zoom ikonen i nedre balken av Windows
+
+
+
+
+
+
+FAQ: Zoom 
+
+På denna sida har vi besvarat några återkommande frågor.
+
+
+
+
+
+
+Zoom: Problem? 
+
+Om du har problem med Zoom, gör så här...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

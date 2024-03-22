@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basinstallationer i dataklasserna | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Basinstallationer i dataklasserna
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ Alla datorer med Windows 10 har följande program installerade
+
+
+7-Zip
+Adobe Reader DC
+Audacity
+Gimp
+Claro Read
+Google Chrome
+Handbrake
+Mediainfo
+Microsoft Office Professional 2021:Access, Excel, Word, OneNote, PowerPoint, Project, Publisher, Visio, Word
+Microsoft Silverlight
+Mozilla Firefox
+Notepad ++
+Octave
+OneDrive
+PSPP
+PuTTY
+WinSCP
+VLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

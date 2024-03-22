@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H-drive & the intra-server | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+H-drive & the intra-server
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Here you find information about connecting to the H-drive and the intra-server.
+
+Connect to the VPN. If you are logged in to a classroom computer you do not need any VPN-connection
+Windows computer
+Open File Explorer by pressing the Windows button + E from your keyboard or by going to the Start Menu and finding File Explorer from there.
+For your H drive, At the top of the File Explorer, in the Address Bar, type the following:
+\\domus.sad.arcada.fi
+Press Enter. In the PopUp box, in the Username field put your username as sad\yourusername and then your regular Arcada password in the Password field. Check the box Remember your Credentials and press Ok.
+A new window will appear with a Folder with your Username as the name. You can right-click on that folder and click on Map Network Drive. Be sure to check the Drive Letter being assigned to the mapping for example H: and press Finish. Your H drive should be mapped now.
+Now for Intra or I Drive, in the same address bar, type:
+\\atrium.sad.arcada.fi
+In the Popup Box, in the Username field, put your username as sad\yourusername and then put your regular Arcada password in the Password field. Check the box Remember your Credentials and press Ok.
+A new window will appear with a Folder named Intra. You can again right-click on it and click on Map Network Drive, assign drive letter I , and then press Finish. Intra will be mapped now in your File Explorer.
+Mac computer
+To see H-folder in Finder
+Open finder and press Command + kIn the field under "Connect to server" write smb://domus.sad.arcada.fi and click Connect.Make sure Registered User is marked and write your username and password and press Enter.Domus appears in Finder.
+Intra-server:
+Open finder and press Command + kIn the field under "Connect to server" write smb://atrium.sad.arcada.fi and click Connect.Make sure Registered User is marked and write your username and password and press Enter.Atrium appears in Finder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

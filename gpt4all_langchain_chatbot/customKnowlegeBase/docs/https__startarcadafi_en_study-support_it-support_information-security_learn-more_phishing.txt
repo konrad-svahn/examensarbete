@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phishing | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Phishing
+
+
+
+ 
+
+
+
+
+
+
+
+
+Phishing for passwords
+Phishing in IT means that somebody is trying to get e.g. your password or personal data through a fake webpage. 
+It often occurs that university staff and students are subject to phishing attempts.
+Phishing messages are nowadays well written in all languages. The best way to avoid these kinds of attacks is to only type the Arcada password on Luckan and ADFS. And never give out your password through email and such.
+If you suspect that a website is fake, you can start by looking at the domain it resides on. E.g:
+www.nordea.fi External link
+www.nordea-fi.net External link
+The first one is the real address of Nordea web banking system, but the other one is a fake website. If you are unsure, you can always close the website and call the it-support, or Nordea in this case.
+Phishing awareness External link  from PhishingBox External link
+Read more about Spam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

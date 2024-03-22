@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anmälan till undervisning och studiekalendern | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Anmälan till undervisning och studiekalendern
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Instruktioner för anmälan till undervisning i Sisu.
+
+Du måste alltid ha en aktiv studieplan före du anmäler dig, och i den studieplanen måste studieavsnittet som du vill anmäla dig till synas annars kommer din anmälan inte att godkännas.
+Förberedelser i studieplanen
+För att kunna anmäla dig till undervisningen måste du ha studieavsnittet i fråga vald i din studieplan. Se instruktioner för studieplanen här ifall du ännu inte skapat en studieplan i Sisu.
+Det finns flera olika sätt att anmäla sig till undervisningen:
+Anmälan via Tidslinje och Tajmingsmodell
+Denna metod passar bäst för dig som följt ordinarie studieplanen och är på åk 1-2. Denna metod visar tydligt åt dig vilka studieavsnitt du nu ska avlägga till nästa, dvs. det blir lättare för dig att anmäla dig då du vet vilka studieavsnitt du ska anmäla dig till.
+Se dessa två videon i rätt ordning; del 1 Extern länk först, sedan del 2 Extern länk. I del 2 får du även se hur Studiekalendern fungerar, dvs. hur du ser schemat för undervisningen.
+Instruktioner för Anmälan via Tidslinje och Tajmningsmodell
+Här beskrivs i text hur man tar i bruk sin Tajmningsmodell under Tidslinje, och hur denna Tajmningsmodell visar åt dig vilka studieavsnitt du ska avlägga till näst.
+
+Börja med att kontrollera att du har rätt studieplan. Klicka på Studiestruktur uppe i vänstra hörnet och kontrollera att du har rätt studieplan, d.v.s. att din studieplan har rätt år (undervisningsplansperiod) och att den är primär.
+Titta igenom din studieplan för att se vilka studieavsnitt du ännu ska avlägga och klicka sedan på Tidslinje uppe i balken högst uppe på sidan.
+När du ser tidslinjen kontrollera igen att du har rätt studieplan, d.v.s. att din studieplan har rätt år och att den är primär. Klicka sedan på Tajmningsmodell i den blå balken till vänster för att se vilka studieavsnitt du ska avlägga till näst.
+Nu finns det en grå meny till vänster. Välj rätt utbildningsprogram i drop down-menyn och klicka sedan på Ta i bruk. Stäng sedan den gråa menyn.
+I tajmningsmodellen ser du i vilka perioder studieavsnitten går. Klicka på den lilla blåa kurskoden för det icke-avlagda studieavsnitt som är placerat i nästa inkommande periods kolumn. Exempel: om du ska göra kursanmälan för period 3 under läsårer 2023-2024 ska du nu titta på de studieavsnitt som räknas upp i koulmnen för Våren 2024, period 3.
+Kontrollera igen att du har rätt undervisningsplansperiod, d.v.s. pågående läsår, i drop down-menyn uppe i vänstra hörnet (om du är på åk 2-4 ska du följa dessa instruktioner längre ner på denna sajt). Välj sedan den undervisningsgrupp som passar dig bäst och klicka på Välj till höger. Ifall ett studieavsnitt har två undervisningsgrupper som kunde passa dig kan du välja båda för att sedan i Studiekalendern jämföra vilket studieavsnitts tidtabell passar dig bäst.
+Nu ser du en liten blå balk uppe på sidan. Du kan gå direkt till anmälning via den, men det rekommenderas att du först väljer alla studieavsnitt som du ska avlägga i komande period.
+Stäng den blåa balken genom att klicka på krysset uppe i högra hörnet. Stäng sedan rutan med information om studieavsnittet genom att klicka på krysset uppe till höger.
+Välj sedan alla de resterande studieavsnitt du ska avlägga i nästa period på samma sätt som beskrivs ovan.
+När du valt alla dina studieavsnitt som du ska avlägga i nästa period ska du klicka på Anmälan i den gråa balken högst uppe på sidan.
+Nu ser du ditt utbildningsprogram i drop down-menyn uppe till vänster. Hoppa över den första sektionen; skrolla neråt.
+När du skrollar neråt ser du en uppräkning av de studieavsnitt och grupper du valde in från Tajmningsmodellen till vänster. Klicka på Anmäl för varje enskilt studieavsnitt. Om du vill se studieavsnittets tidtabell ska du skrolla tillbaka upp och klicka på Studiekalender uppe i den gråa balken, högst uppe på sidan.
+Nu ser du din studiekalender. Klicka på pilen vänster/höger om datumet för att få fram rätt vecka. Till höger ser du en grå meny i vilken du kan filtrera fram olika studieavsnitt. Aktivera åtminstone filtret Väntar på anmälan.
+Notera att studieavsnitten har olika färgkoder. Klicka på den lilla pilen i varje studieavsnitt i den gråa menyn till höger för att se mera information om själva undervisningen. Klicka på pilarna vänster/höger om datumet ovanför studiekalendern för att se när undervisningen äger rum. Klicka på Anmäl i menyn höger om studiekalendern om studieavsnittets tidtabell passar dig. Nu ser du en ruta med mera information om studieavsnittet.
+I rutan ska du läsa igenom minimikraven för att få delta i undervisningen. Detta är aktuellt om det finns för många anmälningar. Kontrollera också att ditt utbildnignsprogram syns i drop down -menyn Studierätt uppe till vänster.
+Under Uppsättning har en del studieavsnitt gruppval som du måste ta ställning till. Här ser du också tidtabell, plats och lärare. Klicka till sist på Bekräfta nere i högra hörnet.
+Nu ser du studiekalendern och den gråa menyn till höger. För att stänga informationen ska du klicka på den lilla pilen. Med hjälp av de olika filtren kan du nu se vad du har anmält dig till och hur många studieavsnitt som ännu väntar på anmälan.
+Gör på samma sätt som ovan för att anmäla dig till alla de studieavsnitt du ska avlägga i inkommande period.
+Om ett studieavsnitt har flera undervisningsgrupper anmäler du dig till den undervisningsgrupp som passar dig bäst.
+När du anmält dig till alla studieavsnitt som du ska avlägga är du inte automatiskt anmäld utan du måste vänta på lärarens bekräftelse.
+
+Snabbanmälan via Studieplanen
+Denna metod passar för dig som har en individuell studieplan och som vet vilka kurser du ska anmäla dig till eller för dig som endast har ett par studieavsnitt kvar att avlägga: åk 3-4 och masterstudenter. Denna metod är litet snabbare men du måste själv veta vilka studieavsnitt som erbjuds i nästa period (eller pröva dig fram) och du måste veta vilka studieavsnitt du ska anmäla dig till.
+Här kan du se en engelskspråkig video för denna metod  Extern länkför kursanmälan. Videon finns enbart på engelska då dess metod fungerar bäst för studenter som hunnit studera redan än längre tid.
+Instruktioner för snabbanmälan via Studieplan
+Börja med att öppna studieplanen i Sisu, och klicka på koden för studieavsnittet du vill anmäla dig till. Gå sen till fliken Prestationssätt.
+Efter det ska du klicka på den blåa knappen "Välj" till höger på samma rad som undervisningen du vill välja. Observera att du inte ännu är anmäld till undervisningen, det sker i nästa steg.
+
+ 
+
+
+
+
+
+
+
+Om det inte finns en blå länk under Undervisning betyder det att det inte erbjuds undervisning för studieavsnittet under läsåret. Du som är i åk 2-4 eller masterstudent: läs även dessa instruktioner för byte av version!
+Dessa förberedande steg kan du göra när som helst när det finns undervisning för studieavsnitten i Sisu. Du kan alltså gå in och välja prestationssätt och välja undervisningen innan anmälan öppnar.
+Kompetensmålen, innehållet samt förkunskapskraven hittas på Info-fliken i pop-up-fönstret när man klickar på studieavsnittets kod i studieplanen.
+För att hitta mer information om kursen, gå till fliken Prestationssätt och klicka på undervisningen för att komma till informationen längre ner på sidan.
+
+ 
+
+
+
+
+
+
+
+Där hittar du undervisningens arbetsmetoder, examination och bedömning, arbetsmängd samt studiematerial.
+Genom att klicka på Anmälan hittar du anmälningstiden, antalet platser samt kraven du måste uppfylla för att anmälan ska godkännas till undervisningen.
+
+ 
+
+
+
+
+
+
+
+Hur se sitt schema i Sisu
+Du ser ditt schema i Sisu för de studier du anmält dig till genom att gå till Studiekalender Extern länk. Efter det ska du i balken till höger filtrera fram Anmälan gjord och Anmälan godkänd. På detta sätt får du fram alla kurser du anmält dig till, oavsett om läraren hunnit gå in och godkänna ditt deltagande eller inte. Kom ihåg att ändra datum i kalendern så att du ser in i framtiden.
+
+ 
+
+
+
+
+
+
+
+Hur annullera anmälan til kurs/studiemoment
+Du kan annullera din anmälan till undervisningen så länge som anmälan pågår och studiemomentet inte börjat. Gå till Anmälan Extern länk och klicka på Annullera.
+När anmälningstiden har gått ut kan du inte längre annullera din anmälan om det inte har utsatts en tilläggstid för inställning. Du kan endast avbryta prestationen.
+
+ 
+
+
+
+
+
+
+
+Avbryt prestationen:
+
+Öppna Anmälning-sidan, sök upp undervisningen du vill avbyta från Anmälan behandlad-kolumnen.
+Klicka på Avbryt prestationen i anmälningslådan.
+
+Du ser en varning om att du inte längre själv kan anmäla dig till undervisning som du avbrutit.
+
+
+Bekräfta avbrytningen. Du kan granska avbrutna studier via Studiekalenderns flik Avslutade och avbrutna och du kan ta bort undervisningen ur studiekalendern.
+
+När du avbryter prestationen får du också statusen Inactive i studiemomentets Itslearning-kursutrymme.
+
+
+
+Observera: om du avbryter prestationen kan du inte anmäla dig på nytt till samma studiemoment själv, utan du måste kontakta E-post: sisu@arcada.fi.
+
+ 
+
+
+
+
+
+
+
+Hur byta till rätt version av prestationssättet
+Om du är på åk 2-4/5 så har du kanske inte direkt rättighet till pågående läsårs version. Notera: i bilderna nedan är exemplet från läsåret 2023-2024; om du läser detta i mars 2025 så ska läsåret/versionen vara 2024-2025.
+Då ska du följa dessa instruktioner.
+När du valt studieavsnittet hittar du denna "Byt till denna version"? Klicka på "Byt till denna version"
+
+ 
+
+
+
+
+
+
+
+Klicka sedan på ”Välj det här prestationssättet”
+
+ 
+
+
+
+
+
+
+
+Till sist aktiveras möjligheten att välja och du kan ”Välja” till höger!
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arcada Sisu Support
+Namn: Siri Ahlroth, Sabina Eerola, Krister Karlström 
+Position: Studieärenden
+
+ E-post: sisu@arcada.fi
+
+
+
+ 
+
+
+
+
+
+
+
+
+Vi hjälper dig med bl.a.:
+
+Din studieplan i Sisu
+Instruktioner för användningen av Sisu
+Tekniska problem
+
+Vänligen notera att behandlingstiden för mejl kan vara lång. Alla meddelanden besvaras.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ: itslearning | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+FAQ: itslearning
+
+
+
+ 
+
+
+
+
+
+
+
+
+Why can I login everywhere else but itslearning?
+Try going to start.arcada.fi External link -> itslearning, then you should have no problems...
+
+I.e. it is likely that you went directly to arcada.itslearning.com and tried logging in with the wrong button. If you go directly to arcada.itslearning.com, you need to choose Log in with Arcada IdP
+
+Why does the itslearning "email" not work?
+itslearning has an "inbox", but it is not the same as your Arcada email.
+itslearning contains an internal messaging platform where users can message each other. Some teachers use it, some don't. As a student you need to keep up with your Arcada email and itslearning messages.
+If you download the application, it is much easier to keep everything in check.
+http://www.itslearning.net/itslearning-app External link
+Why can I not find the course material on itslearning?
+If the teacher has publicized the material, you are looking at the wrong course with 99,9% probability.
+Triple-check that you are enrolled to the right course on ASTA. Then triple-check that you are looking at the right course on itslearning.
+(If the course is "archived" on itslearning, you are probably looking at the wrong course.)
+Why can I not find the course on itslearning?
+You have probably enrolled the wrong course on ASTA.
+Check ASTA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

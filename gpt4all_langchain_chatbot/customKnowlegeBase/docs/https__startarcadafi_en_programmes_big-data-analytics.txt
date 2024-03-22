@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Big Data Analytics | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Big Data Analytics
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+The programme is arranged so that you rapidly gain a broad understanding of the essential concepts of big data analytics; descriptive and predictive modelling, as well as optimization. The program emphasizes the importance of understanding how to build analytical solutions with production level code.
+
+Qualification awarded: Master of Engineering
+Level of qualification: 2nd cycle
+Scope: 60 ECTS credits
+Duration: 1 year (full-time)
+Mode of study: full-time
+Language of tuition: English
+Programme director: Leonardo Espinosa Leal
+The programme is arranged so that you rapidly gain a broad understanding of the essential concepts of big data analytics; descriptive and predictive modelling, as well as optimization. The program emphasizes the importance of understanding how to build analytical solutions with production level code.
+After completing the studies the graduates are able to drive development of analytics solutions in various organisations. They have skills and knowledge to develop models, programming, and business models. Graduates have problem-solving and knowledge-production skills that foster innovative thinking and knowledge-based solutions. The student will also be able to take responsibility for planning, implementing and monitoring data processing solutions that the commissioning organisation needs.
+Overall competencies
+The overall achieved competence after graduating with this Master’s degree is to be able to lead the development of big data analytics services. Big Data Analytics studies gives an in-depth understanding of how to make use of data in order to create insights. The student will acquire state-of-the-art analytics knowledge and advanced practical big data skills from solving real world data problems. Apart from this, an important general competence is to increase the student’s technology leadership ability, as well as, communicative and social competences in English.
+General Structure
+Big data analytics is a horizontal skill that can be applied in most fields as they increasingly become data driven. You will get the opportunity to learn a broad set of techniques for dealing with data of various types. The studies focus on a combination of problem solving, data processing, identifying opportunities, machine learning, validation, and service development. The scope of the degree programme is 60 ECTS (European Transfer Credit System). This includes six courses (á 5 ECTS) and your personal thesis work. Thesis work includes research seminars and substantial personal tuition from our experienced thesis supervisors.
+The Master’s thesis project (30 ECTS) consists of a development or research project for a client (e.g. your employer) or a collaboration with Arcada’s researchers, followed by a thesis report. In some cases this can be part of the students entrepreneurial activities. You start working towards your thesis project immediately and get to show your capability of systematically performing a project with a practically applied problem as a starting point. Based on the development needs of the client/researcher you then develop the thesis project in close co-operation with your supervisor and contact person at the commissioning company.
+Structure of studies
+Please note that Arcada UAS has the right to change names of courses listed in each module below or replace courses within modules.
+Advanced studies (30ECTS)
+The advanced studies gives the student a core knowledge module (30 ECTS), focusing on the different areas in the big data analytics workflow.
+All courses are taught entirely in English.
+BIG DATA ANALYTICS (30 ECTS)
+Core competencies
+The purpose of the core knowledge module is to support your competence development by broadening your understanding of certain key areas in the big data analytics workflow. The student is able to identify data questions, use analytics models for solving these, and visualize solutions that help in communicating complex data sets. The student is also able to analytically and critically examine, reflect and communicate on issues central for business analytics development.
+The study module consists of the following courses
+
+
+
+Introduction to Analytics
+5
+
+
+Machine Learning for Predictive Problems
+5
+
+
+Visual Analytics
+5
+
+
+Machine Learning for Descriptive Problems
+5
+
+
+Big Data Analytics
+5
+
+
+Analytical Service Development
+5
+
+
+
+ANALYTICAL RESEARCH METHODOLOGIES AND MASTER’S THESIS (30 ECTS)
+Core competences
+The student can choose a relevant topic for their master’s thesis, create a research problem and formulate a precise purpose for their research and/or development project. The student is also capable of writing a logical and well-structured research plan for the project. The master’s thesis is an individual piece of work in the form of an empirical research and development project. The
+student shows her capability of systematically performing a study with a possible practical problem as a starting point. This practical problem is then formulated as a research problem and is solved by a specific purpose with possible related research questions. The student is able to use relevant existing knowledge of the studied phenomena and can create a structural and logic theoretical framework for the study. The student can decide to conduct the master’s thesis with a commissioner, for example the employer.
+The study module consists of the following courses
+
+
+
+Research Seminar and Master’s Thesis
+30
+
+
+
+Career opportunities
+By participating in this master's degree programme you will significantly broaden your opportunities for career advancement. Graduates will be able to work with a wide range of tasks in various industries. Positions include development and conventional managerial positions, e.g.:
+
+Big data analytics developer
+Big data analytics manager
+Data engineer
+Data scientist
+Principal or senior software developer
+Head of analytics
+Head of development
+Senior analyst
+Consultant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

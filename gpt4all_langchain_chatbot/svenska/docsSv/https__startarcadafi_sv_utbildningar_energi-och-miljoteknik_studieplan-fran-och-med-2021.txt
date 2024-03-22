@@ -1,0 +1,596 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Studieplan från och med 2021 | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Studieplan från och med 2021
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Studieplan för yrkeshögskoleexamen i Energi- och miljöteknik 
+
+
+Examen och omfattning: Ingenjör YH 240sp / 4 år
+Utbildningsspråk: Svenska och engelska
+
+Utbildningens inriktningar
+På basen av de behov som finns i samhället och arbetslivet har utbildningen valt att profilera sig för att svara mot detta framtida behov. Utbildningen har följande inriktningar som bygger på samhällets och arbetslivets behov och har förankring i Arcadas strategi:
+
+Inriktning 1: Elteknik och förnybar energi
+Inriktning 2: Digitala system och automationsteknik
+Inriktning 3: Smarta energisystem
+
+Du väljer att inrikta dig på en av de ovannämda inriktningarna. Centrala teman i Arcadas strategi som de valda inriktningarna konkretiserar är hållbar utveckling och digitalisering.
+Inriktningen Elteknik och förnybar energi ger en bred överblick av produktion och användning av energi lokalt och globalt. Studierna omfattar förutom förnybara energiformer som vind- och solenergi även kurser inom geotermisk energi samt lösningar för uppvärmning och kylning med värmepumpar och kylanläggningar. Smarta flexibla elnät där en stor del av kapaciteten består av energianläggningar för distribuerad förnybar energi (som t.ex. vindkraftverk) ingår också i utbildningen. Inriktningen Elteknik och förnybar energi (som innehåller 45 sp studier i elteknik) leder till rätt att ansöka om elplaneringsrättigheter baserad på lagstiftningen i Finland från Person- och företagsbedömning SETI Ab. (OBS! Den sökande ska visa sig uppfylla de krav som fordras beträffande studier och praktik inom elbranschen samt att den sökande har avlagt godkänd elsäkerhetsexamen. Mer information finns här. Extern länk
+Inriktningen Digitala system och automationsteknik ger kunskap om hur digitala system och automationsteknik kan tillämpas främst inom energi- och miljöteknik. Inriktningen omfattar modellering, styrning och optimering av processer/system. Modellering inkluderar identifiering och simulering av system, styrning av processer inkluderar reglerteknik, styrteknik och internetbaserad kommunikation. Kunskaperna i inriktningen fördjupas med ett FUI-projekt.
+Inriktningen Smarta energisystem ger kunskap i förnybar energi och smarta tillämpningar av dessa. Studierna i förnybar energi omfattar förnybar energiproduktion, miljöpåverkan och energisystemens ekonomi. Med smart teknologi kan energisystemen modelleras och optimeras. Kunskaperna i inriktningen fördjupas med ett FUI-projekt.
+Valet av inriktningen sker på våren. På ansökan om inriktning ska du ange två önskade inriktningar i prioritetsordning. Mer information om ansökan och länken till ansökan skickas i mars 2024. 
+Utbildningens uppbyggnad
+Notera att högskolan förbehåller sig rätten att ändra namnen på studieenheterna, eller att byta studieenheterna i respektive modul.
+Allmänbildande studier (15 sp)
+Bildning i ett digitalt och hållbart nordiskt samhälle (15 sp)
+Efter avlagd modul kan du med din grundläggande professionellalärande- och karriärkompetens studera och lära dig självstyrt och aktivt. Du kan identifiera och värdesätta dina egna styrkor och utvecklingsbehov. Du kan redogöra för konceptet kontinuerligt lärande och kan tillämpa det då du planerar din karriärutveckling. Du kan agera i och lära dig för ett alltmer digitaliserat samhälle. Du kan kritiskt granska och analysera information för att främja din innovations-och utvecklingskompetens vilket skapar förutsättningar för din bildningsgrund. Du kan identifiera grunderna för kommunikativ och social kompetens och kan agera och kommunicera i olika professionella och sociala sammanhang. Du kan redogöra för de yrkesetiska principerna och hållbarhetsaspekterna i det nordiska samhället. Du kan verka för jämställdhet och kulturell mångfald.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Teknologi och lärande
+5
+
+
+Teamarbete och innovation
+5
+
+
+Etisk och hållbar samhällsutveckling
+5
+
+
+
+Professionsspecifika studier (180 sp)
+Består av grundläggande studier och avancerade studier.
+Basstudier i teknik (30 sp) - Grundläggande studier
+Modulen har fokus på den matematisk och naturvetenskaplig kompetens inom teknisk kemi och fysik och därtill lär du dig grundläggande programmering. Efter avlagd modul har du grundläggande kompetenser i geometri, vektoralgebra, matrisalgebra, komplexa tal, derivering och integrering för tillämpningar. Du kan utföra grundläggande programmeringsuppgifter med valda programmeringsspråk.Modulen integrerar också den allmänna kompetensen inom teknologi och den är kopplad med Arcadas mål att förbereda dig för ett arbetsliv där tekniska, digitala och autonoma system hör till arbetsprocesserna.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Matematik 0
+0
+
+
+Linjär algebra
+5
+
+
+Differentialkalkyl
+5
+
+
+Integralkalkyl
+5
+
+
+Teknisk kemi
+5
+
+
+Teknisk fysik
+5
+
+
+Introduktion till programmering och automation
+5
+
+
+
+Hållbar modellering (15 sp) - Avancerade studier
+Modulen har fokus på den professionsspecifika kompetensen inom hållbarhet. Under modulen utvecklar du dina professionsspecifika kompetenser inom materialåtervinning och energieffektivitet. Efter avlagd modul kan du jobba för att minimera material -och energianvändningen i nya och befintliga tekniska system. Du kan utföra livscykelanalys och använda miljöledningssystem för att utforma miljömässigt och etiskt hållbara system. Modulen är kopplad till Arcadas strategiska val att främja hållbar utveckling lokalt och globalt.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Miljö och resurser
+5
+
+
+Hållbar energi och material
+5
+
+
+Livscykelanalys
+5
+
+
+
+Teknisk modellering (15 sp) - Avancerade studier
+Modulen har fokus på den professionsspecifika kompetensen inom teknisk modellering. Efter avlagd modul kan du använda digitala metoder och verktyg som används för mättningar, analys, teknisk ritning och 3D-modellering. Du har en stark grund i CAD-baserade design och simuleringar. Du kan använda avancerade design metoder för hållbar modellering, optimering och simuleringar i digital miljö. Den allmänna kompetensen inom teknologi ingår också i modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Teknisk ritning
+5
+
+
+Datorstödd planering (CAD)
+5
+
+
+Programmering
+5
+
+
+
+Professionell kommunikation (15 sp) - Avancerade studier
+Om du har svenska eller finska som skolbildningsspråk (skolbildning från Finland) måste du uppfylla den språkkompetens som enligt lagen (424/2003, 6§) krävs av offentligt anställda. Du ska kunna fungera professionellt i olika språkliga situationer inom ditt eget område på svenska, finska och engelska. Du kan anpassa ditt språk till varierande kommunikationssituationer och har redskap och förutsättningar för att utveckla dina kommunikationsfärdigheter.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+English Professional Communication EEE
+5
+
+
+Svenska och kommunikation för ingenjörer
+5
+
+
+Tekniikan suomi
+5
+
+
+
+Praktik 1 (15 sp) - Avancerade studier
+Inledande praktik inom tekniska branschen. Under inledande praktik övar du kompetenser du erhållit, dock med klar koppling till den tekniska branschen. Du kan tillämpa de etiska koder och säkerhetsprinciper (inklusive arbetssäkerhet) som är inblandade i arbetslivet. Mer information om praktik finns här.
+Praktik 2 (15 sp) - Avancerade studier
+Arbetspraktik inom tekniska branschen. Efter avlagd modul kan du tillämpa de avancerade teoretiska kunskaper du inhämtat och förmår utföra professionstypiska uppgifter självständigt och även ta egna initiativ för att effektivisera ditt eget arbete och de processer du bidrar till. Mer information om praktik finns här.
+Inriktning 1 - Elteknik och förnybar energi*
+*Du väljer en inriktning och dess moduler.
+Elteknikens grunder (30 sp) - Avancerade studier (Inriktning 1)
+Modulen fokuserar på elteknisk kompetens på ingenjörsnivå. Efter avlagd modul kan du redogöra för likströms- och växelströmsteori, magnetism samt konstruktionen och funktionsprincipen för vanliga elektriska anordningar. Du kan förklara principerna för hur el kan överföras och uppbyggnaden av det nationella elnätet i Finland. Du har kompetens i elsäkerhet och förstår vikten av elsäkerhetsföreskrifter.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Teoretisk elektroteknik
+5
+
+
+Mätteknik
+5
+
+
+Elsystemteknik
+5
+
+
+Kraftelektronik
+5
+
+
+Omvandlarteknologi
+5
+
+
+Automation
+5
+
+
+
+Förnybar energi (30 sp) - Avancerade studier (Inriktning 1)
+Modulen handlar om samhällets energiförsörjningssystem och fossilfria energiproduktionsmetoder. Efter avlagd modul kan du förklara konstruktion och funktionsprincip för energitekniska anläggningar för produktion av förnybar energi. Du kan bidra till att minimera anläggningarnas miljöpåverkan. De allmänna kompetenserna innovations- och utvecklingskompetens, etisk hållbarhetskompetens samt global och lokal kompetens är kopplade till den här modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Allmän energikunskap
+7,5
+
+
+Energiproduktionens miljöpåverkan
+5
+
+
+El- och värmeproduktion
+5
+
+
+Förnybar energiproduktion
+7,5
+
+
+Energisystemens ekonomi
+5
+
+
+
+Elteknik (15 sp) - Avancerade studier
+Efter avlagd modul kan du planera elförsörjningen för industrier och fastigheter enligt myndigheters anvisningar och riktlinjer för god elplanering.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Elsäkerhet
+5
+
+
+Elplanering
+5
+
+
+Elmaskinlära
+5
+
+
+
+Inriktning 2 - Digitala system och automationsteknik*
+*Du väljer en inriktning och dess moduler.
+Automationsteknik (30 sp) - Avancerade studier (Inriktning 2)
+Du har kännedom om automation som används inom energi- och miljöteknik. Efter avlagd modul förstår du dig på modellering och simulering av processer. Du kan tillämpa processreglering (PID-reglering med olika reglerstrukturer) och styrteknik (enligt IEC 61131) och har en kännedom om modellbaserad och multivariabel reglering.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Automation
+5
+
+
+Mätgivare, mätsignaler och datakommunikation
+5
+
+
+Modellering, identifiering och simulering
+5
+
+
+Reglerteknik och reglerstrukturer
+5
+
+
+Styrteknik
+5
+
+
+Modellprediktiv och multivariabel reglering
+5
+
+
+
+Digitala system (30 sp) - Avancerade studier (Inriktning 2)
+Modulen handlar om smarta system som används främst inom energitillämpningar. Efter avlagd modul kan du skapa modeller med hjälp av artificiell intelligens (AI) och maskininlärning (ML). Olika typer av modeller för simulering och optimering ingår även i modulen. Du kan använda visuella data för objektklassificering och –lokalisering. Tillämpad datakommunikation som används inom “sakernas internet-lösningar” (IOT-lösningar) är även en del av modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Maskininlärning
+5
+
+
+Neurala närverk
+5
+
+
+Energiteknisk simulering
+5
+
+
+Smarta system
+5
+
+
+Gränssnitt för smarta system
+5
+
+
+Sakernas internet
+5
+
+
+
+Tillämpade digitala system / automationsteknik (15 sp) - Avancerade studier (Inriktning 2)
+Du kan tillämpa och fördjupa inriktningens kompetenser inom ett digitaliserings- eller automationsteknikprojekt. Projekt-uppdragen ges av beställare och modulen kan även genomföras tillsammans med någon internationell samarbetspartner. Projekten genomförs med lämplig projektledningsmetod. De allmänna kompetenserna innovations- och utvecklingskompetens, etisk hållbarhetskompetens samt global och lokal kompetens är kopplade till modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Tillämpade digitala system / automationsteknik
+15
+
+
+
+Inriktning 3 - Smarta energisystem*
+*Du väljer en inriktning och dess moduler.
+Förnybar energi (30 sp) - Avancerade studier (Inriktning 3)
+Modulen handlar om samhällets energiförsörjningssystem och fossilfria energiproduktionsmetoder. Efter avlagd modul kan du förklara konstruktion och funktionsprincip för energitekniska anläggningar för produktion av förnybar energi. Du kan bidra till att minimera anläggningarnas miljöpåverkan. De allmänna kompetenserna innovations- och utvecklingskompetens, etisk hållbarhetskompetens samt global och lokal kompetens är kopplade till den här modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Allmän energikunskap
+7,5
+
+
+Energiproduktionens miljöpåverkan
+5
+
+
+El- och värmeproduktion
+5
+
+
+Förnybar energiproduktion
+7,5
+
+
+Energisystemens ekonomi
+5
+
+
+
+Digitala system (30 sp) - Avancerade studier (Inriktning 3)
+Modulen handlar om smarta system som används främst inom energitillämpningar. Efter avlagd modul kan du skapa modeller med hjälp av artificiell intelligens (AI) och maskininlärning (ML). Olika typer av modeller för simulering och optimering ingår även i modulen. Du kan använda visuella data för objektklassificering och –lokalisering. Tillämpad datakommunikation som används inom “sakernas internet-lösningar” (IOT-lösningar) är även en del av modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Maskininlärning
+5
+
+
+Neurala närverk
+5
+
+
+Energiteknisk simulering
+5
+
+
+Smarta system
+5
+
+
+Gränssnitt för smarta system
+5
+
+
+Sakernas internet
+5
+
+
+
+Smarta energisystem (15 sp) - Avancerade studier (Inriktning 3)
+Du kan tillämpa och fördjupa inriktningens kompetenser inom ett projekt inom smarta energisystem. Projektuppdragen ges av beställare och modulen kan även genomföras tillsammans med någon internationell samarbetspartner. Projekten genomförs med lämplig projektledningsmetod. De allmänna kompetenserna innovations- och utvecklingskompetens, etisk hållbarhetskompetens samt global och lokal kompetens är kopplade till modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Tillämpade smarta energisystem
+15
+
+
+
+Utvecklingsstudier (15 sp)
+Din examen innehåller också 15 studiepoäng valfria utvecklingsstudier.
+Efter avlagd modul har du förmåga att möta olika framtida behov och utmaningar på ett ansvarsfullt sätt i en lokal och global samhällskontext. Du har en professionell lärande -och karriärkompetens med förmåga att identifiera, analysera och lösa problem i arbetslivet. Du kan tillämpa din etiska kompetens och hållbarhetskompetens i det praktiska arbetet. Du kan bidra till utvecklingsdrivande processer i professionell kontext. Du förmår tillämpa dina kreativa och innovativa färdigheter och ta stöd av tekniken för att skapa utveckling. Du kan samarbeta professionellt med andra studenter, människor i arbetslivet och andra områden samt branscher. Du kan agera medvetet i olika sociala internationella och interkulturella miljöer och reflektera analytiskt och kritiskt kring den egna rollen i sammanhanget. Du kan verka för öppenhet i grupper, organisationer och samfund.
+
+
+
+Modul
+Studiepoäng
+
+
+
+
+Circular Economy
+15
+
+
+Projekt
+15
+
+
+Främmande språk
+15
+
+
+Externa kurser
+15
+
+
+
+Mer information om utvecklingsstudier finns här.
+Forskningsstudier (30 sp)
+Lärdomsprov och metodik (30 sp)
+Efter avlagd modul kan du bidra till och kritiskt förhålla dig till utvecklingen på ditt område med stöd i övergripande och avancerade kunskaper inom ditt område. Du kan kritiskt förklara, diskutera och bedöma samt argumentera för teorier, centrala begrepp, metoder och principer. Du kan lösa också komplexa problem inom din profession och kan lära dig och dela lärdomar tillsammans med andra. Du kan med stöd i en avancerad informationskompetens validera kunskap och argumentera för skillnaden mellan data, information och kunskap. Du följer och kan diskutera och främja forskningsetiska principer.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Skirftlig forskningsmetodik
+5
+
+
+Data analys
+5
+
+
+Examensseminarium
+5
+
+
+Lärdomsprov
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

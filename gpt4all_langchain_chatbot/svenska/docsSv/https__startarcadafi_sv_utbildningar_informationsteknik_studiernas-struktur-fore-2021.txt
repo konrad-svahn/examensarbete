@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Studiernas struktur (före 2021) | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Studiernas struktur (före 2021)
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+På denna sida hittar du hur studierna är strukturerade om du inlett dina studier i informationsteknik 2020 eller tidigare. Dina studier består av 240 studiepoäng / ECTS som du avlägger under 4 år.
+
+Utbildningen är upplagd så att studenten i regel kan avlägga 15 studiepoäng (sp) under en studieperiod på 10 veckor. En studiepoäng motsvarar 27 timmars studier eller arbete. Fyra studieperioder bildar ett studieår, och du som student beräknas avlägga 60 sp per studieår. Studieplanen är uppbyggd av följande studiehelheter: allmänna studier (30 sp), grundstudier (30 sp), ämnesstudier (90 sp), breddstudier (30 sp), praktik (30 sp) examensarbete (30 sp). Totalt omfattar utbildningen alltså 240 sp. Vi rekommenderar att studierna genomförs i en viss ordning. Individuella studieplaner uppgörs vid behov för att underlätta studierna.
+Allmänna studier och grundstudier
+Under det första året lär du dig att kritiskt analysera omvärlden för att inse nyttan av djupgående analys. Kursen Teamarbete och innovation (tidigare Arcada 360) sporrar till kritiskt tänkande och ger dig möjligheten att bygga upp ett nätverk inför framtiden. Under det första året får du också lära dig mycket om kommunikation och betydelsen av att kommunicera korrekt, samt att utveckla ett grundläggande matematiskt/logiskt resonemang. Under det första året får du också lära dig mera om din egen bransch. Du börjar med att lära dig om webbutvecklingsplattformar och programmeringsspråk. Målsättningen är också att du ska få ett grepp om visuellt tilltalande design och få en insikt om datas natur.
+Ämnesstudier
+Projektbaserat och studentfokuserat lärande är den övergripande pedagogiska idé som används i IT-utbildningen. Studiernas kärna är självstudier och projektarbeten, vilket innebär att introduktion av kunskap sker via föreläsning, men bearbetning av kunskap gör du självständigt via problemlösning inom olika projekt. Andra arbetsformer som används är föreläsningar, workshops, praktik och arbetslivsrelaterade projekt samt tematräffar och seminarier. Med projektbaserat arbetssätt som grund utvecklar du en förmåga att identifiera problemområden och formulera frågeställningar i olika verklighetsanknutna situationer i arbetslivet för att aktivt kunna bearbeta dem i en koppling mellan teori och praktik. Detta arbetssätt utvecklar även din förmåga att arbeta i team.
+Inom ramen för dina ämnesstudier kan du till exempel fördjupa dig på:
+
+Webb och visualisering
+Analytiska metoder och datavetenskap
+Tjänsteorienterade arkitekturer och systemutveckling
+Maskininlärning och beslutstödssystemutveckling
+
+Breddstudier
+Studieplanen innehåller även breddstudier (30 sp) t.ex. språk, entreprenörskap eller företagsekonomiskt-relaterat ämne. Breddstudier som består av helheter på minst 15 sp kan avläggas under alla studieår men rekommenderad tidpunkt är det andra läsåret.
+Praktik
+Se sidan för praktik.
+ 
+Examensarbete
+Examensarbetshelheten består av följande kurser: IT-juridik och etik, projektledning, metodologi- och examensseminarium samt examensarbete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: itslearning | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: itslearning
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: itslearning
+
+
+Varför kan jag logga in på alla andra tjänster, men inte itslearning?
+Varför fungerar inte itslearning ”eposten”?
+Varför hittar jag inte kursmaterialet på itslearning?
+Varför hittar jag inte min kurs på itslearning?
+
+Varför kan jag logga in på alla andra tjänster, men inte itslearning?
+Pröva med att gå till itslearning via start.arcada.fi Extern länk, då borde din inloggning gå via den centrala inloggningen och fungera lika normalt som för de andra webbtjänsterna.
+
+Sannolikt gick du alltså direkt till arcada.itslearning.com och försökte logga in via vänstra spalten. Om du går direkt till arcada.itslearning.com, måste du använda knappen Log in with Arcada IdP
+
+Varför fungerar inte itslearning ”eposten”?
+itslearning innehåller en ”inbox”, men det är INTE samma som din Arcada epost.
+itslearning har ett internt kommunikationsverktyg, där lärare och studenter kan skicka meddelanden sinsemellan. Somliga lärare använder det för att kommunicera med studenterna, somliga lärare använder sig bara av Arcada eposten. Som student behöver du hålla koll på din epost och din itslearning post.
+Om du laddar ner itslearning appen till din mobil, har du enkelt att hålla koll på allt.
+http://www.itslearning.net/itslearning-app Extern länk
+Varför hittar jag inte kursmaterialet på itslearning?
+Ifall läraren publicerat materialet, är du med 99,9% sannolikhet inne på fel kurs.
+Trippel-checka att du är anmäld till rätt kurs på ASTA. Sedan trippel-checka att du tittar på rätt kurs i itslearning.
+(Ifall kursen är ”arkiverad” på itslearning, tittar du sannolikt på fel kurs.)
+Varför hittar jag inte min kurs på itslearning?
+Du har sannolikt inte anmält dig till kursen på ASTA.
+Checka ASTA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

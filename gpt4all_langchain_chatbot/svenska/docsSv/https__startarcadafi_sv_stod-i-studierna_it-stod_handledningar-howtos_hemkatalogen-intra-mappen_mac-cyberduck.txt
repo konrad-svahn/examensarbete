@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mac: Cyberduck | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Mac: Cyberduck
+
+
+
+ 
+
+
+
+
+
+
+
+
+Cyberduck  Extern länkkan användas för att komma åt hemkatalogen eller intran hemmifrån. Programmet rekommenderas närmast för Mac-användare.
+Inställningar
+
+Server: penti.arcada.fi
+Protokoll: SFTP
+Port: 22
+More Options ->
+Encoding: ISO-8859-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

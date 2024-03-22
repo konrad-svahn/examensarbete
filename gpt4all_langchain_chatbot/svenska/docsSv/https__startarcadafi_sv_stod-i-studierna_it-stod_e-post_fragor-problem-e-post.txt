@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: E-post | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Frågor & Problem: E-post
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Vad är Outlook-epostens IMAP/SMTP inställningar?
+Studenter kan använda följande inställningar:
+IMAP: Server name: outlook.office365.com |  Port: 993 | Encryption method: SSL
+SMTP: Server name: smtp.office365.com | Port: 587 | Encryption method: TLS
+Se mer: Outlook help Extern länk
+Lärare kan använda som server "owa.arcada.fi" och programmet borde konfigurera sig automatiskt.
+Hur flyttar jag över min gamla webmail.arcada.fi till Office365 (Outlook)?
+Härifrån Extern länk.
+Hur lägger min student epost att gå till en annan adress (gmail etc) ?
+Du kan sätta en forward i Outlookens inställningar. Gå till Settings och sök på "Forwarding".
+Hur laddar jag ner mina epost?
+Se här.
+Jag vill byta min epostadress, hur gör jag?
+Ifall du bytt namn kan vi ändra på din Arcada epostadress om du kontaktar it-support. Ditt användarnamn hålls den samma, den går bara att byta i extremt speciella fall.
+Jag blev färdig och nu kommer jag inte åt min epost, vad göra?
+Då du avslutar dina studier vid Arcada kommer ditt konto på Office365 att raderas och du kommer inte längre att ha tillgång till vare sig e-post eller material som du lagrat i din Onedrive. Ifall detta kom som en överraskning, vänligen kontakta E-post: it-support@arcada.fi
+Jag har min epost ännu på gamla webmail, vilka inställningar skall jag ha på telefonen?
+Vi stöder inte mer webmail Extern länk. Flytta över din epost till office365 Extern länk.
+Jag kan inte skicka en stor fil över epost, vad göra?
+Använd Filesender eller OneDrive för att skicka stora filer över nätet.
+Jag är en ny student men min Outlook tar inte emot epost?
+Testa lösa problemet med att gå till: https://hr.arcada.fi/migrate/ Extern länk och migrera din epost till Outlook. Kontakta E-post: it-support@arcada.fi ifall det inte löser problemet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

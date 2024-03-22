@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VPN tunnel To Arcada | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+VPN tunnel To Arcada
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+To log on remotely to the computers at Arcada you need a VPN-tunnel and Microsoft Remote Desktop.
+Here you find information for Windows computer and Mac computer.
+
+Windows computer
+Open this link Arcada VPN files External link and download the msi-file and the ovpn-file. Install the msi-file and start OpenVPN Connect-app. Open the menu and choose "Import profile". Choose "FILE" and drag the ovpn-file you downloaded to the app, or click on "Browse" and choose the file. Write your username without @arcada.fi and click Connect. Give the password. If a message "Missing External Certificate" pops up, just click continue. Now you have an open VPN-tunnel to Arcada. Open remote desktop and connect to a computer at Arcada.
+If you do not find Remote Desktop on your computer you need to install the app from Microsoft Store. Open Microsoft Store and search for "Remote Desktop" and install it.
+Mac computers
+Open the link, Arcada VPN files External link, and download ArcadaVPN.ovpn.
+Open the link Tunnelblick  External linkand download the latest stable version of Tunnelblick. Open the Tunnelblick xxxx. Buildxxx.dmg file and follow the instructions. When the installaion procedure asks for a "VPN Configuration" click on "I have Configuration files". The file ArcadaVPN.ovpn is the configuration file you need.
+When the installation is done click on Connect. Give your username without @arcada.fi. In the next field you give your password and click OK.
+To get a Remote Desktop Connection to a Windows computer at Arcada you need to download Microsoft Remote Desktop app from Apple Store. To open a connection to a Windows computer on Arcada open Microsoft Remote Desktop app and give the PC name e.g. E385-001.ad.arcada.fi. If you get a message that the certificate could not be verified, click Continue.
+Det går inte att ta remote Desktop till Arcadas iMac-datorer.
+Useful links
+Follow the link to find available computers External link
+If things are not working contact E-mail: it-support@arcada.fi.
+Quick link to Softwares in computer labs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

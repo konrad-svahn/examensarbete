@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backups of your email | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Backups of your email
+
+
+
+ 
+
+
+
+
+
+
+
+
+When you are leaving Arcada you might want to download all your email to your computer.
+Instructions for the old Arcada webmail system (Horde / Roundcube External link):
+Instructions for Office365 Outlook
+Exporting of the address book
+Horde / Roundcube users:
+
+Go to webmail.arcada.fi -> Roundcube
+Choose Adressbok
+Export
+
+Office 365: Outlook users:
+
+Go to outlook.arcada.fi
+Choose Contacts
+Choose Manage -> Export Contacts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

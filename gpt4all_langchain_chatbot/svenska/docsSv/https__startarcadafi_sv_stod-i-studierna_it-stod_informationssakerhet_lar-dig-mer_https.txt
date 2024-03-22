@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTTPS | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+HTTPS
+
+
+
+ 
+
+
+
+
+
+
+
+
+När man använder webbläsare eller epost överförs datan vanligen i okrypterad form. I princip kan vem som helst läsa trafiken där emellan.
+Man behöver inte nödvändigtvis kryptera all data som över över webben, men t.ex. när man går till nätbanker är det ytterst viktigt att informationen är krypterad.
+HTTPS är en krypterad version av HTTP protokollet som används på internet. Och när du går till exempelvis nätbanken kan du se att adressen alltid börjar med HTTPS.
+
+Alltid när du gör uppköp på internet eller överför annan sensitiv information, kolla att webbadressen börjar med HTTPS.
+
+Alla respektabla företag på internet använder HTTPS för sensitiv dataöverföring. Undvik de andra.
+Nuförtiden börjar HTTPS vara redan populärt bland all sort av webbsidor, t.ex. reddit.com och start.arcada.fi använder båda HTTPS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

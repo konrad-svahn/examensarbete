@@ -1,0 +1,367 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Studieplan | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Studieplan
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Studieplan för yrkeshögskoleexamen i teknik med examensbenämning ingenjör (240 sp)
+
+ 
+Helhetskompetens
+Utbildningen leder till ingenjörsexamen i informationsteknik med fokus på informationsanalys och utveckling av mjukvarutjänster. Studenten kan planera och utveckla programvara, för webb-, mobil- och molnbaserade tjänster, som klarar av att visualisera, analysera och hantera de stora datamängder som existerar i dag. Studenten kan även motivera användningen av olika typer av beslutsmodeller för att besvara olika frågeställningar.
+Profil
+På basis av de behov som finns i samhället och arbetslivet gällande ingenjörer har vi valt att profilera vår ingenjörsutbildning med inriktning på informationsanalys. Utbildningens profil ger en djup och bred kompetens inom hantering, visualisering och bearbetning av data. Informations-analysingenjörernas kompetensportfölj svarar mot det framtida behov som finns såväl nationellt som internationellt och vår utbildning svarar mot den enorma efterfrågan på ingenjörer med kunskap inom informationsanalys. Under utvecklingen av utbildningens profil har studenter, alumner och externa intressenter medverkat och påverkat processen. Profilen bygger på de professionsspecifika kompetenserna som identifierats inom forskningen och genom arbetslivskontakter (se figur 1 nedan). Profilen ger studenten kompetenser att arbeta inom utvecklandet av programvara för såväl webb, mobila platsformer, molntjänster, 3D som robotik. Dessa kompetenser kombineras även med en förståelse för den affärsvärld som omger många ingenjörsinnovationer.
+Studiernas uppbyggnad (antagna 2021 eller senare)
+Notera att högskolan förbehåller sig rätten att ändra namnen på studieavsnitten, eller att byta studieavsnitt i respektive studiehelhet.
+Allmänbildande studier (15 sp)
+BILDNING I ETT DIGITALT OCH HÅLLBART NORDISKT SAMHÄLLE (15 sp)
+Kompetensmål
+Efter avlagd modull kan du med din grundläggande professionella lärande- och karriärkompetens studera och lära dig självstyrt och aktivt. Du kan identifiera och värdesätta dina egna styrkor och utvecklingsbehov. Du kan redogöra för konceptet kontinuerligt lärande och kan tillämpa det då du planerar din karriärutveckling. Du kan agera i och lära dig för ett alltmer digitaliserat samhälle. Du kan kritiskt granska och analysera information för att främja din innovations- och utvecklingskompetens vilket skapar förutsättningar för din bildningsgrund. Du kan identifiera grunderna för kommunikativ och social kompetens och kan agera och kommunicera i olika professionella och sociala sammanhang. Du kan redogöra för de yrkesetiska principerna och hållbarhetsaspekterna i det nordiska samhället. Du kan 15 verka för jämställdhet och kulturell mångfald.
+I modulen ingår studier i
+
+
+
+Teknologi och lärande
+5
+
+
+Teamarbete och innovation
+5
+
+
+Etisk och hållbar samhällsutveckling
+5
+
+
+
+Professionsspecifika studier (135 sp)
+Består av grundläggande studier (75 sp) och avancerade studier (90 sp).
+PROFESSIONELL KOMMUNIKATION (15 sp) - Grundläggande studier
+Kompetensmål
+Efter avlagd modul och om du har svenska eller finska som bildningsspråk fyller du de kompetenskrav som enligt lagen (424/2003, 6§) krävs av offentligt anställda. Du kan fungera professionellt i olika språkliga situationer inom ditt eget område. Du kan anpassa ditt språk till varierande kommunikationssituationer och har redskap och förutsättningar för att utveckla dina kommunikationsfärdigheter.
+I modulen ingår följande studieavsnitt
+
+
+
+English Professional Communication (IA)
+5
+
+
+Tietotekniikan suomi
+5
+
+
+Svenska och kommunikation för ingenjörer
+5
+
+
+
+WEBB OCH VISUALISERING (30 sp) - Grundläggande studier
+Kompetensmål
+Efter avlagd modul kan du använda plattformar, ramverk och programmeringsspråk för webbutveckling. Du kan utveckla webbapplikationer och förklara webbarkitekturen. Du kan framställa visuellt tilltalande och lättanvända användargränssnitt, vilket innefattar även responsiv design dvs. att layouten förändras beroende på vilken klient besökaren har.
+I modulen ingår följande studieavsnitt
+
+
+
+Webbutveckling
+5
+
+
+Front-end programmering
+5
+
+
+Back-end programmering
+5
+
+
+Webbkommunikation, databaser och CMS
+5
+
+
+Ramverk och webbapplikationer
+5
+
+
+Visualisering av information
+5
+
+
+
+INFORMATION OCH DATA SAMT TILLÄMPAD MATEMATIK OCH FYSIK (30 sp) - Grundläggande studier
+Kompetensmål
+Efter avlagd modul har du färdigheter i att tillämpa matematik för att lösa diverse problem. Du kan förklara grundläggande naturvetenskapliga fenomen, kan simulera sådana i grafiska 2D- och 3D-miljöer och kan redovisa hur en spelmotor fungerar. Du kan hantera, strukturera och göra statistiska beräkningar på data. Du kan planera och framställa applikationer som baserar sig på objektorienterad 30 sp programmering och realisera algoritmer i programkod.
+I modulen ingår följande studieavsnitt
+
+
+
+Matematisk programmering
+5
+
+
+Vektorer och krafter
+5
+
+
+Statistik och sannolikhet
+5
+
+
+Oscillation och partikelsystem
+5
+
+
+Datastrukturer och algoritmer
+5
+
+
+IT-juridik och etik
+5
+
+
+
+TJÄNSTEORIENTERADE ARKITEKTURER OCH ANALYTISKA METODER (30 sp) - Avancerade studier
+Kompetensmål
+Efter avlagd modul kan du förklara hur de vanligaste nätverksprotokollen fungerar på Internet och är förmögen att utvärdera säkerhetsriskerna i datahantering samt tillämpa datasäkerhet i olika nätverkstjänster. Du kan utveckla webbtjänster för utbyte av information mellan nätverksnoder och kan ta ställning till hur en mjukvaruarkitektur kan göras skalbar genom utnyttjande av molninfrastruktur. Du är förmögen att designa och utveckla programvara som tillämpar business intelligence och artificiell intelligens.
+I modulen ingår följande studieavsnitt
+
+
+
+Nätverksprotokoll och datasäkerhet
+5
+
+
+Webbtjänster och molnteknologi
+5
+
+
+Mjukvaruutvecklingsprocessen - DevOps
+5
+
+
+Autonoma agenter
+5
+
+
+Design av analytiska system
+5
+
+
+Cloud Native Apps
+5
+
+
+
+MASKININLÄRNING OCH BESLUTSTÖDSSYSTEMSUTVECKLING (30 sp) - Avancerade studier
+Kompetensmål
+Efter avlagd modul kan du bygga programvara som t.ex. förutspår händelser på basis av tidigare data och identifierar objekt och händelser i bilder genom tillämpning av maskininlärning. Du kan förklara och kritiskt granska hur deskriptiv data mining utförs, samt kan själv vara med och utveckla dylik mjukvara. Du förmår implementera avancerade modeller för att lösa både regressions- och klassificeringsproblem. Du kan påvisa en optimal lösning till ett givet problem. Du kan skapa både automatiserade expertsystem och beslutsstödsystem.
+I modulen ingår följande studieavsnitt
+
+
+
+Datorseende
+5
+
+
+Deskriptiv analytik - Data/Text mining
+5
+
+
+Prediktiv analytik
+5
+
+
+Beslutsstödsystem och verifikation
+5
+
+
+Preskriptiv analytik
+5
+
+
+Maskininlärning och optimering
+5
+
+
+
+PRAKTIK (30 sp) - Avancerade studier
+Kompetensmål
+Efter avlagd modul kan du tillämpa de kunskaper och färdigheter utbildningen ger, samt kan utföra typiska arbetsuppgifter inom 30 sp branschen och inom det område du valt att fördjupa dig i. Du kan med ditt arbete skapa ett mervärde för företagen och du har praktisk erfarenhet av att arbeta med IT-ingenjörsrelevanta uppgifter. Du kan agera i arbetslivet på ett sätt som visar självständigt ansvarstagande, förmåga att ta initiativ och att nyutveckla produkter och tjänster. Du kan förklara vad som förutsätts för företagande och entreprenörskap.
+I praktiken ingår följande delar
+Praktikperiod 1 är en grundläggande praktik, dock med klar koppling till den tekniska branschen. Under den första praktikperioden bör grundstudier integreras i praktiken så att studeranden tar reda på och analyserar sin omgivning ur ett allmänt informationstekniskt perspektiv.
+Praktikperiod 2 är en specialisering vilket innebär att arbetsuppgifterna bör stöda ämnesstudiernas innehåll.
+Praktikperioderna är inplanerade under fjärde studieåret, period 3 och 4. Detta är dock mera en rekommendation än en absolut regel. Studenten kan flexibelt välja att utföra praktiken även under sommarmånaderna eller under övriga tider som bättre passar in i den individuella studieplanen.
+Utvecklingsstudier (30 sp)
+Kompetensmål
+Efter avlagd modul har du förmåga att möta olika framtida behov och utmaningar på ett ansvarsfullt sätt i en lokal och global samhällskontext. Du har en professionell lärande- och karriärkompetens med förmåga att identifiera, analysera och lösa problem i arbetslivet. Du kan tillämpa din etiska kompetens och hållbarhetskompetens i det praktiska arbetet. Du kan bidra till utvecklingsdrivande processer i professionell kontext. Du förmår tillämpa dina kreativa och innovativa färdigheter och ta stöd av tekniken för att skapa utveckling. Du kan samarbeta professionellt med andra studenter, människor i arbetslivet och andra områden samt branscher. Du kan agera medvetet i olika sociala internationella och interkulturella miljöer och reflektera analytiskt och kritiskt kring den egna rollen i sammanhanget. Du kan verka för öppenhet i grupper, organisationer och samfund.
+Under läsåret 2022-2023 erbjuds följande utvecklingsstudier:
+
+
+
+Företagets funktioner
+25
+
+
+Entrepreneurship
+15
+
+
+Språk (via Hanken)
+10
+
+
+Online media
+25
+
+
+Projekt
+5
+
+
+
+Under läsåret 2023-2024 erbjuds följande utvecklingsstudier:
+
+
+
+Företagets funktioner
+25
+
+
+Entrepreneurship
+15
+
+
+Språk (via Hanken)
+10
+
+
+Online media
+15
+
+
+Projekt
+5
+
+
+
+Forskningsstudier (30 sp)
+LÄRDOMSPROV OCH METODIK (30 sp)
+Kompetensmål
+Efter avlagd modul kan du bidra till och kritiskt förhålla dig till utvecklingen på ditt område med stöd i övergripande och avancerade kunskaper inom ditt område. Du kan kritiskt förklara, diskutera och bedöma samt argumentera för teorier, centrala begrepp, metoder och principer. Du kan lösa problem inom din profession och kan lära dig och dela lärdomar tillsammans med andra. Du kan med stöd i en avancerad informationskompetens validera kunskap och argumentera för skillnaden mellan data, information och kunskap. Du följer och kan diskutera och främja forskningsetiska principer.
+I modulen ingår följande delar
+
+
+
+Databearbetning
+5
+
+
+Ledning av utvecklings- och forskningsprojekt
+5
+
+
+Metodologi och examenseminarium
+5
+
+
+Examensarbete
+5
+
+
+Examensarbete
+10
+
+
+
+Utbud läsår 2023-2024
+Se bifogad tabell nedan.
+
+
+
+ 
+Lista på studieavsnitt IT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

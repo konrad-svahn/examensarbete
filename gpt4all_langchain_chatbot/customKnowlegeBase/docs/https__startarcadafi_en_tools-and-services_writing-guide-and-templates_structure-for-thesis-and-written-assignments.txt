@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Structure for thesis and written assignments | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Structure for thesis and written assignments
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Arcada has ready-made writing templates for you to use for written work during your studies and for the thesis. 
+
+The structure of an academic text
+All texts have an introductory part, a main part and a concluding part. A thesis also comprises three parts. The front and end matter are mainly provided for reader courtesy, whilst the central part comprises the actual text.
+
+
+
+Front matter
+Main text
+End matter
+
+
+Title page
+Introduction
+List of references
+
+
+Documentation page, certificate, abstract
+ (only in thesis)
+Methods
+(Appendices)
+
+
+Table of content
+Results
+ 
+
+
+(List of tables)
+Discussion/conclusion
+ 
+
+
+(List of figures)
+ 
+ 
+
+
+(Glossary of terms and
+abbreviations used)
+ 
+ 
+
+
+
+The main body of an academic text consists of an introduction; motivation for choice of research topic, background, aim of the study, research question and/or hypothesis and limitations. In the introduction you can also include definitions and describe the structure of your text. This is followed by the theoretical framework and literature review. Next, you should describe the methodology of how you approach your research question or how you carry out the research. In the results section, you will present your findings and analyse your material. In the discussion section, you draw conclusions and refer back to the aim for the study and the research question. In the discussion section you can also comment on your own research and look ahead by suggesting what further research on the topic might look like.
+The main part of your text can thus be seen as the actual text, and it should thus function as a whole in which all chapters and paragraphs are connected. The aim for the study and the research question should run like a thread through the whole text and form a logical whole for the reader.
+For the main part, i.e. the running text, you can follow a model for scientific reports, IMRaD (Introduction, Methods, Results and Discussion). The four parts are then divided into logical units, chapters and sub-chapters, which are given descriptive headings.
+Title page
+Use the correct template for written assignments and thesis at Arcada. On the binder, write the title of the text, your name, the type of text (thesis, course examination, practical report, etc.), the degree programme and the submission date.
+Table of content
+The heading of the table of contents is Contents and is written with heading level 1. The Contents do not have a chapter number. In the table of contents, you only write on which page the chapters start, not on which page a chapter ends. The page numbering forms a straight column on the far right.
+The table of contents lists all the chapters and special pages in your work. Special pages are summaries and appendices. Summaries are written for thesis only and are placed before the table of contents. For thesis written in Swedish, summaries must be provided in Swedish and English and, if the client so wishes, in Finnish.
+Chapter 1 is usually called introduction and this is where the pagination starts, meaning that it is the first page where the page number is visible at the bottom of the page. However, the pages are counted from the cover, which means that the first visible page numbering is e.g. 3.
+Introduction
+The introduction presents the research question - your topic - and the way in which you have chosen to approach it. Here, the purpose is to establish the framework on which the entire thesis work rests: the aim, the material and the method.
+The sequence of the different parts in the Introduction can vary depending on the established principles within your subject area. To find out more about the conventions within your area, consult your supervisor.
+The Introduction provides the macro-context of your study, i.e. essential background. Therefore, after establishing the motivation and aim, the idea is to briefly outline your research design, i.e. material and method. Usually the material and method are later elaborated in their own designated chapter/s, e.g. Methodology. However, remember that the results should not be reported in the Introduction.
+The Introduction should be divided into sub-sections whose content and substance is determined by the nature of the thesis subject. Usually, for example, the research aim and the research questions appear in the same section, as do the material and method. The first section of the Introduction usually has the heading Background, which also motivates the significance of the choice of research topic.
+Depending on the scope of the work, these elements are covered in the introduction:
+
+Motivation for choice of research topic. Explain the significance of your selected topic and describe the background to the topic, preferable with sources.
+Background. The lead-in to the introduction should provide the reader with the macro-context of your study, i.e. essential background information necessary to understand the actual study. The aim is to expand on the context of the topic, its relevance, etc. to orient the reader and bring the topic into focus. Precisely what this information consists of is related to the topic, but information about a commissioning company can be briefly presented here.
+Aim of the study. Formulate your aim early on; it will help focus on the right questions. Specifically state and sufficiently explain your research aim so that the reader can understand your line of thinking. You may need to further elaborate on your aim later after the Introduction chapter.
+Research questions and hypotheses. Formulate and define your aim with the help of research questions or hypotheses.
+Limitations. Motivate why you have chosen to limit the scope of the problem area as you have. Above all, this means explaining to the reader how you have limited the research material. What fell beyond the scope of your study and why?
+Theoretical framework. Briefly refer to earlier research in your topic and try at the same time to establish how your work is connected to previously published research and theories central to your topic. Indicate which main sources have been used to structure your theoretical argumentation. Usually a comprehensive literature review is provided in its own chapter, after the Introduction.
+Method. Provide a brief overview of the method/s you adopted.
+Definitions. Always be sure to define the central concepts you use.
+Structure of thesis. Finish by giving a brief description of how the thesis is structured chapter by chapter.
+
+Method
+In the methods section, you present an account and argumentation for your choice of methods, describing them with reference to method theory, and clarifying how respective methods are used in your text.
+Methods refer to:
+
+methodology (starting point, research approach, scientific philosophy)
+choice of empirical or theoretical material and way of handling (literature, documents, informants/interviewees/participants of the study)
+other material
+method of data collection
+data analysis/interpretation
+method of evaluating the results.
+
+In a comprehensive research and literature review you identify which key search terms, databases, limitations, selection of material, reporting methods you have used. The research ethics is covered in its own section and related to the relevant points in the study as well as to the entire study.
+Description of the material
+Briefly explain how you selected and gathered your material. Also motivate the reasons for making those choices.
+Description of methods
+If you have conducted an investigation, it is necessary to explain the steps you have taken. The description of the methods should be sufficiently detailed so that, in principle, the investigation can be repeated and checked.
+Results
+The purpose of this section is to present the results of your study. There are three aspects to your results:
+Raw data – Present the results or data you have obtained from your method,
+Data analysis – Report your findings after analysing the gathered data,
+Data interpretation – Explain what your findings mean.
+Do not leave it to the reader to organise and structure your work, but present the information you have collected in a clear and accessible manner. The results are presented in continuous prose, but in order to stress or highlight what is important, use tables, diagrams, pictures, quotations, or other illustrative material to highlight important matters
+Endeavour to present the results as objectively as possible, since personal interpretations and reflections do not belong here. Being objective also means not writing in the first- person form (the I form) when you present the results.
+Discussion and conclusions
+In the Discussion, the results are usually first summarised. It is here that you critically examine and discuss your results, which means that you can present and support your own interpretations in the light of the theory and literature sources presented earlier.
+In the Discussion, the aim is to address the research questions you posed in the introduction and explain how the hypothesis holds. Refer back to the introduction and check whether the results satisfy your research aims. If these two do not correlate, you can reformulate your research aim – this does not imply that you are cheating but that you recognise that writing is a process.
+The discussion, or the critical examination of your analysis and interpretation of your results naturally leads to your study's overall findings, in other words your Conclusions. Here, you should present the broader implications of your research so that the reader can understand the relevance of your study to the background you presented in the beginning of the thesis. The idea is to show how your findings can be generalised.
+You are also expected to evaluate your study and indicate its possible shortcomings. On the one hand, this shows that you are a conscious and reflective writer, and on the other that you are helping others who are studying similar questions to select an alternative approach. To end with, you can highlight what you think remains unanswered and could be interesting to focus upon for future researchers.
+List of references
+The list of references is written on a new page after the last chapter of the main text. The list of references is written with heading level 1. This chapter is not numbered but the page numbering continues. The APA 7 Reference Guide tells you how to write the references, what information to include, what parts to italicize, where to place paragraphs, and how to enter URLs.
+The list of references should be in alphabetical order according to the authors' last name or another keyword if there is no author's name. The keyword is the author´s surname, name of the organisation or the title of the source. What is written in the parenthesis in the main text must therefore correlate with what is first in the alphabetical list of references, otherwise it is impossible for the reader to know which citation parenthesis is associated with which source in the list of references.
+To facilitate reading and clarity in the reference list, long sources are written with indents starting from line two. The line spacing in the sources is 1 and between the sources you leave a blank line. See the example of a list of references in the template.
+Use The reference guide for APA 7 External link by Karolinska Institutet.
+Appendices
+Academic reports sometime contain appendices. Examples of what can be found in the Appendices are questionnaires, circular letters, interview questions, and transcripts of interviews. Compilations of results in the form of tables or figures can also appear as appendices, if there are too many or they are too lengthy to include in the body of the text.
+The Appendices are not counted as a chapter, nor do they have a chapter number, but they do follow their own numbering (Appendix 1, 2 etc.), and they do have a heading. List the Appendices with numbers and headings in the Table of Contents. They are not paginated as part of the text. If an appendix consists of several pages, the pages should be numbered, e.g. Appendix 1/1(3), which means the first page of three in Appendix 1.
+Special pages in the thesis
+In addition to the main text, the thesis contains a number of special pages, of which the title page, the documentation page with the abstract, the table of contents, and the list of references are obligatory. Arcada provides a template for the thesis.
+Title page
+The title page is the cover page. The title page states the title of the thesis, the author’s name, the name of degree programme and year. The title page is included in the page count, but pagination does not appear until the main text begins.
+Documentation page
+The documentation page contains information about your thesis and an abstract of the content. As a general rule, you should write your thesis in the language of the programme. In some cases, the thesis may be written in a language other than the language of the degree, e.g. if you are participating in a project conducted in a different language. You need permission of The Head of the Academy to write in another language.
+Abstract
+The thesis abstract should always be written in English. An abstract in Swedish should be included when the language of instruction is Swedish. If the thesis is written in Finnish, an abstract in Finnish should be included. This means that some thesis work contains abstracts in three languages.
+The purpose of the abstract is to give the reader a short summary of what the thesis contains. The abstract can be compared to a book’s back cover: the reader can grasp the content of the work. The abstract, together with the title page, is the part of the thesis that is openly visible on the net, and it is probably the most widely read part of the entire thesis.
+The abstract describes your research aim and your research questions - and/or hypotheses. Begin by outlining what your research was about. Continue with a brief description of the method(s) employed and the subjects of study. Finally, conclude by presenting the findings from your results. The abstract is thus placed at the beginning of the thesis, but it is written last of all. The abstract should be short, and is normally written in one paragraph. The number of words is 200–300, which means that every word should convey meaning.
+If the thesis is written in a different language than that of instruction, a longer summary of the thesis must be written in the degree programme language of instruction. The summary should be approximately 10 % of the thesis, and is placed at the end of the work, before the references.
+Keywords
+The documentation page also contains 4–8 keywords, which will be input into the library catalogue Theseus. In order for your thesis to be found, it is therefore important that you are careful to select key words from Finto. Finto is a Finnish thesaurus and ontology service, which enables both the publication and browsing of vocabularies in Finnish, Swedish and English. For thesis works in the health care sciences you can also use the Karolinska Institute's Swedish MeSH. Do not use abbreviations or acronyms as key words. Instead, you can use a term that describes the field.
+Thesis in another language than the degree programme
+Longer summary of the degree thesis
+In general, the degree thesis is written in the language of the degree programme. A short summary (or abstract) of about 300 words is part of the degree thesis.
+In exceptional circumstances, the degree thesis can be written in a different language than that of the degree programme, if the Dean for School has given permission to do so, e.g. if you participate in a project carried out in another language. In these cases, a longer summary in the language of the degree programme shall also be written. The longer summary should be about 10 % (about 5 pages) of the length of the degree thesis, and is placed at the end of the work, before the list of sources. In the list of contents, it should also be evident that a longer summary in the language of the degree programme is included in
+Explanatory box
+
+Expressed plainly, this means e.g. that you study in Swedish at a Swedish language programme, but have been given permission by your Dean for School to write your degree thesis in English or Finnish. In that case, in addition to the degree thesis itself, you also have to write a longer summary in Swedish of the whole degree thesis. This summary is included as a final chapter in your degree thesis. If you study in English, but have permission to write your degree thesis in Swedish or Finnish, a longer summary in English has to be included in your thesis
+
+Why do you write a longer summary in the degree programme language? 
+The purpose with a longer summary in the programme language is that you show that you can express yourself professionally in a topic within your field. The reason is also that people who are interested in the programme and research in the area can read about your research in the language of the degree programme.
+The recommendation is that the longer summary should be about 10% of the length of the whole degree thesis. The longer summary in other words is a concise account of your thesis. The summary has to give a clear and coherent picture of the whole degree thesis; the purpose, research question, methodology, theory and the background, as well as your results and analysis.
+The longer summary should have the same structure as your degree thesis. It is a good idea to use the same main headings. When writing summaries of this kind, it is important that the core content of each chapter are related in the summary. In other words, it is not an option to translate various parts and sentences from your thesis, but you need to analyse your own text and in different words summarise the core message in Swedish (/English). Since different languages work in different ways, you can’t simply translate word by word, you need to rework the text according to the norms and requirements the language in question follows.
+The longer summary is a part of your degree thesis and should be included as the final chapter of the thesis. This means that the longer summary has to be finished in good time before you present your work. Therefore, plan your schedule accordingly, so that you have plenty of time to write a good summary that clearly and concisely and in a good language describes your work. Keep in mind that, in addition to subject knowledge, the summary should show your ability to compose academic text in Swedish (/English). It is a good idea to at an early stage joint the writing workshop in order to receive support in the writing process, it can be challenging to write in a foreign language even though you master the subject itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

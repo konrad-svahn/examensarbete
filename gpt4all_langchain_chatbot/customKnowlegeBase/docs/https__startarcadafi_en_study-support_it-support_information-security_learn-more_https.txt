@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HTTPS | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+HTTPS
+
+
+
+ 
+
+
+
+
+
+
+
+
+When you use a web browser the information is usually sent unencrypted. That means anyone can read the traffic between you and the server. 
+It is not in princip necessary to encrypt everything that is transferred over the internet, but when you visit e.g. your net banking account it is of highest importance.
+HTTPS is an encrypted version of the HTTP protocoll and when you go to your net banking system you will notice the address begins with HTTPS.
+
+Whenever you do online shopping, make sure the address starts with HTTPS
+
+All respectable companies have HTTPS for sensitive data transmission. Please avoid all other shops.
+Nowadays HTTPS is becoming quite popular among different kinds of web sites. E.g. reddit.com and start.arcada.fi both use HTTPS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

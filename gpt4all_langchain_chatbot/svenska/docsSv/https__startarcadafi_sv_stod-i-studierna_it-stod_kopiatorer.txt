@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kopiatorer | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Kopiatorer
+
+
+
+ 
+
+
+
+
+
+
+
+
+Med Arcadas kopiatorer kan du kopiera, skriva ut och skanna in.
+
+Studenterna har tillgång till kopiatorer i blocken D3, E3, F3 och i tidskriftssalen (även A3-format).
+Lärarna har tillgång till kopiatorer i alla personal block.
+Skriv ut till printern kallad Follow-Me 
+Logga in på kopiatorn med din nyckel. Noggrannare instruktioner finns vid varje maskin.
+Studenter kan köpa krediter för kopiatorerna av studerandekår ASK Extern länk i Cor-huset.
+Skriv ut i färg genom att välja Printer Properties innan du trycker på Print.
+
+Skriv ut från din privata Windows-laptop
+
+Se till att din laptop är ansluten till eduroam
+Klicka Start-tangenten på din laptop
+Skriv in \\pix i det lilla fältet nere till vänster, och avsluta med Enter
+Logga in med ditt Arcada-användarnamn och lösenord
+Ett fönster med alla tillgängliga skrivare öppnas: dubbelklicka Follow-Me
+Nätskrivaren Follow-Me är nu installerad på din laptop och klar att användas.
+
+Om du loggar ut från din laptop eller startar om den, måste du eventuellt upprepa stegen 2-4 ovan för att autentikera dig, innan du kan skriva ut till Follow-Me igen.
+Skriv ut från din Mac-laptop
+För studenter med Mac-dator rekommenderar vi tillsvidare att skriva ut från en Arcada-dator - spara dina dokument på Office365  Extern länkså går det behändligt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

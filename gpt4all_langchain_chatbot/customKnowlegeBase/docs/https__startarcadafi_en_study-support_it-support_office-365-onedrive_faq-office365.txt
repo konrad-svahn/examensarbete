@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ: Office365 | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+FAQ: Office365
+
+
+
+ 
+
+
+
+
+
+
+
+
+How do I change language in o365?
+Unfortunately Office365 default language is Finnish. For changing it:
+
+On the top navigation bar, click Settings to open the Settings pane.
+Then click Sivuston asetukset -> Kieliasetukset.
+Choose language.
+At the end of the page choose Korvaa käännökset: Kyllä and click Ok.
+
+Suddenly Office365 ProPlus on my computer asks me for a license number, why is that?
+At the log in, use your short email address as login name (E-mail: username@arcada.fi). As password use your Arcada password.
+If it does not work, choose another Office program (Excel etc.) and try do the same thing there. If the login works on one program, all programs will be logged in.
+Why can I not login to Office365 even though my password is correct?
+Never try to login with E-mail: forename.surename@arcada.fi on Office365. Instead use your short arcada email address (E-mail: username@arcada.fi) and in the ADFS dialog use only your 8 letter username to login.
+I graduated and now cannot access my files, what do I do?
+When you graduate, your IT-account and your email address and files will all be deleted. If you were not prepared for this, please email E-mail: it-support@arcada.fi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

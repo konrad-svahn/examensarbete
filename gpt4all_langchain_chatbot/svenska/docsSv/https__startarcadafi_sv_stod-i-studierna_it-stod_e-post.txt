@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-post | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+E-post
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Hur du konfigurerar Arcadas epost.
+
+Studenter läser enklast sin Arcada e-post via telefonen, epost tjänsten ligger på Office365 och kallas för Outlook. Webbadressen är outlook.arcada.fi Extern länk.
+Personalen använder också Outlook, men eposten ligger inte på Office365 utan på vår egen Exchange-server. Webbadressen är owa.arcada.fi Extern länk.
+Vissa användare har två e-postadresser: E-post: användarnamn@arcada.fi och E-post: förnamn.efternamn@arcada.fi - båda adresserna har samma inkorg.
+Läs hur du använder Outlook online här Extern länk
+Konfigurera Arcada-eposten till mobiltelefonen
+Använd telefonens egna epost-applikation.
+
+Välj att lägga till ett nytt “Exchange-konto”.
+Användarnamnet är ditt E-post: användarnamn@arcada.fi och lösenordet är ditt Arcada lösenord.
+Efter det hittar din telefon inställningarna automatiskt.
+Om telefonen inte hittar inställningarna automatiskt, konfigurera manuellt:
+
+Studenter använder:
+
+Server Name: outlook.office365.com
+​Domain\username: E-post: ditt-användarnamn@arcada.fi
+
+
+Personalen använder:
+
+Server Name: owa.arcada.fi
+​Domain\username: E-post: ditt-användarnamn@arcada.fi
+
+
+
+
+
+Konfigurera Arcada-eposten till din laptop
+Du har möjlighet att använda Outlook desktop-applikationen på din laptop för att komma åt eposten. Använd då samma inställningar som när du konfigurerar eposten för telefonen.
+Säkerhetsegenskaper?
+När du installerar eposten hamnar du att accepterar vissa Outlook-specifika säkerhetsegenskaper. Dessa egenskaper använder inte Arcadas IT-avdelning, men du kan själv gör det. Om du går med en dator till Outlook och sedan väljer i övre hörnet kugghjulet -> Mail Settings -> Options -> General -> Mobile devices, så kan du den vägen t.ex. tömma hela din mobil telefon ifall någon skulle ha stulit den. Men kom ihåg att om du glömmer logga ut ur Outlook på datorn eller om nån får veta ditt lösenord, kan en elakartad person också gå till samma ställe och göra samma sak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

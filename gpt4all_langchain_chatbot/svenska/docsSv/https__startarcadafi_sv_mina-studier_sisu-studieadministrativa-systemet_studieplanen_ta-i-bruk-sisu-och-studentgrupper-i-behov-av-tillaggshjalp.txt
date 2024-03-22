@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ta i bruk Sisu och studentgrupper i behov av tilläggshjälp | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Ta i bruk Sisu och studentgrupper i behov av tilläggshjälp
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Denna sida innehåller korta instruktioner för hur du tar i bruk Sisu. Inled arbetet med att logga in på sisu.arcada.fi. Efter det ska du kontrollera att dina kontaktuppgifter är rätt och sedan skapa en studieplan. Notera att om du tillhör en sk. specialgrupp kan du behöva tilläggshjälp i ibruktagningen av din studieplan i Sisu.
+
+Kolla din personliga information
+Kontrollera att alla dina personliga uppgifter är rätt i Sisu. Om ditt telefonnummer eller din adress saknas eller är inkorrekt måste du gå in och korrigera dem i Arcadas nuvarande system så att rätt information sedan kan migreras från det nuvarande systemet till Sisu. Korrigera dina kontaktuppgifter här. Du ska inte korrigera dina kontaktuppgifter i Sisu.
+
+ 
+
+
+
+
+
+
+
+Du ska ha din @arcada.fi e-postadress som "E-post" och din privata e-postadress som "Sekundär e-post"
+
+ 
+
+
+
+
+
+
+
+Skapa studieplanen
+
+Logga in på sisu.arcada.fi Extern länk
+Klicka på Studiestruktur i toppmenyn uppe till vänster på sidan
+Det kommer antingen:
+
+direkt en pop up där du ska välja din utbildning, undervisningsplansperiod och ge din studieplan ett namn
+eller så behöver du klicka på knappen ”Ny studieplan” på sidan du anlänt till; då öppnas samma pop up som nämns ovan
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+I popupfönstret som öppnas väljer du fliken Mina utbildningar. Under den här fliken kan du välja den studieplansmall som motsvarar din studierätt. Om du har flera studierätter visar rullgardinsmenyn Välj utbildning en lista på alla de studieplansmallar dina studierätter ger dig tillgång till.
+Val av Undervisningsplansperiod är viktigt: Om du inlett dina studier 1.8.2023 kan du endast välja Undervisningsplansperiod 2023-2024. Om du inlett dina studier t.ex. 1.8.2021 kan du välja Undervisningsplansperiod 2021-2022, 2022-2023 eller 2023-2024. Observera att det finns skillnader i innehållet beroende på vilken version du väljer. Läs dessa instruktioner och exempel:
+
+Om du antogs till Arcada 2021, och inledde dina studier då ska du välja Undervisningsplansperiod 2021-2022!
+Om du antogs till Arcada 2021, men var frånvarande hela första läsåret ska du välja Undervisningsplansperiod 2022-2023!
+Om du antogs till Arcada 2021, men hade avlagt liknande studier på en annan högskola innan du inledde på Arcada och fick många studieavsnitt tillgodoräknade under ditt första läsår på Arcada: då ska du välja Undervisningsplansperiod 2021, men det kan hända att du sedan i ett senare skede behöver tilläggshjälp med att få dina tillgodoräknade studier synliga i din Sisu studieplan; läs med om specialgrupper längst nere på denna sajt!
+
+
+Du kan ge planen ett namn. Systemet föreslår det förvalda namnet ”Min studieplan” och datum när planen skapades. Om du skapar flera planer, lönar det sig att ge dem namn som hjälper dig åtskilja dem.
+Klicka till slut på knappen ”Skapa plan” i popupfönstrets nedre kant (om du inte vill skapa planen, klicka på ”Avbryt”). Nu öppnas din nya studieplan och den är färdig att redigeras.
+Gör alla val som saknas. Klicka igenom hela studieplanen uppifrån ner och välj de studieavsnitt och studiehelheter som du avlagt eller ska avlägga, enligt reglerna som är inbyggda i studieplanen.
+
+Här är en kort video Extern länk för stegen 1-8 (inget ljud, på engelska) Även om videon är inspelad för studenter i åk 1 passar den för alla studenter nu i november 2023.
+
+
+Efter att du gjort alla val i Sisu märker du kanske att vissa av dina prestationer och vitsord saknas. Då ska du göra så här:
+
+
+Kontrollera dina studier genom att logga in på asta.arcada.fi Extern länk och via rullgardinsmenyerna högst uppe gå till Studentregister / Prestationer / Visa prestationer och leta fram "Totala antalet inskrivna studiepoäng": hur många studiepoäng har du sammanlagt avlagt enligt Asta? Du kan även kontrollera ditt antal avlagda studiepoäng under Studier i Tuudo-appen.
+
+ 
+
+
+
+
+
+
+
+
+Kontrollera antalet avlagda studiepoäng som Sisu "har hittat" i din studieplans högra övre hörn (se skärmdumpsbilden från Sisu nedan)
+Slutligen: Är antalet studiepoäng i Asta högre än antalet studiepoäng i Sisu? Dvs visar Sisu inte alla dina avlagda studieavsnitt? Du kommer att behöva följa instruktionerna nedan som heter "Lägg till studieprestationer som saknas i planen"
+
+
+
+
+ 
+
+
+
+
+
+
+
+Lägg till studieprestationer som saknas i planen
+Detta är din viktigaste uppgift när du tar i bruk Sisu för dig som inlett dina studier på Arcada innan 1 januari 2024.
+Om studieavsnittet du avlagt har samma kod som ett studieavsnitt du redan har placerat i din plan, kommer prestationen automatiskt att dyka upp i din studieplan efter överföringen. Alla dina studieprestationer syns dock inte nödvändigtvis automatiskt i din studieplan. I sådana fall måste de läggas till separat.
+Sätt 1: Placera i studieplanen
+Denna metod fungerar speciellt bra för att få in avlagda Utvecklingsstudier och Breddstudier för dig som studerar på bachelornivån.
+Genom att klicka på den blå balken Placera i studieplanen i vänstra kanten på sidan Studiestruktur hittar du alla prestationer som ännu inte finns med i din studieplan men som du har avlagt. Genom att trycka på pilen för en prestation visar Sisu var i planen du kan placera studieavsnittet i fråga. Om du tagit bort en redan genomförd studieprestation ur din studieplan, hittar du den i Placera i studieplanen. Se en kort instruktionsvideo på engelska här Extern länk (inspelningen har inget ljud).
+Sätt 2: Ersättande studieavsnitt
+Denna metod fungerar speciellt bra för de på Bachelor-nivå som har valt Undervisningsplansperiod 2020-2021 eller 2021-2022. Inom denna period bytte Arcada kurskoderna på många studieavsnitt.
+Om du har avlagt ett studieavsnitt som syns i din studieplan, men den syns inte som avlagd ska du prova att ersätta studieavsnittet i fråga. Orsaken till att din prestation inte syns i din studieplan är säkert den att du har avlagt studieavsnittet när det hade en annan kurskod än det studieavsnitt som är inprogrammerad i din studieplan. Gå igenom varje studieavsnitt i din studieplan för att hitta ersättningar! Det är tidskrävande men förenklar din ibruktagning av studieplanen avsevärt. Se en kort instruktionsvideo på engelska här Extern länk.
+Sätt 3: Fritt redigeringsläge
+Denna metod fungerar speciellt bra för masterstudenters valfria studier. Se en kort instruktionsvideo på engelska här  Extern länk(inspelningen har inget ljud).
+Studentgrupper som kan behöva tilläggshjälp
+Här är en uppräkning av flera olika studentgrupper som kommer att behöva ta vissa saker i beaktande när de tar i bruk sin studieplan i Sisu. Denna lista kan utökas.
+Läs först punkt 5 ovan för att bekanta dig med logiken för val av Undervisningsplansperiod, under rubriken Skapa studieplan.
+Om du har inlett dina studier innan 2020 ska du i regel välja Undervisningsplansperiod 2020-2021 när du upprättar din studieplan, förutom om du inlett dina studier på:
+
+Energi- och miljöteknik eller Informationsteknik i augusti 2019 eller tidigare; då ska du välja Undervisningsplansperiod 2019-2020 när du upprättar din studieplan
+Barnmorska, Förstavårdare, Hälsovårdare i augusti 2019 eller tidigare; då ska du välja Undervisningsplansperiod 2019-2020 när du upprättar din studieplan
+utbildningarna inom Film & Media i augusti 2019 eller tidigare; då ska du välja Undervisningsplansperiod 2019-2020 när du upprättar din studieplan
+Mediekultur år 2018 eller tidigare: du ska mejla E-post: sisu@arcada.fi direkt
+alla som avlagt ÖYH-leden läsåret 2020-2021 och sedan inledde examensstudier i augusti 2021: du ska mejla E-post: sisu@arcada.fi direkt
+alla som avlagt åk 1 vid en annan högskola i Finland och flyttat sin studierätt från en annan högskola till Arcada, s.k. överflyttare: du ska mejla E-post: sisu@arcada.fi direkt
+för att bekanta dig med de engelskspråkiga utbildningarnas studentgrupper som behöver tilläggshjälp: byt sajtens språk till engelska eller klicka här
+
+Om du planerar att utexamineras innan 1.2.2024, och inte behöver anmäla dig till studier i period 3: du behöver inte ta i bruk Sisu.
+Studenter som tidigare avlagt studier på Arcada
+Studenter som har avlagt studier på en annan utbildning inom Arcada innan de inlett på sin nuvarande utbildning kommer att ha många icke-placerade studieavsnitt i den blå balken Placera i studieplanen. Notera att detta gäller också dig som avlagt en yrkeshögskoleexamen på Arcada och nu återvänt för att avlägga en masterexamen!
+Du behöver vara noggrann när du placerar studier in i din studieplan enligt instruktionerna under Lägg till studieprestationer som saknas i planen, så att du inte flyttar fel studieavsnitt in i din nuvarande studierätts studieplan. Vi på E-post: sisu@arcada.fi kan hjälpa dig efter att du själv tagit i bruk din studieplan och själv placerat dina utvecklingsstudier. Du vet vilka som är dina utvecklingsstudier genom att ta modell från Asta under Studieplaner / Min studieplan / Visa min studieplan och där ser du vilka studier som finns uppräknade under dina utvecklingsstudier.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

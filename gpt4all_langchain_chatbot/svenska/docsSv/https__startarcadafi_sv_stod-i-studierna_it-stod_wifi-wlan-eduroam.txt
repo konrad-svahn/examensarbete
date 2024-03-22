@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WiFi (WLAN, Eduroam) | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+WiFi (WLAN, Eduroam) 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Trådlösa Nätverk i Arcada
+
+Eduroam
+Studenter och personal använder trådlösa nätet eduroam. Det är en del av ett globalt utbildningsnätverk och fungerar lika i så gott som alla högskolor i Finland och internationellt.
+Arcada-guest
+Arcada-guest är till för gästande personer som inte har tillgång till Eduroam. Nätet har väldigt begränsad bandvidd och studenter och personal borde inte behöva använda det. Lösenordet byter varje dag och publiceras på infotavlan vid Stora torget.
+Anslut till eduroam med din windows dator
+(se nedan för Android och Windows telefoner)
+Du kan ansluta till Eduroam direkt från din dator genom aktivitetsfältet -> nätverk och välj Eduroam nätet. Ge dit användarnam i formatet E-post: username@arcada.fi och sedan ditt Arcada lösenord.
+Om du av någon anledning har kontakt med fel användar uppgifter kan du få följande felmeddelande 'Can't connect to this network'. Isåfall höger klicka på Eduroam och välj Glöm nätet (Forget). Försök nu kontakta nätet på nytt. Instruktioner på Engelska hur man glömmer ett wlan nät Extern länk.
+Alternativt sätt,
+
+Se till att din enhet har en aktiv internetkontakt. Om din enhet inte är uppkopplad över mobildata/3G kan du koppla upp dig via arcada-guest -nätverket. Lösenordet finner du på Stora torgets infotavla.
+Navigera till: https://cat.eduroam.org Extern länk
+Ladda ner Eduroam installer.
+
+Välj Arcada som "Home Institution" (sök och markera Arcada i sökfältet).
+Välj "Installer to download" utifrån ditt operativsystem (Windows, Mac, iOs, etc.).
+Installera och följ anvisningarna.
+
+
+Logga in med ditt användarnamn i formatet E-post: användarnamn@arcada.fi (endast användarnamn fungerar inte).
+
+Eduroam: Mac dator
+
+Se till att din enhet har en aktiv internetkontakt. Om din enhet inte är uppkopplad över mobildata/3G kan du koppla upp dig via arcada-guest -nätverket. Lösenordet finner du på Stora torgets infotavla.
+Navigera till: https://cat.eduroam.org Extern länk
+Ladda ner Eduroam installer.
+
+Välj Arcada som "Home Institution" (sök och markera Arcada i sökfältet).
+Välj "Installer to download" utifrån ditt operativsystem (Windows, Mac, iOs, etc.).
+Installera och följ anvisningarna.
+
+
+Logga in med ditt användarnamn i formatet E-post: användarnamn@arcada.fi (endast användarnamn fungerar inte).
+
+Eduroam: Android
+
+Öppna tillgängliga nätverk.
+Välj eduroam
+Välj EAP-metod TTLS och Fas2-autentisering PAP i inställningarna.
+Logga in med ditt användarnamn i formatet E-post: användarnamn@arcada.fi
+Fortsätt surfa.
+
+Eduroam: Windows Phone
+
+Öppna inställningar -> Trådlöst nätverk
+Välj eduroam
+Logga in med ditt användarnamn i formatet E-post: användarnamn@arcada.fi
+Verifiering av servercertifikat: Välj Certifikatutfärdare
+Välj certifikatet USERTrust
+Ange som EAP-metod PEAP MS-CHAP v2
+Tryck OK/Klart
+Acceptera certifikatet och anslut
+
+Eduroam: iOS
+Välj eduroam från wifi och användarnamn i formatet E-post: användarnamn@arcada.fi och ge dit Arcada lösenord. Acceptera eventuella frågor angående att installera certifikat.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

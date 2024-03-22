@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mac printning | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Mac printning
+
+
+
+ 
+
+
+
+
+
+
+
+
+Instruktioner för personalen.
+Printproblem
+
+Töm printkön
+Öppna KeyChain Access
+Della follow-you nyckeln ifall du hade problem med follow-you printern
+
+Installera "Follow-Me printer" på din Mac
+
+Gå till http://toshiba.fi/ajurit Extern länk och ladda ner drivrutiner för din mac version. Eller sök med Google "Toshiba Color MFP mac".
+Installera drivrutinen genom att öppna "2-sided_default" för att ha dubbelsidig utskrift som default. Klicka på TOSHIBA_ColorMFP.dmg.gz. Dubbelklicka på TOSHIBA_ColorMFP.dmg.
+System Preferences -> Printers & scanners
+Tryck på plus tecknet. (OBS. Om du håller på att ominstallera en printer du redan har på listan, ta bort printern med minus-tecknet före du adderar den tillbaka)
+Klicka på Advanced ikonen. (Ifall du inte har Advanced-knappen: Tryck på CTRL + mus klick på menyn Välja Customize Toolbar. . Dra upp till meny fältet Advanced ikonen.)
+Type: Windows printer via spoolss
+Skriv i url fältet tex smb://pix/follow-me
+Fyll i Name and Location för att själv veta var printern finns, ex Follow-Me.
+Drivrutin: I listan väljer du "Select software..." Välj TOSHIBA ColorMFP
+I rutan för Setting up 'Follow-Me' välj Finisher. Välj 'Saddle Stitch Finisher'.
+Add
+
+Nu kan du printa. Notera att den kommer att fråga efter ditt arcada användarnamn samt lösenord. Name: arcada\username (ditt Arcada användarnamn. EJ förnamn.efternamn). Password: Det lösenord du använder för att logga in på intra etc.
+Alternativ lösning som fungerar bättre på Mac med äldre operativsystem
+
+Starta en webläsare tex. Safari
+Surfa till http://localhost:631 Extern länk
+När CUPS startar frågar den administrativt lösenord som är datorns lösen ord, inte arcada
+Add Printer Fyll i fälten med information som gör att du känner igen din printer.
+Device: Windows printer via SAMBA
+Device URI: smb://pix/follow-me follow-me är printer kö för kopiatorerna.
+Välj märke och modell eller surfa efter drivruntin från tillverkarens hemsida.
+
+
+Vid problem med rättigheter eller lösenordet Ifall printern inte kommer ihåg ditt lösenord eller användarnamn trots att du prickat in "save password in my keychain" kan fallet vara att datorn sparat två olika keychain-filer.
+
+Gå in på din hemkatalog -> "Library" -> "Keychains".
+Öppna filen "login.keychain".
+Radera den data som hänvisar till respektive printer.
+Printa på nytt och kruksa i "save password in my keychain".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

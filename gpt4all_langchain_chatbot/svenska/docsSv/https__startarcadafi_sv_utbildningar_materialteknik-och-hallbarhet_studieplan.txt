@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Studieplan | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Studieplan
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Studieplan för yrkeshögskoleexamen i Materialteknik och hållbarhet
+
+
+
+
+Examen och omfattning: Ingenjör YH 240sp / 4 år
+Utbildningsspråk: Engelska och svenska
+
+Utbildningens profil
+På basen av de behov som finns i samhället och arbetslivet har utbildningen valt att profilera sig för att svara mot framtidens behov. Utbildningen har följande profil som bygger på samhällets och arbetslivets behov och har förankring i Arcadas strategi. Centrala teman i Arcadas strategi som den valda profilen konkretiserar är hållbar utveckling och digitalisering.
+Utbildningsprogram i Materialteknik och hållbarhet kombinerar två discipliner för att kunna spela en viktig roll i teknisk utveckling inom branschen. Utbildningen integrerar maskinteknik med hållbarhet för att hitta nya metoder i produktutvecklingsprocess som tar de nuvarande globala utmaningarna i beaktande. Utbildningen strävar efter att hitta bättre lösningar från konceptdesign till processval. I utbildningen kommer design, material- och processval att vara drivna av optimering och hållbarhetsbegränsningar. Utbildningsprogrammet fokuserar också på avancerade digitala design- och tillverkningsverktyg för att garantera att våra studenter kommer att vara kompetenta i arbetslivet. Utbildningen strävar efter att utbilda ingenjörer med bred kompetensprofil inom design för en hållbar framtid. Forskningen inom utbildningen förstärker kvaliteten inom utbildningen kontinuerligt. Utbildningen utbildar kompetenta ingenjörer som kan tävla i den nuvarande och framtidens arbetsmarknad.
+Utbildningens uppbyggnad
+Notera att högskolan förbehåller sig rätten att ändra namnen på studieenheterna, eller att byta studieenheterna i respektive modul.
+Allmänbildande studier (15 sp)
+Bildning i ett digitalt och hållbart nordiskt samhälle (15 sp)
+Efter avlagd modul kan du med din grundläggande professionellalärande- och karriärkompetens studera och lära dig självstyrt och aktivt. Du kan identifiera och värdesätta dina egna styrkor och utvecklingsbehov. Du kan redogöra för konceptet kontinuerligt lärande och kan tillämpa det då du planerar din karriärutveckling. Du kan agera i och lära dig för ett alltmer digitaliserat samhälle. Du kan kritiskt granska och analysera information för att främja din innovations- och utvecklingskompetens vilket skapar förutsättningar för din bildningsgrund. Du kan identifiera grunderna för kommunikativ och social kompetens och kan agera och kommunicera i olika professionella och sociala sammanhang. Du kan redogöra för de yrkesetiska principerna och hållbarhetsaspekterna i det nordiska samhället. Du kan verka för jämställdhet och kulturell mångfald.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Teknologi och lärande
+5
+
+
+Teamarbete och innovation
+5
+
+
+Etisk och hållbar samhällsutveckling
+5
+
+
+
+Professionsspecifika studier (165 sp)
+Består av grundläggande studier och avancerade studier.
+Basstudier i teknik (30 sp) - Grundläggande studier
+Modulen har fokus på den matematisk och naturvetenskaplig kompetens inom teknisk kemi och fysik och därtill lär du dig grundläggande programmering. Efter avlagd modul har du grundläggande kompetenser i geometri, vektoralgebra, matrisalgebra, komplexa tal, derivering och integrering för tillämpningar. Du kan utföra grundläggande programmeringsuppgifter med valda programmeringsspråk. Modulen integrerar också den allmänna kompetensen inom teknologi och den är kopplad med Arcadas mål att förbereda dig för ett arbetsliv där tekniska, digitala och autonoma system hör till arbetsprocesserna.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Matematik 0
+0
+
+
+Linjär algebra
+5
+
+
+Differentialkalkyl
+5
+
+
+Integralkalkyl
+5
+
+
+Teknisk kemi
+5
+
+
+Teknisk fysik
+5
+
+
+Introduktion till programmering och automation
+5
+
+
+
+Hållbar modellering (15 sp) - Avancerade studier
+Modulen har fokus på den professionsspecifika kompetensen inom hållbarhet. Under modulen utvecklar du dina professionsspecifika kompetenser inom materialåtervinning och energieffektivitet. Efter avlagd modul kan du jobba för att minimera material -och energianvändningen i nya och befintliga tekniska system. Du kan utföra livscykelanalys och använda miljöledningssystem för att utforma miljömässigt och etiskt hållbara system. Modulen är kopplad till Arcadas strategiska val att främja hållbar utveckling lokalt och globalt.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Miljö och resurser
+5
+
+
+Hållbar energi och material
+5
+
+
+Livscykelanalys
+5
+
+
+
+Teknisk modellering (15 sp) - Avancerade studier
+Modulen har fokus på den professionsspecifika kompetensen inom teknisk modellering. Efter avlagd modul kan du använda digitala metoder och verktyg som används för mättningar, analys, teknisk ritning och 3D-modellering. Du har en stark grund i CAD-baserade design och simuleringar. Du kan använda avancerade design metoder för hållbar modellering, optimering och simuleringar i digital miljö. Den allmänna kompetensen inom teknologi ingår också i modulen.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Teknisk ritning
+5
+
+
+Computer Aided Design
+5
+
+
+Programmering
+5
+
+
+
+Materialteknik (30 sp) - Avancerade studier
+Modulen fokuserar på den professionsspecifika kompetensen inom materialteknik. Efter avlagd modul kan du redogöra för och tillämpa grundläggande materialvetenskap och känner till hållbara material och tillverkningsprocesser. Du kan redogöra för och tillämpa metoder för provning av materialegenskaper och argumentera för deras användbarhet inom teknik.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Materialkemi
+5
+
+
+Materialegenskaper
+5
+
+
+Tillverkning och processer
+5
+
+
+Materialval
+5
+
+
+Materialanalys
+5
+
+
+Kompositer
+5
+
+
+
+Design (30 sp) - Avancerade studier
+Modulen har fokus på designkompetens. Efter avlagd modulen kan du använda designoptimeringsmetoder i produkt- och processdesign. Du kan redogöra för relevant teoretisk kunskap om analysmetoder som används i produkt- och processdesign. Du kan förklara och tillämpa teoretiska och beräkningsmetoder för teknisk analys samt valideringsanalyser.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Statik
+5
+
+
+Materialmekanik
+5
+
+
+Dynamik
+5
+
+
+Digital tillverkning
+5
+
+
+Finita elementanalys
+5
+
+
+Computer Aided Engineering
+5
+
+
+
+Professionell kommunikation (15 sp) - Avancerade studier
+Om du har svenska eller finska som skolbildningsspråk (skolbildning från Finland) måste du uppfylla den språkkompetens som enligt lagen (424/2003, 6§) krävs av offentligt anställda. Du ska kunna fungera professionellt i olika språkliga situationer inom ditt eget område på svenska, finska och engelska. Du kan anpassa ditt språk till varierande kommunikationssituationer och har redskap och förutsättningar för att utveckla dina kommunikationsfärdigheter.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+English Professional Communication EEE
+5
+
+
+Svenska och kommunikation för ingenjörer
+5
+
+
+Tekniikan suomi
+5
+
+
+
+Praktik 1 (15 sp) - Avancerade studier
+Inledande praktik inom tekniska branschen. Under inledande praktik utövar och övar kompetenser du erhållit, dock med klar koppling till den tekniska branschen. Du kan tillämpa de etiska koder och säkerhetsprinciper (inklusive arbetssäkerhet) som är inblandade i arbetslivet. Mer information om praktik finns här.
+Praktik 2 (15 sp) - Avancerade studier
+Arbetspraktik inom tekniska branschen. Efter avlagd modul kan du tillämpa de avancerade teoretiska kunskaper du inhämtat och förmår utföra professionstypiska uppgifter självständigt och även ta egna initiativ för att effektivisera ditt eget arbete och de processer du bidrar till. Mer information om praktik finns här.
+Utvecklingsstudier (30 sp)
+Din examen innehåller också 30 studiepoäng valfria utvecklingsstudier.
+Efter avlagd modul har du förmåga att möta olika framtida behov och utmaningar på ett ansvarsfullt sätt i en lokal och global samhällskontext. Du har en professionell lärande -och karriärkompetens med förmåga att identifiera, analysera och lösa problem i arbetslivet. Du kan tillämpa din etiska kompetens och hållbarhetskompetens i det praktiska arbetet. Du kan bidra till utvecklingsdrivande processer i professionell kontext. Du förmår tillämpa dina kreativa och innovativa färdigheter och ta stöd av tekniken för att skapa utveckling. Du kan samarbeta professionellt med andra studenter, människor i arbetslivet och andra områden samt branscher. Du kan agera medvetet i olika sociala internationella och interkulturella miljöer och reflektera analytiskt och kritiskt kring den egna rollen i sammanhanget. Du kan verka för öppenhet i grupper, organisationer och samfund.
+
+
+
+Modul
+Studiepoäng
+
+
+
+
+Circular Economy
+15
+
+
+Plastic Technology
+15
+
+
+Advanced Materials Technology
+15
+
+
+Chemistry
+15
+
+
+Composite Technology
+15
+
+
+Projekt
+15
+
+
+Främmande språk
+15
+
+
+
+Forskningsstudier (30 sp)
+Lärdomsprov och metodik (30 sp)
+Efter avlagd modul kan du bidra till och kritiskt förhålla dig till utvecklingen på ditt område med stöd i övergripande och avancerade kunskaper inom ditt område. Du kan kritiskt förklara, diskutera och bedöma samt argumentera för teorier, centrala begrepp, metoder och principer. Du kan lösa också komplexa problem inom din profession och kan lära dig och dela lärdomar tillsammans med andra. Du kan med stöd i en avancerad informationskompetens validera kunskap och argumentera för skillnaden mellan data, information och kunskap. Du följer och kan diskutera och främja forskningsetiska principer.
+I modulen ingår följande studieavsnitt:
+
+
+
+Studieavsnitt
+Studiepoäng
+
+
+
+
+Skirftlig forskningsmetodik
+5
+
+
+Data analys
+5
+
+
+Examensseminarium
+5
+
+
+Lärdomsprov
+15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

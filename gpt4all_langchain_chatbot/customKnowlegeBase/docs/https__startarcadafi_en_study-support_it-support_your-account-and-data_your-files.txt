@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your files | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Your files
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Arcada provides students and staff mainly two ways of saving their works.
+
+1. Microsoft's OneDrive External link
+2. Homedrive (H-drive in Windows)
+OneDrive is a cloud service that is maintained by Microsoft and your files are stored on their servers somewhere in the world. The homedrive is maintained by Arcada and is located in our server room.
+The files on OneDrive are accessible through your web browser, i.e. easily from anywhere. You can also access the files directly from the Office-programs if you are logged in with your account.
+The homedrive is 12GB big and you can access it easily on Arcada. To reach these files from home, pleace follow the instructions on H-drive & the intra-server.
+Read more: Where should I save my files?
+Staff
+As a member of the staff, you have also access to a few other file servers such as the I-drive ("the Intra"). Your access to different folders in the I drive is determined by your job responsibilities and the persmission is usually handled by your supervisor.
+Staff member also get to use different Teams SharePoints Storage created by their colleagues in Microsoft Teams once they are joined in those Teams., These are like a cloud version of the I drive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

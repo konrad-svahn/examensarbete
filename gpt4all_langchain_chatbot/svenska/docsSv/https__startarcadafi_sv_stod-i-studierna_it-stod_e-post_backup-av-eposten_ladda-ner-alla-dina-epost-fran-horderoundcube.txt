@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ladda ner alla dina epost från Horde/Roundcube | Start
+
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Ladda ner alla dina epost från Horde/Roundcube
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+När du slutar på Arcada vill du kanske ta tillvara alla dina epost meddelanden.
+
+Nedan finns instruktioner för att ta ner alla epost meddelanden från det gamla Arcada webmail systemet (Horde / Roundcube Extern länk).
+
+Installera Thunderbird Extern länk
+Konfigurera Arcada epost kontot i Thunderbird, se videon.
+
+
+
+Remote video URL
+
+
+
+
+
+
+      Du har ännu inte gett tillstånd att placera de nödvändiga cookies. Acceptera nödvändiga cookies för att se detta innehåll.
+    
+
+
+
+
+
+
+
+Det finns två sätt att ta tillbara meddelanden: Alternativ A & B
+Alternativ A: Thunderbird Offline-läge
+Om du redan använder Thunderbird för andra epost konton än Arcadas, använd istället alternativ B.
+
+Tryck ALT + F för att få fram menyn.
+Välj Offline -> Work Offline.
+
+Före Offline-läget startar, kommer Thunderbird att ladda ner alla meddelanden lokalt.
+Använd Offline-läget i Thunderbird framöver.
+Alternativ B: Kopiera meddelanden till Local Folders i Thunderbird
+
+Skapa en "gammal-inbox" mapp under Local Folders.
+Kopiera all epost från inboxen till gammal-inbox mappen.
+Dra alla andra Arcada email mappar under Local Folders.
+
+
+
+Remote video URL
+
+
+
+
+
+
+      Du har ännu inte gett tillstånd att placera de nödvändiga cookies. Acceptera nödvändiga cookies för att se detta innehåll.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

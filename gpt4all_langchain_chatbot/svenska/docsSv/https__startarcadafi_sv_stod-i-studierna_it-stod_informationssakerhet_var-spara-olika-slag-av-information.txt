@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Var spara olika slag av information? | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Var spara olika slag av information?
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Var spara olika slag av information?
+
+På molntjänsten Office365/OneDrive sparar du material
+
+som du lätt vill komma åt att redigera när som helst, var som helst
+som du vill dela med andra och samredigera
+som kräver mycket utrymme
+som inte innehåller personuppgifter eller känsliga uppgifter.
+
+På itslearning
+
+kan du gärna länka till filer som ligger på din OneDrive
+ska du inte spara stora filer
+
+På hemkatalogen (H:)
+
+filer som du inte behöver dela med andra och vill försäkra dig om att de inte sprids utan ditt tillstånd
+
+Om hemkatalogen saknas från den klassrumsdator du använder kan du komma åt den genom följande instruktioner:
+
+Öppna File Explorer genom att trycka på Windows-knappen + E från ditt tangentbord eller genom att söka fram den från Start-menyn
+Skriv följande i adressfältet:
+
+\\domus.sad.arcada.fi
+
+Tryck på enter. Skriv in ditt Arcada användarnamn som sad\användarnamn och använd ditt normala Arcada lösenord. Markera rutan "Remember your Credentials" och clicka på "Ok".
+Ett nytt fönster visas med en mapp med ditt användarnamn som namn.
+Högerclicka på mappen och välj "Map Network Drive".
+Välj H: som enhetsbeteckning och clicka på "Finish".
+
+Undvik usb-stickor och att spara lokalt på datorn
+Vi rekommenderar inte att spara lokalt på datorn eller på skrivbordet, och speciellt undvika USB-pinnar som lätt hamnar i fel händer.
+Tiotals studenter tappar sina USB-stickor varje år, det vanligaste fallet är att man glömmer sin sticka i datorn och någon har stulit den när du återvänder.
+Backups
+Arcada tar säkerhetskopior på de viktigaste filservrarna i huset. Om du t.ex. i misstag raderar en fil från din hemkatalog finns en god chans att IT-supporten kan återställa filen. (Trashcan funktionaliteten används inte på Windows.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

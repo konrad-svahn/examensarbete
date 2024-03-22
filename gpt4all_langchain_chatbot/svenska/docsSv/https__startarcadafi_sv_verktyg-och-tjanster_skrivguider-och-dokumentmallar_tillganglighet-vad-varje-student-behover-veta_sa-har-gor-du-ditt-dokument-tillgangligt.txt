@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Så här gör du ditt dokument tillgängligt | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Så här gör du ditt dokument tillgängligt
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+De här riktlinjerna är bra att tänka på oavsett om du skapar innehåll med Microsoft Word, en webbsida eller PDF, eller annat format. 
+
+Riktlinjer för tillgängliga dokument
+Du är en god bit på väg om du använder Arcadas egna dokumentmallar (Word) och mallen för examensarbeten.
+För att alla ska kunna ta till sig ditt dokument är det viktigt att du beaktar riktlinjerna vi samlat här.
+Tänk på att:
+
+spara dina Word dokument med “.docx” (eller som en mall) och ange beskrivande filnamn.
+använda stilarna i mallarna/webbsidan med olika rubriknivåer.
+använda listor och skapa dem genom funktionen i menyn.
+ange alltid alternativ text till alla bilder och visuella element t.ex. ett schema.
+bara anävnda beskrivande namn då du länkar innehåll - läsaren ska förstå vart hen hamnar.
+Arrangera innehållet logiskt och använd en robust struktur.
+Identifiera / ange om möjligt dokumentets språk.
+Tänk på att ett tydligt språk är viktigt för tillgänglighet. Glöm inte att använda stavningskontrollen i Word.
+Använd Words egen funktion “Tillgänglighetskontroll”.
+Använd gärna sökfunktionen på Microsoft svenska supportsida Extern länk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backup av eposten | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Backup av eposten
+
+
+
+ 
+
+
+
+
+
+
+
+
+När du slutar på Arcada vill du kanske ta tillvara alla dina epost meddelanden.
+Instruktioner för det gamla Arcada webmail systemet (Horde / Roundcube Extern länk):
+Instruktioner för eposten på Office 365
+Export av adressboken
+Horde / Roundcube användare:
+
+Gå till webmail.arcada.fi -> Roundcube
+Välj Adressbok
+Export
+
+Office 365: Outlook användare:
+
+Gå till outlook.arcada.fi
+Välj Contacts
+Välj Manage -> Export Contacts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

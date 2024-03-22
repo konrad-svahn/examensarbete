@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teams: Videomöten | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Teams: Videomöten
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Teams-möten kan skapas på flera sätt.
+
+Videomöten via chatten
+
+Start chats and make calls Extern länk
+
+Videomöten inne i en Teams-kanal
+
+Meet in a channel Extern länk
+
+Videomöten via en Outlook kalenderbokning (för personalen)
+
+Kontakta IT-support ifall du saknar Teams-mötesknapp i Outlook kalendern.
+
+Videomöten med externa parter
+Boka ett Teams videomöte via Outlook kalendern (se ovan).
+När deltagarna klickar på länken blir de tillfrågade om de vill delta via webbläsaren eller vill man ladda ner Teams.
+God praxis
+
+https://start.arcada.fi/sv/stod-och-service/it-support/handledningar-howtos/teams/god-praxis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

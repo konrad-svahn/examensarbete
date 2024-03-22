@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guidelines for accesible documents | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Guidelines for accesible documents
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+These guidelines are good to keep in mind regardless of if you are creating content with Microsoft Word, a web page or a PDF, or any other format. 
+
+You are well on your way if you use Arcada's own document templates (Word) and the template for degree projects.
+In order for everyone to be able to understand and read your document, it is important that you consider the guidelines we have listed here.
+Keep in mind that:
+
+save your Word documents with “.docx” (or as a template) and enter descriptive file names.
+use the styles in the templates / web page with different heading levels.
+use lists and create them through the menu function.
+always enter alternative text for all images and visual elements e.g. a schedule or flow chart.
+just use descriptive names when linking content - the reader should understand where they end up.
+arrange the content logically and use a robust structure.
+identify / indicate if possible the language of the document.
+remember that clear language is important for accessibility. Do not forget to use the spell checker in Word.
+use Word's own function "Accessibility check".
+feel free to use the search function on Microsoft's support page they have excellent tips on how to improve accessibility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

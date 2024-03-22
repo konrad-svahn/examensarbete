@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hur du disponerar lärdomsprov och skriftliga arbeten | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Hur du disponerar lärdomsprov och skriftliga arbeten
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Använd skrivmallen för skriftliga arbeten eller lärdomsprov när du skriver på Arcada.
+
+Den vetenskapliga textens delar
+Alla texter har en inledande del, en huvuddel och en avslutande del. En vetenskaplig text disponeras också så att den består av tre delar. Den inledande och den avslutande delen är framför allt läsarservice, medan den mellersta delen, huvuddelen, utgör den egentliga texten. Till den inledande delen hör titelsida och innehållsförteckning och för lärdomsprov även abstraktsidor. Källförteckningen och eventuella bilagor utgör den avslutande delen.
+
+
+
+Inledande del
+Huvuddel = Brödtexten
+Avslutande del
+
+
+Pärm
+Introduktion
+Källförteckning
+
+
+Presentationssidor + sammandrag
+ (endast i lärdomsprov)
+Metoder
+Bilagor (vid behov)
+
+
+Innehållsförteckning
+Resultatredovisning
+ 
+
+
+Tabellförteckning (vid behov)
+Diskussion/Slutsatser
+ 
+
+
+Figurförteckning (vid behov)
+ 
+ 
+
+
+Förteckning över termer
+ och förkortningar (vid behov)
+ 
+ 
+
+
+
+Själva huvuddelen i en vetenskaplig text består av en introduktion med inledning, bakgrund, syftesformulering, frågeställning och avgränsning. I introduktionen kan du även skriva ut eventuella definitioner samt beskriva strukturen i din text. Sedan följer den teoretiska referensramen och litteraturredovisning. Därefter ska du beskriva metoden för hur du närmar dig din frågeställning eller hur du utför undersökningen. I resultatdelen presenterar du det du kommer fram till och analyserar ditt material. I diskussionsdelen för du fram slutsatser och återkopplar till syftet för texten och frågeställningen. I diskussionsdelen kan du också kommentera din egen undersökning och blicka framåt genom att föreslå hur vidare forskning inom ämne kan se ut.
+Huvuddelen i din text kan du alltså se som den egentliga texten, och den ska därmed fungera som en helhet där alla kapitel och stycken hänger ihop. Syftet med texten och frågeställningen ska gå som en röd tråd igenom hela texten och bilda en logisk helhet för läsaren.
+För huvuddelen, dvs. den löpande texten, kan du följa en modell för vetenskapliga rapporter, IMROD (Introduktion, Metoder, Resultatredovisning och Diskussion). De fyra delarna delas sedan in i logiska helheter, kapitel och underkapitel, som ges beskrivande rubriker.
+Pärm
+Använd rätt skrivmall för skriftliga arbeten respektive lärdomsprov på Arcada. På pärmen skriver du rubriken för texten, ditt namn, vilken typ av text det är fråga om (lärdomsprov, examination i en kurs, praktikrapport osv.), utbildningens namn och inlämningsdatum.
+Innehållsförteckning
+Rubriken för innehållsförteckningen är Innehåll och skrivs med rubriknivå 1, du numrerar inte rubriken Innehåll. I innehållsförteckningen skriver du alla rubriker som texten innehåller samt deras kapitelnummer. I innehållsförteckningen skriver du enbart på vilken sida kapitlen börjar, inte på vilken sida ett kapitel slutar. Sidnumreringen bildar en rak spalt längst till höger.
+I innehållsförteckningen står alla kapitel och specialsidor som ingår i ditt arbete. Specialsidor är sammandrag och bilagor. Sammandrag skrivs enbart för lärdomsprov och de placeras före innehållsförteckningen. I lärdomsprov som skrivs på svenska ska det finnas sammandrag på svenska och engelska samt på finska om uppdragsgivaren så önskar.
+Kapitel 1 heter i regel inledning eller introduktion och här börjar pagineringen, det betyder att det är den första sida där sidnumret är synligt nere på sidan. Sidorna räknas dock redan från pärmen, vilket betyder att den första synliga sidnumreringen är t.ex. 3.
+Introduktion
+I introduktionen presenteras frågeställningen – ditt ämne – och det sätt på vilket du valt att närma dig det. Här fastställs de tre ben hela lärdomsprovet eller den text du skriver står på: syfte, material och metod.
+Introduktionen bör indelas i underkapitel, vars innehåll och omfattning bestäms av avhandlingsämnets karaktär. Ofta brukar t.ex. syfte och frågeställningar ingå i samma underkapitel, liksom metod och material. Introduktionens första underkapitel brukar ofta ha rubriken Bakgrund och berätta om orsaken till ämnesvalet.
+Beroende på arbetes omfattning behandlas de här sakerna i introduktionen:
+
+Motiv för ämnesvalet. Berätta varför du valde ditt ämne och beskriv bakgrunden till ämnesvalet, gärna med källor.
+Bakgrundsinformation. Ge läsaren den bakgrundsinformation hen behöver för att kunna förstå själva undersökningen. Vad denna information består av är ämnesrelaterat, men en eventuell extern uppdragsgivare presenteras här.
+Syfte med arbetet. Formulera ditt syfte i ett tidigt skede, det hjälper dig att fokusera på rätt frågor. I den slutgiltiga versionen av din text kan du ännu precisera ditt syfte, för att hjälpa läsaren att förstå din tankegång.
+Frågeställningar och hypoteser. Formulera och precisera ditt syfte med hjälp av frågeställningar eller hypoteser.
+Avgränsningar. Motivera varför du har valt att avgränsa ditt problemområde på det sätt som du har gjort. Framför allt gäller det att berätta för läsaren hur du har avgränsat ditt undersökningsmaterial. Vad blev utanför och varför blev det utanför?
+Teoretisk referensram. Hänvisa till tidigare forskning i ämnet och försök samtidigt precisera hur ditt eget arbete hör ihop med sådant som skrivits tidigare. Inom vissa områden brukar man i introduktionen göra en utförligare litteraturöversikt.
+Metod. Presentera kortfattat den metod du använt.
+Definitioner. Sträva efter att alltid definiera de centrala begrepp du använder.
+Strukturen. Avsluta introduktionskapitlet med en kort presentation av hur arbetet är uppbyggt kapitel för kapitel.
+
+Ordningsföljden mellan introduktionens olika delar kan variera beroende på de principer som är etablerade inom ditt ämnesområde. För att få veta mer om praxis inom ditt ämne ska du fråga din handledare. Inom tekniska ämnen tas metodredovisningen oftast upp i resultatredovisningen och inte i introduktionen.
+Metod
+I metodbeskrivningen redogör och argumenterar du för dina metodval, beskriver metoderna med hänvisningar till metodlitteratur samt tydliggör hur respektive metod används i din text.
+Med metod avses: 
+
+metodologi (utgångspunkt, forskningsansats, approach, vetenskapsfilosofi)
+val av empiriskt eller teoretiskt material och arbetssätt (litteratur, dokument, informanter/intervjupersoner/undersökningspersoner)
+annat material
+metod för datainsamling
+dataanalys/tolkning
+metod för utvärdering av resultatet.
+
+I en utförlig forsknings- och litteraturöversikt redogör du för vilka sökord, databaser, avgränsningar, urval, och redovisningsmetoder du har använt. Forskningsetiken behandlar du i ett eget avsnitt och relaterar den till avhandlingens olika moment samt till helheten.
+Materialbeskrivning 
+Du bör kort redovisa för hur du har valt och samlat ditt material. Motivera också varför du har gjort dina val.
+Metodredovisning 
+Om du genomför en undersökning bör du berätta hur du har gått till väga. Metodredovisningen ska vara så noggrann att undersökningen i princip kan upprepas och kontrolleras.
+Resultat
+När du har kommit så långt att du har formulerat syfte, samlat material, utfört experiment och valt undersökningsmetod är det dags att analysera materialet. Därefter presenterar du resultatet av din analys i skriftlig form. Du redovisar för de data som du sammanställt och analyserat på ett tydligt och lättbegripligt sätt. Resultaten presenteras som löpande text, men använd gärna tabeller, diagram, bilder, citat eller andra illustrationer för att poängtera det viktiga.
+Du ska sträva efter att presentera ditt resultat så objektivt som möjligt; subjektiva tolkningar och reflektioner hör inte hemma här. Det betyder att jagform inte ska förekomma i de kapitel som utgör resultatredovisningen.
+Diskussion
+I diskussionen sammanfattas resultaten. Här ska du själv kritiskt granska och diskutera dina resultat och dra slutsatser utgående från den teori och de källor du valt. Nu kan du gärna träda fram i texten genom att skriva i jagform.
+I diskussionsavsnittet bör du besvara de frågeställningar du presenterade i introduktionen eller diskutera om din hypotes höll. Du går alltså tillbaka till introduktionen och kollar om dina resultat svarar mot ditt syfte. Om dessa två inte korrelerar kan du ännu formulera om ditt syfte – det innebär inte att du fuskar utan att du accepterar att skrivarbetet är en process.
+Här förväntas du utvärdera ditt arbete och din egen text och lyfta fram eventuella brister. Dels visar det att du är medveten och reflekterande, dels kan det hjälpa andra som undersöker liknande frågor att välja en annan metod. Avslutningsvis kan du lyfta fram vad du tycker blev obesvarat och vad som kunde vara intressant för kommande skribenter att fokusera på.
+Källförteckning
+Källförteckningen skrivs på en ny sida efter sista kapitlet i brödtexten. Rubriken för källförteckningen är Källor och skrivs med rubriknivå 1. Det här kapitlet numreras inte men sidnumreringen fortsätter. I referensguiden för APA 7 ser du hur källorna ska skrivas, vilka uppgifter som ska finnas med, vilka delar som ska kursiveras, var du placeras punkter och hur du anger webbadresser.
+Källförteckningen ska vara i alfabetisk ordning enligt författarnas efternamn eller annat uppslagsord ifall det inte finns ett författarnamn. Uppslagsord är efternamnet, organisationsnamnet eller källans rubrik som du skriver i källhänvisningsparentesen. Det som står i parentesen i brödtexten måste alltså korrelera med det som står först i den alfabetiska källförteckningen, annars är det omöjligt för läsaren att veta vilken källhänvisningsparentes som hör ihop med vilken källa i källförteckningen.
+För att underlätta läsningen och tydligheten i källförteckningen skrivs långa källor så att de har indrag från och med rad två. Radavståndet i källorna är 1 och mellan källorna lämnar du en tom rad. Se exempel på en källförteckning i skrivmallen.
+Använd Karolinska Institutets Referensguide för APA 7 Extern länk.
+Bilagor
+I vetenskapliga texter ingår ibland bilagor. Det kan vara fråga om frågeformulär, följebrev, intervjufrågor eller utskrifter av intervjuer. Det kan också vara sammanställningar av dina resultat i form av tabeller eller figurer som inte passar in i den egentliga texten.
+Bilagorna räknas inte som kapitel och ska inte ha något kapitelnummer, utan de följer en egen nummerserie (Bilaga 1, 2 osv.) och förses med rubrik. Lista bilagorna med nummer och rubrik i innehållsförteckningen. De ingår inte i arbetets löpande sidnumrering. Består en bilaga av flera sidor ska sidorna numreras genom att ange t.ex. “Bilaga 1/1(3)”, varvid man avser den första sidan av tre i bilaga 1.
+Specialsidor i lärdomsprovet
+Förutom huvudtexten ska ditt lärdomsprov innehålla ett antal specialsidor. Titelsidan, presentationsblad på svenska och engelska, innehållsförteckningen och källförteckningen är obligatoriska. Använd Arcadas skrivmall.
+Titelsida 
+Titelsidan är pärmen. På titelsidan anger du rubriken på ditt lärdomsprov, ditt namn, din utbildning och årtalet. Titelsidan räknas som nummer ett i sidnumreringen, men sidnumret skrivs inte ut förrän brödtexten börjar.
+Presentationssida, Documentation page och Tiivistelmäsivu 
+Presentationssidan innehåller uppgifter om ditt lärdomsprov och ett sammandrag av innehållet. Huvudregeln är att du skriver ditt lärdomsprov på utbildningsprogrammets språk. Du ska alltid skriva ett sammandrag av lärdomsprovet på Arcadas båda utbildningsspråk; svenska och engelska. I undantagsfall kan lärdomsprovet skrivas på ett annat språk än examensspråket, t.ex. ifall du deltar i ett projekt som genomförs på ett annat språk och akademichefen har beviljat dig tillstånd att göra det. Ifall lärdomsprovet skrivs på annat än utbildningens språk ska en längre sammanfattning av arbetet skrivas på utbildningens språk.
+Sammandrag
+Sammandraget skrivs på svenska och engelska. Om du skriver på finska eller för en finsk publik eller beställare ska du också skriva på finska. En del lärdomsprov innehåller alltså sammandrag på tre språk.
+Sammandrag kallas också abstrakt. Sammandraget ger läsaren en kort beskrivning av vad lärdomsprovet handlar om. Du kan jämföra sammandraget med baksidestexten på en bok: läsaren får en uppfattning om innehållet. Sammandraget är tillsammans med titeln den del av arbetet som genast syns på nätet. Detta är den mest lästa delen och fungerar som ditt visitkort. I sammandraget redogör du för ditt syfte och för dina frågeställningar och/eller hypoteser. Du berättar vad ditt arbete handlar om, beskriver den metod du använde och vad ditt material bestod av. Till sist redogör du för dina viktigaste slutsatser. Sammandraget placeras alltså först i arbetet, men du skriver det alltid sist. Sammandraget ska vara kort och brukar skrivas i ett enda stycke. Sammandraget är 200–300 ord.
+Nyckelord
+På presentationsbladet sammanfattas arbetet också i 4–8 nyckelord, som också kommer att matas in i Theseus. För att det ska vara möjligt att hitta ditt lärdomsprov är det därför viktigt att du väljer nyckelorden från Finto - den finländska tesaurus- och ontologiservicen. Finto hittar du via Arcadas biblioteks Libguides under rubriken Uppslagsverk och tesaurer. I Finto finns också Allärs- allmän tesaurus på svenska. I Allärs kan du söka inom ditt eget ämnesområde genom att välja "Gruppindex". Där finns nyckelorden samlade ämnesvis, t.ex. under elteknik, datateknik, medicin, sociologi, ekonomi, turism. För arbeten inom hälsovetenskaper kan du också använda Karolinska Institutets tesaurus Svensk MeSH. Använd inga förkortningar som nyckelord. Du kan istället använda en term som beskriver branschen.
+Lärdomsprov på annat språk än utbildningens språk
+Längre sammanfattning i lärdomsprovet på utbildningens språk 
+I regel skriver man lärdomsprovet på utbildningsprogrammets språk. Till lärdomsprovet hör ett kort sammandrag (abstrakt) på 200–300 ord i början av texten. Det ska vara skrivet på svenska och engelska, alltså Arcadas utbildningsspråk.
+Lärdomsprovet kan i undantagsfall skrivas på ett annat språk än utbildningsprogrammets språk om akademichefen har beviljat tillstånd till det, t.ex. ifall man deltar i ett projekt som genomförs på ett annat språk. I sådana fall ska därtill en längre sammanfattning av arbetet skrivas på utbildningsprogrammets språk. Den längre sammanfattningens omfattning ska vara ungefär 10 % (cirka 5 sidor) av lärdomsprovet och placeras i slutet av arbetet, före källförteckningen. I innehållsförteckningen ska det också tydligt framgå att det finns en längre sammanfattning på examensspråket i arbetet.
+
+Förklaring på klarspråk
+I klarspråk betyder det här t.ex. att du studerar på svenska på ett svenskspråkigt utbildningsprogram men har fått tillstånd av akademichefen att skriva ditt lärdomsprov på finska eller engelska. I så fall ska du utöver ditt lärdomsprov också skriva en längre sammanfattning på svenska av hela lärdomsprovet. Den här sammanfattningen finns med som ett sista kapitel i ditt lärdomsprov. Om du studerar på engelska men har fått tillstånd att skriva lärdomsprov på finska eller svenska ska det på motsvarande sätt ingå en längre sammanfattning på engelska i ditt lärdomsprov.
+
+Varför skriver man en längre sammanfattning på utbildningsprogrammets språk? 
+Syftet med att skriva en längre sammanfattning på utbildningens språk är att du ska visa att du kan uttrycka dig sakkunnigt i ett ämne inom din bransch. Syftet är också att personer som är intresserade av den här utbildningen och forskning inom det här området kan läsa om din forskning på utbildningens språk.
+Rekommendationen är att den längre sammanfattningen utgör ungefär 10 % av hela lärdomsprovets omfattning. Den längre sammanfattningen är med andra ord ett referat av ditt lärdomsprov. Den längre sammanfattningen ska ge en tydlig och enhetlig bild av hela lärdomsprovet; syfte, forskningsfråga, bakgrund, teori, metod, samt resultat och analys.
+Den längre sammanfattningen ska ha samma struktur som ditt lärdomsprov. Använd gärna samma huvudrubriker. När man skriver ett referat av den här typen är det viktigt att kärnbudskapet i varje kapitel återges i sammanfattningen. Du kan med andra ord inte översätta enstaka meningar i ditt lärdomsprov, utan du behöver analysera din egen text och med nya ord sammanfatta kärnbudskapet på svenska (/engelska). Eftersom olika språk fungerar på olika sätt i text går det inte att översätta några stycken ord för ord, utan du behöver bearbeta texten enligt de krav och normer ifrågavarande språk följer.
+Den längre sammanfattningen är en del av ditt lärdomsprov och ska ingå som sista kapitel i arbetet. Det här betyder att den längre sammanfattningen ska vara färdig i god tid innan du presenterar ditt arbete. Planera alltså din tidtabell så att du har gott om tid att skriva en bra sammanfattning som tydligt och klart och på ett gott språk presenterar ditt lärdomsprov. Tänk på att sammanfattningen förutom ämneskunskapen ska visa din kompetens i att skriva akademisk text på svenska (/engelska). Det är en god idé att i ett tidigt skede komma till Skrivverkstaden för att få handledning i skrivprocessen, det kan vara utmanande att skriva på ett annat språk trots att man behärskar själva ämnet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

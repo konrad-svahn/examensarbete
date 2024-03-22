@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hemkatalogen & Intra-mappen | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Hemkatalogen & Intra-mappen
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Nedan ser du inställningar för hemkatalogen och Intra-mappen.
+
+Se till att du har en fungerande VPN-tunnel. Sitter du vid en klassrumsdator behöver du ingen VPN-tunnel.
+Se hemkatalogen (H) i Filhanteraren
+Öppna Filhanteraren genom att trycka på Windows-tangenten + E eller genom att klicka på Start Menyn och klicka på Filhenterarens ikon.
+För att kontakta till din H enhet, klicka i adressfältet högst upp i Filhanteraren och skriv in följande:
+\\domus.sad.arcada.fi
+Tryck Enter. I rutan som dyker upp, i fältet för Username så skriver du ditt användarnamn så som sad\username och sedan ditt Arcada lösenord i fältet för Password. Markera rutan för Remember your Credentials och klicka på OK.
+Ett nytt fönster öppnas i Filhanteraren med användarnamn som namn. Du kan höger-klicka på den mappen och välja Map Network Drive. Se till att Drive Letter som är angiven är H: och klicka på Finish. Din H är nu mappad.
+Intran
+Ifall du vill komma åt Arcadas Intra-filserver, klicka i adressfältet högst upp i Filhanteraren och skriv in följande:
+\\atrium.sad.arcada.fi
+Tryck Enter. I rutan som dyker upp, i fältet för Username så skriver du ditt användarnamn så som sad\username och sedan ditt Arcada lösenord i fältet för Password. Markera rutan för Remember your Credentials och klicka på OK.
+Ett nytt fönster öppnas i Filhanteraren med användarnamn som namn. Du kan höger-klicka på den mappen och välja Map Network Drive. Se till att Drive Letter som är angiven är I: och klicka på Finish. Din I är nu mappad.
+Editering på distans
+När du nu dubbelklickar på filer öppnas de i rätt program (t.ex. Word), och när du stänger programmet borde den editerade filen laddas upp tillbaka till servern.
+På en Mac
+Se hemkatalogen (H) i Finder
+Öppna Finder och tryck på Command + kI Fältet under Connect to server skriv smb://domus.sad.arcada.fi och klicka Connect.Se att Registered User är vald och ange ditt användarnamn och ditt lösenord och tryck Enter.I Finder hittar du nu domus
+Intran:
+Öppna Finder och tryck på Command + kI Fältet för server skriv smb://atrium.sad.arcada.fi och tryck Enter.Ange ditt användarnamn och ditt lösenord och tryck Enter.I Finder hittar du nu atrium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

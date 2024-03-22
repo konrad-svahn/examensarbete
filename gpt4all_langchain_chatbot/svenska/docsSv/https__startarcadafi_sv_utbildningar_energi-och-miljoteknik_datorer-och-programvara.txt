@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datorer och programvara | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Datorer och programvara
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Här hittar du information om datorer och programvaror som du behöver under dina studier i utbildningen Energi- och miljöteknik eller Process- och materialteknik. 
+
+Arcadas datorsalar hittar du i block D3, E3 och F3 samt biblioteket. Du får fritt använda datorsalarna när utrymmena inte är bokade för undervisning.
+Du hittar en lista av datorprogram i datasalarna på sidan Programvara i datasalarna.
+Du kan även logga in på Arcadas datorer och använda programvara i datasalar på distans genom remote desktop connection. Mer information finns här: VPN tunnel med SecurePoint
+Mer information och kontaktuppgifter till IT-support som hjälper dig med alla dina IT-relaterade frågor finns under IT-support.
+Egen dator och programvaror
+Vi rekommenderar att studenter på institutionen för energi- och materialteknik har egen dator för sina studier. Det är ändå bara en rekommendation och det är möjligt att avlägga studier även utan sin egen dator.
+På sidan Programvara  hittar du program som du kan installera på din egen dator gratis eller till studentpris.
+Ifall du ska skaffa en ny dator rekommenderar institutionen följande:
+
+en bärbar dator som kör Windows 10. (En del av program som används under studierna fungerar inte på Mac.)
+RAM 8GB (avancerad användning av Solidworks kräver mer minne).
+Graphics card: DirectX 11 och OpenGL 4 (or above)
+Batteritid: Min. 4 timmar
+WLAN standard 802.11ac (Wi-Fi 5) eller bättre
+Full HD-skärm
+
+
+
+
+
+
+IT-stöd 
+
+IT-support hjälper dig med alla dina IT-relaterade frågor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

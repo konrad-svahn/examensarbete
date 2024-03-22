@@ -1,0 +1,163 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kompetenser | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Kompetenser
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Arcadas studieplaner (från och med 2021) består av moduler som definierar de kompetenser, som du behöver erhålla för att kunna utexamineras. Under studier utvecklar du både allmänna kompetenser och professionspecifika kompetenser. 
+
+Allmänna kompetenser
+Du kan läsa mer om allmänna kompetenser på den här sidan.
+Professionspecifika kompetenser (studieplan 2021-2024)
+Naturvetenskapliga kompetens
+(Enligt rekommendationer av SEFI & EUR-ACE)
+Kunskap (förstå)
+Du harkunskap i matematik samt fysik och även grundläggande programmering.
+Färdigheter (göra)
+Oberoende av profilen behöver alla ingenjörer matematik för att utföra kalkyler vid planering och dimensionering av olika tekniska anordningar. Goda kunskaper i matematik är en förutsättning för att kunna följa med utveckling och forskning inom den egna branschen. Även kommunikation med kolleger i branschen underlättas av att man har matematiken och programmeringen som ett gemensamt språk.
+Förhållningssätt (vara)
+Du förstår skillnaden mellan en matematisk-naturvetenskaplig modell av ett fysikaliskt fenomen och själva fenomenenet. Du värdesätter det stora arbetet forskare utfört och som nu ligger till grund för den enorma matematisk-naturvetenskapliga kunskapen mänskligheten har idag. Du inser vikten av en stark matematisk-fysikalisk bakgrund för att underlätta förståelsen av senare professionella studier. Du inser att programmering och maskininlärning är två synnerligen kraftfulla verktyg som kan hjälpa dig att lösa problem som omöjligt kan lösas manuellt.
+Kompetens i hållbar planering
+Kunskap (förstå)
+Du har forskningsbaserad kunskap om de tre största globala utmaningarna, det vill säga klimatförändringen, den krympande biologiska mångfalden och människans överkonsumtion av naturresurser. Du inser att vår nuvarande konsumtion av varor och tjänster är ohållbar på sikt och att mänskligheten måste bli av med beroendet av fossila bränslen och råvaror inom en relativt kort tidsperiod. Du känner till cirkulär ekonomin i princip och känner till analysmetoder som livcykelsanalys. Du känner till miljöledningssystem.
+Färdigheter (göra)
+Du använder din kunskap om fossilfria och miljövänliga design, metoder och val. Du jobbar för att minimera material- och energianvändningen i nya och befintliga tekniska system. Du använder analysmetoder som livscykelanalys för evidensbaserad beslutsfattning om tekniska-ekonomiska lösningar.
+Förhållningssätt (vara)
+Du drivs av att utföra ett meningsfullt arbete för ett klimatsmart och hållbart samhälle som leder till en bättre livsmiljö för alla levande varelser.
+Kompetens i teknisk modellering
+Kunskap (förstå)
+Du känner till digitala metoder och verktyg förmätningar och analys, teknisk ritning och 3D-modellering.
+Färdigheter (göra)
+Du använder digitala metoder och verktyg som mätteknik- och analys, teknisk ritning och 3D-modellering för evidensbaserad beslutsfattning om tekniska lösningar.
+Förhållningssätt (vara)
+Du kan utnyttja möjligheterna som digitala metoder, och 3D-modellering, erbjuder för att stöda utvecklingen för hållbart liv och ett kolneutralt samhälle.
+Kompetens i elteknikens grunder (i profilen Elteknik och förnybar energi)
+Kunskap (förstå)
+Du har kunskap om grundläggande ellära på ingenjörsnivå. Du känner till likströms- och växelströmsteori samt magnetism. Du har också kunskap om konstruktionen och funktionsprincipen för vanliga elektriska anordningar. Du känner till principerna för hur el kan överföras och uppbyggnaden av det nationella elnätet i Finland. Du känner till elsäkerhetsföreskrifterna.
+Färdigheter (göra)
+Du kan utföra eltekniska kalkyler som grundar sig på elektrotekniska teorier för att planera, konstruera och underhålla elektriska anordningar.
+Förhållningssätt (vara)
+Du jobbar för ett koldioxidneutralt samhälle. Du prioriterar alltid säkerheten och är medveten om faror med elanläggningar.
+Kompetens i förnybar energi (i profilen Elteknik och förnybar energi och Smarta energisystem)
+Kunskap (förstå)
+Du känner till samhällets energiförsörjningssystem. Du har kunskap om såväl fossila som fossilfria energiproduktionsmetoder. Du har kännedom om konstruktion och funktionsprincip för vanliga energitekniska anläggningar och anordningar.
+Färdigheter (göra)
+Du kan använda dina kunskaper om energitekniska omvandlingar vid planering och dimensionering av energitekniska anläggningar för produktion, distribution och konsumtion av energi.
+Förhållningssätt (vara)
+Du jobbar mot ett koldioxidneutralt samhälle och strävar alltid efter att minimera anläggningarnas miljöpåverkan.
+Kompetens i elteknik (i profilen Elteknik och förnybar energi)
+Kunskap (förstå)
+Du kan utföra elplanering och du har efter avslutade studier rätt att ansöka om elbehörighet (kompetenskrav SETI elbehörighet 2).
+Färdigheter (göra)
+Du kan planera elförsörjningen för industrier och fastigheter enligt myndigheters anvisningar och riktlinjer för god elplanering.
+Förhållningssätt (vara)
+Du arbetar för ett koldioxidneutralt samhälle.
+Kompetens i automationsteknik (i profilen Digitala system och automationsteknik)
+Kunskap (förstå)
+Du förstår olika delkomponenters uppbyggnad och funktionalitet inom automationsteknik.
+Färdigheter (göra)
+Du kan konstruera och upprätthålla automationssystem främst inom energi- och miljöteknik.
+Förhållningssätt (vara)
+Du arbetar för ett koldioxidneutralt samhälle som utnyttjar automatiseringens möjligheter.
+Kompetens i digitala system (i profilen Digitala system och automationsteknik och Smarta energisystem)
+Kunskap (förstå)
+Du förstår uppbyggnaden hos smarta system.
+Färdigheter (göra)
+Du kan konstruera och upprätthålla smarta system främst för energisystem.
+Förhållningssätt (vara)
+Du arbetar för ett koldioxidneutralt samhälle som utnyttjar digitaliseringens möjligheter. Du förstår smarta systems möjligheter och risker (etik).
+Kompetens i tillämpade digitala system / automationsteknik (i profilen Digitala system och automationsteknik)
+Kunskap (förstå)
+Du förstår uppbyggnaden och valet av en lämplig projektledningsmetod.
+Färdigheter (göra)
+Du kan i ett team tillämpa och fördjupa dina kunskaper i digitala system / automationsteknik. Du kan tillämpa olika projektledningsmetoder.
+Förhållningssätt (vara)
+Du kan utnyttja möjligheterna som digitala smarta metoder och automationsteknik erbjuder för att stöda utvecklingen för hållbart liv och ett kolneutralt samhälle.
+Kompetens i smarta energisystem (i profilen smarta energisystem)
+Kunskap (förstå)
+Du förstår uppbyggnaden och valet av en lämplig projektledningsmetod.
+Färdigheter (göra)
+Du kan i ett team tillämpa och fördjupa dina kunskaper i smarta energisystem. Du kan tillämpa olika projekt-ledningsmetoder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

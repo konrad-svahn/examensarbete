@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Riktlinjer för AI-stödda verktyg | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Riktlinjer för AI-stödda verktyg
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Arcada har som mål att ligga i framkant inom ny teknik och smarta lösningar. I linje med detta uppmuntrar vi alla våra medarbetare och studenter att ansvarsfullt ta i bruk och använda AI-stödda verktyg. Högskolans riktlinjer omfattar olika typer av AI-stödda verktyg och begreppet ska tolkas i bred bemärkelse (verktyg för t.ex. bild, video, programmering, matematik och text). Alla dessa verktyg medför möjligheter, men har också betydande begränsningar. Med stöd i dessa riktlinjer ska högskolan kunna leva upp till en etisk och genomtänkt användning av AI-stödda verktyg inom all verksamhet. Riktlinjerna anpassas då verktygen utvecklas.
+
+Som grund för högskolans egna riktlinjer ligger rektorsrådet Arene:s rekommendationer för utnyttjande av artificiell intelligens Extern länk.
+Allmänna riktlinjer
+Grundläggande principer för användningen av alla AI-stödda verktyg är:
+
+uppriktighet och transparens
+människa-AI-människa
+att iaktta dataskyddsbestämmelser
+att göra en etisk bedömning
+
+Notera att om du skapar en användarprofil med ditt Arcada-konto får det enbart användas för studier och arbete med koppling till Arcada.
+Beakta upphovsrätt
+Använd enbart material som du har upphovsrätt till då du utnyttjar verktygen. Ladda inte upp t.ex. en hel artikel eller annat material som du inte själv producerat.
+Beakta dataskydd och konfidentialitet
+
+Material som är konfidentiellt och/eller innehåller personuppgifter får aldrig föras in i AI-stödda verktyg. En text med konfidentiellt innehåll eller som innehåller personuppgifter får t.ex. aldrig översättas med gratistjänster.
+Gratisversioner av AI-stödda verktyg kan inte garantera tillräckligt dataskydd.
+Använd alltid s.k. inkognito-inställning då det finns tillgängligt. Då sparas inte dina frågor eller data.
+
+Riktlinjer för studenten
+Följ alltid de anvisningar som ges för det specifika studieavsnittet
+
+Det finns studieavsnitt där utnyttjandet av AI-stödda verktyg uppmuntras och andra där du förväntas utföra uppgifter utan dem. Följ noga de anvisningar som ges.
+Då du utnyttjar AI-stödda verktyg ska du vara öppen med det. Källhänvisning till AI bör alltid finnas med när dessa används. Om du inte uppger din källa kan det likställas med plagiat eller fusk. Följ anvisningarna i Arcadas skrivguide.
+
+Ansvarfull användning av AI-stödda verktyg är tillåtet då det är uttalat i uppgiftsbeskrivning
+
+Språkmodeller kan användas för språkbehandling. Lär känna språkmodeller som t.ex. Chat GPT och sätt dig in i hur de används effektivt. Lär dig förstå också verktygets begränsningar.
+Var nyfiken på andra AI-stödda verktyg som är centrala för din bransch. Varje modell har ett eget syfte.
+
+Du ansvarar alltid för innehållet i de uppgifter du lämnar in
+
+Då du jobbar med textuppgifter är AI-stödda verktyg (t.ex. Grammarly) ett bra stöd för att skapa grammatiskt korrekta eller strukturellt smidiga texter.
+Notera att en utmaning med AI-stödda verktyg är att de kan producera text som verkar korrekt, men som innehåller felaktigheter eller till och med inkonsekvenser.
+Ett AI-stött verktyg, t.ex. en språkmodell som Chat GPT, kan användas för att formatera befintlig text eller för att hämta idéer till självskriven text.
+Ett AI-stött verktyg, t.ex. en språkmodell, ska aldrig användas för att producera en slutlig uppgifts- eller lärdomsprovsrapport från grunden, och sådan text som skapats med en språkmodell får inte presenteras som ditt eget arbete.
+
+
+
+
+ 
+Riktlinjer för AI-stödda verktyg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

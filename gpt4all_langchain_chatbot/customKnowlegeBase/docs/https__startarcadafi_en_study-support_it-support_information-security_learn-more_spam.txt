@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spam | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Spam
+
+
+
+ 
+
+
+
+
+
+
+
+
+For teachers who have problems with spam in their Outlook
+
+Outlook junk settings External link
+Outlook junk settings (step by step) External link
+
+Identifying spam
+
+Don't trust the sender name, check if you recognize the sender's address
+The message contains special characters to mislead the spam filters. ”Sensattional revolution in meedicine! Clisk h`ere”
+The subject starts with RE as if it's a reply to a previous message
+The message contains attachments, e.g. .html or.js
+The message starts with the phrase ”This is not spam”
+
+Tips for managing spam
+
+Do not reply to the sender, that will only verify that your email address is actually being read by someone. You will likely get more spam if you reply.
+Spam messages often will let you opt out from the mailinglist, this function often just verifies that your email address is legit.
+Look but don't click: Do not open links, pictures or attachments from the email.
+Be vary about all kinds of offers. If it's too good to be true, it probably is.
+
+Read more: https://blog.returnpath.com/10-tips-on-how-to-identify-a-phishing-or-sp… External link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

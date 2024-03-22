@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules for IT Service use | Start
+
+
+
+
+
+
+
+
+  Skip to main content
+
+
+
+
+
+
+
+
+
+
+Rules for IT Service use
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Arcada University of Applied Sciences - Rules for IT Service Use
+In addition to these rules, users are also expected to comply to Arcada’s information security policy and mail policy. 
+1. Scope 
+The concept of IT services refers to all information systems, information services, hardware and software provided by Arcada University of Applied Sciences (Arcada), including services made available by or authorised by Arcada. The Rules for IT Service Use apply to all use of Arcada’s IT services. 
+2. Usage authorization and user account 
+2.1 Usage authorization 
+Usage authorisation refers to the user’s authority to use a particular service. Usage authorisation is verified each time the service is used. 
+The scope of usage authorisation basically depends on each user's work position and role and additionally, a user may be granted individual authorisation by the owner of the particular service. The authorisation for different services may have an expiry date and may change as the user’s work position and/or role changes. 
+2.2 User ID 
+Unless a service is intended for public use, the user must be identified reliably to ensure appropriate usage authorisation. For this purpose, Arcada applies authentication based on a username and a password. 
+Compliance with these Rules for IT Service Use and Arcada’s information security policy is a prerequisite for receiving a user ID. 
+2.3 Personal responsibility for the user ID 
+Each user ID must be protected using a strong password. If there is reason to believe that a password has ended up in wrong hands, the password must be changed immediately. 
+A user ID and its password may never be handed over to another person. 
+Each user is personally responsible for all actions conducted using his/her user ID. The responsibility also applies to situations where the user ID is used by another person, regardless how the other person has come over the necessary information. 
+The use of another person's user ID is prohibited, also upon the user's own request. 
+2.4 Expiry of usage authorisation 
+All usage authorisations expire when the person is no longer a member of the university community. 
+An individual usage authorisation expires when 
+
+
+the granted fixed term for usage authorisation expires or 
+
+
+the person's work position and/or role changes, and the new position/role does not include eligibility to use a particular IT service. 
+
+
+Prior to authorisation expiry, each user must save and/or transfer such private e-mail messages and files that s/he wishes to use after authorisation expiry. Arcada staff members must transfer all work-related messages and files to the person agreed upon with the supervisor. This also applies to students who have participated in research projects or similar projects, activities or productions. 
+When the employment or study right terminates, the user must uninstall any software based on licenses associated to the user authorization from their home computers. 
+3. Users' rights and responsibilities 
+3.1 IT services for work- and study-related use 
+Arcada’s IT services are intended for tasks related to studying and working at Arcada. Using Arcada’s IT-services for publishing, forwarding or distributing material against the law or against good practice is prohibited. 
+Usage authorisations must not be used for any illegal or forbidden activities, such as searching for vulnerabilities, unauthorised decryption of data, copying or modifying network communications, or unauthorised access to IT services. 
+Parts and features of IT services that are not expressly made available for public use – such as system administration tools or functions prevented in system settings – must not be used. 
+3.2 Personal responsibility for information security 
+Each user is responsible for her/his personal information security but also for contributing to Arcada’s information security. 
+Any detected or suspected breaches or vulnerabilities in information security must be immediately reported to the IT unit (E-mail: it-support@arcada.fi). 
+Personal passwords must never be disclosed to anyone. 
+Each user is obliged to maintain the secrecy of any confidential information that has come to her/his knowledge. 
+The phishing, abuse, copying and distribution of other users' private information is prohibited. 
+Arcada is entitled to restrict or revoke a user’s access to its IT services in case of obvious misconduct but also as a precaution, e.g. in case of suspected misconduct. 
+3.3 User privacy 
+In principle, all material in a user's possession is deemed to be private. 
+Staff members must clearly separate their private materials from work-related ones (also see the mail policy). This rule also applies to students working for Arcada. 
+3.4 Use of the communications network 
+Arcada's communications network is basically intended to connect Arcada’s IT equipment and mobile devices used by Arcada staff and students. 
+Arcada has the right to restrict which devices are allowed to connect to its communications network. Usage can be restricted by technical or instructive means. The user is responsible for damage caused by poorly updated or outdated equipment. 
+A user may not use Arcada’s network for providing IT services without Arcada’s permission. 
+4. Other provisions 
+4.1 Exceptions from the Rules for Use 
+After recommendation by the Head of IT, the Rector may grant permission for exceptions from the Rules for Use, for compelling reasons and upon a written application only. The Head of IT may grant permits for minor exceptions. The permit may include additional terms and conditions, restrictions and responsibilities. 
+4.2 Monitoring and consequences of misconduct 
+The IT Unit and the owners of IT services are responsible for monitoring compliance with the Rules for Use for their respective systems and services. As part of their managerial responsibilities, supervisors are responsible for monitoring their units regarding compliance with the Rules for Use. 
+The consequences of misconduct to the Rules for Use are decided upon by the Rector in co-operation with the Head of IT. The consequences can be disciplinary or legal, and determined based upon the Criminal Code, the Employment Contracts Act, the Universities of Applied Sciences Act, Arcada’s instructions, or provisions based on them. 
+4.3 Validity 
+These Rules for IT Service Use have been composed by the Head of IT at Arcada. The rules become effective on 16.8.2017 and replace all earlier version of any corresponding rules. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

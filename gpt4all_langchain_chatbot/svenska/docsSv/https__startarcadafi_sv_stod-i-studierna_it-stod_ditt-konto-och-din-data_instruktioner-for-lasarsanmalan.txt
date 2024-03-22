@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instruktioner för läsårsanmälan | Start
+
+
+
+
+
+
+
+
+  Hoppa till huvudinnehåll
+
+
+
+
+
+
+
+
+
+
+Instruktioner för läsårsanmälan
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Instruktioner
+
+Studenter som inte gör läsårsanmälan förlorar sin studierätt och sitt IT-konto. Läs mer.
+1. Gå till https://www.arcada.fi/sv/anmalan Extern länk Du blir skickad till Haka-login sidan.
+2. Välj Arcada och tryck på “Select”.
+3. Logga in med ditt Arcada användarnamn och lösenord.
+4. Systemet frågar om du godkänner att Arcada skickar din information vidare så du kan logga in på OILI. Notera att OILI behöver tillgång till din personbeteckning för att uppgifter om din studierätt skall kunna hämtas från den nationella tjänsten VIRTA. Välj godkänn för att fortsätta. Du blir skickad till OILI.
+5. Kolla att din information är korrekt. Välj gör terminsanmälan.
+6. Fälten för din adress är tills vidare tomma. Längst nere på sidan välj närvarande eller frånvarande för terminerna och tryck på “Skicka anmälan”.
+7. OILI meddelar att anmälan är mottagen. Du kan logga ut från OILI eller gå tillbaka till startsidan. Kom ihåg att stänga webbläsaren när du är klar!
+Kontakta E-post: studiearenden@arcada.fi om du inte kan anmäla dig i OILI eller har andra frågor om läsårsanmälan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
