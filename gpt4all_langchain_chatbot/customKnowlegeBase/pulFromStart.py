@@ -1,30 +1,16 @@
-import re
-import requests
+import re, requests
 from bs4 import BeautifulSoup as bs
 
 siteMap = requests.get("https://start.arcada.fi/en/sitemap.xml")
-soupMap = bs(siteMap.text,"html.parser")
-links = soupMap.findAll("loc")
+links = bs(siteMap.text, "html.parser").findAll("loc")
 
 for protoLink in links:
-  protoLink2 = re.split("<loc>", str(protoLink))[1]
-  link = re.split("</loc>", protoLink2)[0]
+  link = link.getText()
   res = requests.get(link)
 
   if (res.status_code == 200):
-    soup = bs(res.text,"html.parser")
-
-    for toolBar in soup.findAll("div", {"class":"toolbar"}):
-        toolBar.decompose()
-
-    for navigation in soup.findAll("nav"):
-        navigation.decompose()
-
-    name = link.replace("/", "_")
-    name = name.replace(".", "")
-    name = name + ".txt"
-
-    file = open("./docs/" + name , "w")
-    file.write(soup.get_text())
-    file.close()
-    print("Created file: "+name)
+      text = re.sub(r'\n+', '\n', bs(res.text, "html.parser").find("article").getText())
+      name = link.replace("https://start.arcada.fi/", "").replace("/", "_") + ".txt"
+      with open("docs/" + name , "w") as f:
+          f.write(text)
+      print("Created file: "+name)
